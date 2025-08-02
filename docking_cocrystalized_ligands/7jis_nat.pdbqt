@@ -1,0 +1,57 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_4  and  C7_5 
+REMARK    2  A    between atoms: C16_10  and  C17_11 
+REMARK    3  A    between atoms: C17_11  and  C18_12 
+REMARK    4  A    between atoms: C35_20  and  N25_30 
+REMARK    5  A    between atoms: C26_31  and  C28_33 
+ROOT
+ATOM      1  C1  VBS d   1      36.678  14.205  33.344  0.00  0.00     0.134 A 
+ATOM      2  C2  VBS d   1      35.759  15.145  32.839  0.00  0.00     0.165 A 
+ATOM      3  C4  VBS d   1      36.951  16.869  33.763  0.00  0.00     0.224 A 
+ATOM      4  C6  VBS d   1      37.768  14.719  34.105  0.00  0.00     0.102 A 
+ATOM      5  N3  VBS d   1      35.919  16.440  33.069  0.00  0.00    -0.216 NA
+ATOM      6  N5  VBS d   1      37.852  16.044  34.246  0.00  0.00    -0.233 NA
+ATOM      7  N25 VBS d   1      34.804  14.444  32.161  0.00  0.00    -0.309 N 
+ATOM      8  C26 VBS d   1      35.121  13.112  32.249  0.00  0.00     0.146 A 
+ATOM      9  N27 VBS d   1      36.236  12.978  32.944  0.00  0.00    -0.224 NA
+ENDROOT
+BRANCH   4  10
+ATOM     10  C7  VBS d   1      38.830  13.869  34.728  0.00  0.00     0.003 A 
+ATOM     11  C8  VBS d   1      40.088  14.422  35.059  0.00  0.00     0.016 A 
+ATOM     12  C9  VBS d   1      41.072  13.628  35.613  0.00  0.00    -0.011 A 
+ATOM     13  C16 VBS d   1      42.485  13.912  36.080  0.00  0.00     0.075 A 
+ATOM     14  C10 VBS d   1      40.842  12.285  35.878  0.00  0.00     0.038 A 
+ATOM     15  C24 VBS d   1      42.412  14.955  37.207  0.00  0.00     0.026 C 
+ATOM     16  C14 VBS d   1      42.965  12.571  36.612  0.00  0.00     0.228 A 
+ATOM     17  N13 VBS d   1      41.963  11.699  36.453  0.00  0.00    -0.284 N 
+ATOM     18  O15 VBS d   1      44.047  12.314  37.097  0.00  0.00    -0.275 OA
+ATOM     19  H   VBS d   1      42.014  10.751  36.714  0.00  0.00     0.155 HD
+ATOM     20  C11 VBS d   1      39.601  11.732  35.555  0.00  0.00     0.024 A 
+ATOM     21  C12 VBS d   1      38.605  12.512  35.005  0.00  0.00     0.012 A 
+BRANCH  13  22
+ATOM     22  C17 VBS d   1      43.387  14.481  34.965  0.00  0.00     0.055 C 
+BRANCH  22  23
+ATOM     23  C18 VBS d   1      43.664  13.597  33.762  0.00  0.00    -0.046 A 
+ATOM     24  C19 VBS d   1      42.984  13.815  32.570  0.00  0.00     0.003 A 
+ATOM     25  C20 VBS d   1      43.244  13.027  31.451  0.00  0.00     0.000 A 
+ATOM     26  C21 VBS d   1      44.203  12.024  31.507  0.00  0.00     0.000 A 
+ATOM     27  C22 VBS d   1      44.898  11.812  32.689  0.00  0.00     0.000 A 
+ATOM     28  C23 VBS d   1      44.636  12.603  33.804  0.00  0.00     0.003 A 
+ENDBRANCH  22  23
+ENDBRANCH  13  22
+ENDBRANCH   4  10
+BRANCH   7  29
+ATOM     29  C35 VBS d   1      33.689  15.119  31.502  0.00  0.00     0.122 C 
+ATOM     30  C36 VBS d   1      32.752  15.807  32.500  0.00  0.00     0.027 C 
+ENDBRANCH   7  29
+BRANCH   8  31
+ATOM     31  C28 VBS d   1      34.361  11.997  31.653  0.00  0.00     0.054 A 
+ATOM     32  C33 VBS d   1      35.043  10.971  30.990  0.00  0.00     0.126 A 
+ATOM     33  N32 VBS d   1      34.353   9.983  30.446  0.00  0.00    -0.240 NA
+ATOM     34  C31 VBS d   1      33.027   9.949  30.531  0.00  0.00     0.126 A 
+ATOM     35  C34 VBS d   1      32.294   8.789  29.905  0.00  0.00     0.088 C 
+ATOM     36  N30 VBS d   1      32.335  10.896  31.153  0.00  0.00    -0.240 NA
+ATOM     37  C29 VBS d   1      32.957  11.924  31.718  0.00  0.00     0.126 A 
+ENDBRANCH   8  31
+TORSDOF 5

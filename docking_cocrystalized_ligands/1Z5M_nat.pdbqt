@@ -1,0 +1,82 @@
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  N25_25 
+REMARK    2  A    between atoms: C4_5  and  N8_10 
+REMARK    3  A    between atoms: N8_10  and  C10_11 
+REMARK    4  A    between atoms: C12_13  and  N16_17 
+REMARK       I    between atoms: N16_17  and  C18_18 
+REMARK       I    between atoms: C18_18  and  N20_20 
+REMARK    5  A    between atoms: N25_25  and  C27_26 
+REMARK    6  A    between atoms: C27_26  and  C28_27 
+REMARK    7  A    between atoms: C28_27  and  C33_31 
+REMARK    8  A    between atoms: N29_28  and  C33_31 
+REMARK       I    between atoms: N29_28  and  C31_29 
+REMARK    9  A    between atoms: C31_29  and  C34_32 
+REMARK   10  A    between atoms: C34_32  and  C37_35 
+REMARK       I    between atoms: C37_35  and  N39_37 
+ROOT
+ATOM      1  C1  LI8 A 501      -8.746  43.496  43.496  1.00  0.00     0.071 A 
+ATOM      2  C2  LI8 A 501      -7.390  43.556  43.964  1.00  0.00     0.135 A 
+ATOM      3  N3  LI8 A 501      -6.770  42.383  44.231  1.00  0.00    -0.175 N 
+ATOM      4  H3  LI8 A 501      -5.809  42.410  44.571  1.00  0.00     0.186 HD
+ATOM      5  C4  LI8 A 501      -7.361  41.177  44.069  1.00  0.00     0.684 A 
+ATOM      6  N5  LI8 A 501      -8.625  41.134  43.613  1.00  0.00    -0.200 N 
+ATOM      7  H5  LI8 A 501      -9.068  40.225  43.479  1.00  0.00     0.183 HD
+ATOM      8  C6  LI8 A 501      -9.323  42.238  43.329  1.00  0.00     0.129 A 
+ATOM      9 BR7  LI8 A 501      -9.806  44.989  43.127  1.00  0.00    -0.046 Br
+ENDROOT
+BRANCH   2  10
+ATOM     10  N25 LI8 A 501      -6.737  44.734  44.156  1.00  0.00    -0.375 N 
+ATOM     11  H   LI8 A 501      -7.196  45.556  43.867  1.00  0.00     0.161 HD
+BRANCH  10  12
+ATOM     12  C27 LI8 A 501      -5.441  44.880  44.741  1.00  0.00     0.123 C 
+BRANCH  12  13
+ATOM     13  C28 LI8 A 501      -4.308  44.649  43.719  1.00  0.00     0.039 C 
+BRANCH  13  14
+ATOM     14  C33 LI8 A 501      -4.423  45.514  42.444  1.00  0.00     0.124 C 
+BRANCH  14  15
+ATOM     15  N29 LI8 A 501      -4.685  46.901  42.728  1.00  0.00    -0.360 N 
+ATOM     16  C31 LI8 A 501      -3.842  47.749  43.386  1.00  0.00     0.234 C 
+ATOM     17  O32 LI8 A 501      -2.728  47.280  43.801  1.00  0.00    -0.272 OA
+ATOM     18  H   LI8 A 501      -5.545  47.269  42.422  1.00  0.00     0.162 HD
+BRANCH  16  19
+ATOM     19  C34 LI8 A 501      -4.159  49.233  43.638  1.00  0.00     0.114 C 
+ATOM     20  C36 LI8 A 501      -5.088  49.853  42.527  1.00  0.00     0.035 C 
+ATOM     21  C35 LI8 A 501      -2.822  50.050  43.616  1.00  0.00     0.035 C 
+BRANCH  19  22
+ATOM     22  C37 LI8 A 501      -4.764  49.403  44.987  1.00  0.00     0.232 C 
+ATOM     23  O38 LI8 A 501      -5.837  50.019  45.191  1.00  0.00    -0.272 OA
+ATOM     24  N39 LI8 A 501      -4.180  48.911  46.075  1.00  0.00    -0.369 N 
+ATOM     25  H   LI8 A 501      -3.334  48.414  45.997  1.00  0.00     0.159 HD
+ATOM     26  H   LI8 A 501      -4.594  49.043  46.958  1.00  0.00     0.159 HD
+ENDBRANCH  19  22
+ENDBRANCH  16  19
+ENDBRANCH  14  15
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  10  12
+ENDBRANCH   2  10
+BRANCH   5  27
+ATOM     27  N8  LI8 A 501      -6.768  40.008  44.326  1.00  0.00    -0.192 N 
+ATOM     28  H   LI8 A 501      -7.288  39.210  44.075  1.00  0.00     0.184 HD
+BRANCH  27  29
+ATOM     29  C10 LI8 A 501      -5.572  39.760  44.874  1.00  0.00     0.051 A 
+ATOM     30  C11 LI8 A 501      -4.462  40.667  44.893  1.00  0.00     0.059 A 
+ATOM     31  C12 LI8 A 501      -3.241  40.299  45.507  1.00  0.00     0.038 A 
+ATOM     32  C13 LI8 A 501      -3.141  39.003  46.100  1.00  0.00     0.029 A 
+ATOM     33  C14 LI8 A 501      -4.225  38.102  46.086  1.00  0.00     0.004 A 
+ATOM     34  C15 LI8 A 501      -5.434  38.491  45.478  1.00  0.00     0.030 A 
+BRANCH  31  35
+ATOM     35  N16 LI8 A 501      -2.236  41.205  45.526  1.00  0.00    -0.309 N 
+ATOM     36  C18 LI8 A 501      -0.994  41.096  45.057  1.00  0.00     0.322 C 
+ATOM     37  O19 LI8 A 501      -0.637  40.057  44.464  1.00  0.00    -0.247 OA
+ATOM     38  N20 LI8 A 501      -0.091  42.083  45.245  1.00  0.00    -0.334 N 
+ATOM     39  C24 LI8 A 501       1.275  41.994  44.853  1.00  0.00     0.127 C 
+ATOM     40  C21 LI8 A 501      -0.345  43.305  45.924  1.00  0.00     0.127 C 
+ATOM     41  C23 LI8 A 501       2.017  42.618  46.044  1.00  0.00     0.022 C 
+ATOM     42  C22 LI8 A 501       0.998  43.646  46.620  1.00  0.00     0.022 C 
+ATOM     43  H   LI8 A 501      -2.454  42.068  45.947  1.00  0.00     0.170 HD
+ENDBRANCH  31  35
+ENDBRANCH  27  29
+ENDBRANCH   5  27
+TORSDOF 10

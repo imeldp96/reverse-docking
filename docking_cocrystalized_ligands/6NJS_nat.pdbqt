@@ -1,0 +1,114 @@
+REMARK  13 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C_13 
+REMARK    2  A    between atoms: C5_5  and  C6_6 
+REMARK       I    between atoms: C6_6  and  N1_10 
+REMARK    3  A    between atoms: C7_7  and  N1_10 
+REMARK    4  A    between atoms: C_13  and  P_20 
+REMARK       I    between atoms: N6_24  and  C34_25 
+REMARK    5  A    between atoms: C9_34  and  C10_35 
+REMARK       I    between atoms: C10_35  and  N3_37 
+REMARK    6  A    between atoms: N3_37  and  C11_38 
+REMARK    7  A    between atoms: C11_38  and  C15_44 
+REMARK    8  A    between atoms: C11_38  and  C12_39 
+REMARK    9  A    between atoms: C12_39  and  C13_40 
+REMARK   10  A    between atoms: C13_40  and  C14_41 
+REMARK       I    between atoms: C14_41  and  N4_43 
+REMARK       I    between atoms: C15_44  and  N5_46 
+REMARK   11  A    between atoms: N5_46  and  C16_47 
+REMARK   12  A    between atoms: C16_47  and  C17_54 
+REMARK   13  A    between atoms: C16_47  and  C23_48 
+ROOT
+ATOM      1  C7  KQV A 701      11.687  55.409  -2.558  1.00  0.00     0.195 C 
+ATOM      2  C8  KQV A 701      12.486  55.921  -1.328  1.00  0.00     0.245 C 
+ATOM      3  N2  KQV A 701      13.229  57.192  -1.491  1.00  0.00    -0.332 N 
+ATOM      4  C36 KQV A 701      10.401  56.290  -2.710  1.00  0.00     0.160 C 
+ATOM      5  N6  KQV A 701      10.628  57.428  -3.707  1.00  0.00    -0.350 N 
+ATOM      6  C34 KQV A 701      10.314  57.356  -5.032  1.00  0.00     0.215 C 
+ATOM      7  O6  KQV A 701       9.429  58.054  -5.506  1.00  0.00    -0.274 OA
+ATOM      8  C35 KQV A 701      11.107  56.425  -5.902  1.00  0.00     0.117 C 
+ATOM      9  C33 KQV A 701      11.138  58.691  -3.155  1.00  0.00     0.128 C 
+ATOM     10  C32 KQV A 701      12.635  58.893  -3.270  1.00  0.00     0.045 C 
+ATOM     11  C31 KQV A 701      13.607  57.806  -2.784  1.00  0.00     0.089 C 
+ATOM     12  O7  KQV A 701      12.498  55.304  -0.276  1.00  0.00    -0.271 OA
+ATOM     13  C30 KQV A 701      15.037  58.275  -2.512  1.00  0.00     0.028 C 
+ATOM     14  C29 KQV A 701      15.040  58.605  -1.013  1.00  0.00     0.037 C 
+ATOM     15  C9  KQV A 701      14.166  57.505  -0.409  1.00  0.00     0.179 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  C10 KQV A 701      13.462  57.974   0.861  1.00  0.00     0.241 C 
+ATOM     17  O5  KQV A 701      12.390  58.574   0.806  1.00  0.00    -0.271 OA
+ATOM     18  N3  KQV A 701      14.083  57.663   2.005  1.00  0.00    -0.346 N 
+ATOM     19  H   KQV A 701      14.973  57.245   1.954  1.00  0.00     0.163 HD
+BRANCH  18  20
+ATOM     20  C11 KQV A 701      13.512  57.910   3.319  1.00  0.00     0.177 C 
+BRANCH  20  21
+ATOM     21  C15 KQV A 701      13.576  59.382   3.730  1.00  0.00     0.241 C 
+ATOM     22  N5  KQV A 701      14.511  60.137   3.131  1.00  0.00    -0.347 N 
+ATOM     23  H   KQV A 701      15.037  59.745   2.397  1.00  0.00     0.163 HD
+ATOM     24  O4  KQV A 701      12.802  59.814   4.583  1.00  0.00    -0.271 OA
+BRANCH  22  25
+ATOM     25  C16 KQV A 701      14.778  61.526   3.530  1.00  0.00     0.151 C 
+BRANCH  25  26
+ATOM     26  C17 KQV A 701      14.550  62.520   2.398  1.00  0.00    -0.031 A 
+ATOM     27  C18 KQV A 701      15.401  62.562   1.299  1.00  0.00     0.009 A 
+ATOM     28  C19 KQV A 701      15.233  63.522   0.311  1.00  0.00     0.001 A 
+ATOM     29  C20 KQV A 701      14.207  64.444   0.404  1.00  0.00     0.000 A 
+ATOM     30  C21 KQV A 701      13.349  64.406   1.487  1.00  0.00     0.001 A 
+ATOM     31  C22 KQV A 701      13.518  63.448   2.477  1.00  0.00     0.009 A 
+ENDBRANCH  25  26
+BRANCH  25  32
+ATOM     32  C23 KQV A 701      16.112  61.706   4.248  1.00  0.00    -0.031 A 
+ATOM     33  C28 KQV A 701      16.908  60.611   4.569  1.00  0.00     0.009 A 
+ATOM     34  C27 KQV A 701      18.082  60.777   5.290  1.00  0.00     0.001 A 
+ATOM     35  C26 KQV A 701      18.478  62.038   5.695  1.00  0.00     0.000 A 
+ATOM     36  C25 KQV A 701      17.703  63.135   5.370  1.00  0.00     0.001 A 
+ATOM     37  C24 KQV A 701      16.530  62.971   4.648  1.00  0.00     0.009 A 
+ENDBRANCH  25  32
+ENDBRANCH  22  25
+ENDBRANCH  20  21
+BRANCH  20  38
+ATOM     38  C12 KQV A 701      14.180  57.026   4.375  1.00  0.00     0.044 C 
+BRANCH  38  39
+ATOM     39  C13 KQV A 701      13.836  55.539   4.234  1.00  0.00     0.105 C 
+BRANCH  39  40
+ATOM     40  C14 KQV A 701      14.565  54.625   5.193  1.00  0.00     0.215 C 
+ATOM     41  N4  KQV A 701      14.413  53.326   4.985  1.00  0.00    -0.370 N 
+ATOM     42  H   KQV A 701      13.845  53.009   4.246  1.00  0.00     0.159 HD
+ATOM     43  H   KQV A 701      14.868  52.677   5.569  1.00  0.00     0.159 HD
+ATOM     44  O3  KQV A 701      15.265  55.077   6.103  1.00  0.00    -0.274 OA
+ENDBRANCH  39  40
+ENDBRANCH  38  39
+ENDBRANCH  20  38
+ENDBRANCH  18  20
+ENDBRANCH  15  16
+BRANCH   1  45
+ATOM     45  N1  KQV A 701      11.598  53.957  -2.606  1.00  0.00    -0.341 N 
+ATOM     46  C6  KQV A 701      12.646  53.111  -2.581  1.00  0.00     0.269 C 
+ATOM     47  O8  KQV A 701      13.811  53.463  -2.779  1.00  0.00    -0.266 OA
+ATOM     48  H   KQV A 701      10.698  53.561  -2.661  1.00  0.00     0.163 HD
+BRANCH  46  49
+ATOM     49  C5  KQV A 701      12.317  51.695  -2.286  1.00  0.00     0.102 A 
+ATOM     50  N   KQV A 701      13.249  50.688  -2.130  1.00  0.00    -0.351 N 
+ATOM     51  C4  KQV A 701      12.588  49.516  -1.800  1.00  0.00     0.043 A 
+ATOM     52  H   KQV A 701      14.223  50.787  -2.236  1.00  0.00     0.166 HD
+ATOM     53  C3  KQV A 701      11.211  49.798  -1.750  1.00  0.00    -0.006 A 
+ATOM     54  C38 KQV A 701      13.084  48.242  -1.523  1.00  0.00     0.031 A 
+ATOM     55  C2  KQV A 701      10.333  48.773  -1.402  1.00  0.00     0.027 A 
+ATOM     56  C37 KQV A 701      11.063  51.186  -2.066  1.00  0.00     0.049 A 
+ATOM     57  C1  KQV A 701      10.802  47.499  -1.096  1.00  0.00     0.028 A 
+ATOM     58  C39 KQV A 701      12.176  47.246  -1.174  1.00  0.00     0.016 A 
+BRANCH  57  59
+ATOM     59  C   KQV A 701       9.749  46.491  -0.586  1.00  0.00     0.380 C 
+ATOM     60  F   KQV A 701       8.517  46.810  -1.061  1.00  0.00    -0.185 F 
+ATOM     61  F1  KQV A 701       9.538  46.633   0.742  1.00  0.00    -0.185 F 
+BRANCH  59  62
+ATOM     62  P   KQV A 701      10.157  44.710  -1.040  1.00  0.00     0.339 P 
+ATOM     63  O1  KQV A 701      10.608  44.761  -2.518  1.00  0.00    -0.635 OA
+ATOM     64  O   KQV A 701      11.379  44.353  -0.173  1.00  0.00    -0.635 OA
+ATOM     65  O2  KQV A 701       8.999  43.791  -0.809  1.00  0.00    -0.635 OA
+ENDBRANCH  59  62
+ENDBRANCH  57  59
+ENDBRANCH  46  49
+ENDBRANCH   1  45
+TORSDOF 13

@@ -1,0 +1,70 @@
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  N_26 
+REMARK    2  A    between atoms: C3_3  and  C4_25 
+REMARK    3  A    between atoms: C3_3  and  N_26 
+REMARK    4  A    between atoms: C11_8  and  C13_10 
+REMARK    5  A    between atoms: C19_14  and  O1_19 
+REMARK    6  A    between atoms: C21_16  and  O_21 
+REMARK    7  A    between atoms: C17_23  and  N1_24 
+REMARK    8  A    between atoms: N1_24  and  C5_28 
+REMARK    9  A    between atoms: N1_24  and  C4_25 
+ROOT
+ATOM      1  C7  5SF A 803      88.902  -0.209  10.974  1.00  0.00     0.034 A 
+ATOM      2  C8  5SF A 803      88.066   0.081   9.876  1.00  0.00     0.059 A 
+ATOM      3  C9  5SF A 803      87.218   1.202   9.937  1.00  0.00     0.061 A 
+ATOM      4  C10 5SF A 803      87.267   2.052  11.062  1.00  0.00     0.061 A 
+ATOM      5  C11 5SF A 803      86.308   0.605   7.915  1.00  0.00     0.061 A 
+ATOM      6  C12 5SF A 803      87.161  -0.498   7.854  1.00  0.00     0.119 A 
+ATOM      7  C5  5SF A 803      88.112   1.752  12.144  1.00  0.00     0.037 A 
+ATOM      8  N2  5SF A 803      86.326   1.455   8.930  1.00  0.00    -0.352 N 
+ATOM      9  H2  5SF A 803      85.703   2.262   8.960  1.00  0.00     0.166 HD
+ATOM     10  N3  5SF A 803      88.042  -0.766   8.798  1.00  0.00    -0.362 N 
+ATOM     11  H3  5SF A 803      88.674  -1.564   8.730  1.00  0.00     0.165 HD
+ATOM     12  C6  5SF A 803      88.922   0.605  12.069  1.00  0.00     0.032 A 
+ENDROOT
+BRANCH   7  13
+ATOM     13  N1  5SF A 803      88.076   2.535  13.326  1.00  0.00    -0.345 N 
+BRANCH  13  14
+ATOM     14  C17 5SF A 803      88.824   2.127  14.464  1.00  0.00     0.040 A 
+ATOM     15  C22 5SF A 803      88.342   1.073  15.239  1.00  0.00     0.066 A 
+ATOM     16  C21 5SF A 803      89.009   0.737  16.407  1.00  0.00     0.073 A 
+ATOM     17  C20 5SF A 803      90.145   1.425  16.804  1.00  0.00     0.073 A 
+ATOM     18  C19 5SF A 803      90.607   2.476  16.026  1.00  0.00     0.073 A 
+ATOM     19  C18 5SF A 803      89.977   2.817  14.836  1.00  0.00     0.066 A 
+BRANCH  16  20
+ATOM     20  O   5SF A 803      88.428  -0.305  17.086  1.00  0.00    -0.356 OA
+ATOM     21  C23 5SF A 803      89.098  -0.845  18.217  1.00  0.00     0.210 C 
+ENDBRANCH  16  20
+BRANCH  18  22
+ATOM     22  O1  5SF A 803      91.710   3.237  16.329  1.00  0.00    -0.356 OA
+ATOM     23  C24 5SF A 803      92.374   3.053  17.573  1.00  0.00     0.210 C 
+ENDBRANCH  18  22
+ENDBRANCH  13  14
+BRANCH  13  24
+ATOM     24  C4  5SF A 803      87.080   3.594  13.570  1.00  0.00     0.157 C 
+BRANCH  24  25
+ATOM     25  C3  5SF A 803      85.748   2.909  13.835  1.00  0.00     0.253 C 
+BRANCH  25  26
+ATOM     26  N   5SF A 803      84.711   3.891  14.194  1.00  0.00    -0.070 N 
+ATOM     27  H   5SF A 803      84.872   4.740  13.652  1.00  0.00     0.277 HD
+ATOM     28  H   5SF A 803      84.787   4.047  15.199  1.00  0.00     0.277 HD
+BRANCH  26  29
+ATOM     29  C1  5SF A 803      83.333   3.428  13.935  1.00  0.00     0.178 C 
+ATOM     30  C2  5SF A 803      82.357   4.468  14.439  1.00  0.00     0.039 C 
+ATOM     31  C   5SF A 803      83.086   2.081  14.560  1.00  0.00     0.039 C 
+ENDBRANCH  26  29
+ENDBRANCH  25  26
+ENDBRANCH  24  25
+ENDBRANCH  13  24
+ENDBRANCH   7  13
+BRANCH   5  32
+ATOM     32  C13 5SF A 803      85.344   0.897   6.825  1.00  0.00     0.026 A 
+ATOM     33  C14 5SF A 803      84.951   0.063   5.775  1.00  0.00     0.122 A 
+ATOM     34  N4  5SF A 803      83.965   0.589   5.064  1.00  0.00    -0.310 N 
+ATOM     35  N5  5SF A 803      83.715   1.800   5.662  1.00  0.00    -0.307 N 
+ATOM     36  H4  5SF A 803      83.496   0.185   4.253  1.00  0.00     0.186 HD
+ATOM     37  C15 5SF A 803      84.530   1.992   6.707  1.00  0.00     0.124 A 
+ATOM     38  C16 5SF A 803      82.680   2.698   5.164  1.00  0.00     0.177 C 
+ENDBRANCH   5  32
+TORSDOF 9

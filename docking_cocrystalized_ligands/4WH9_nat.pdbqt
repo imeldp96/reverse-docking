@@ -1,0 +1,50 @@
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: OAQ_1  and  SAN_2 
+REMARK    2  A    between atoms: SAN_2  and  CAM_5 
+REMARK    3  A    between atoms: SAN_2  and  OAP_4 
+REMARK    4  A    between atoms: SAN_2  and  OAO_3 
+REMARK    5  A    between atoms: CAM_5  and  CAL_6 
+REMARK    6  A    between atoms: CAL_6  and  SAK_7 
+REMARK    7  A    between atoms: SAK_7  and  CAB_8 
+REMARK    8  A    between atoms: CAD_10  and  OAI_11 
+ROOT
+ATOM      1  CAB 3M8 A 601      17.282  -8.647  -4.898  1.00  0.00     0.027 A 
+ATOM      2  CAC 3M8 A 601      16.896  -9.767  -4.122  1.00  0.00     0.056 A 
+ATOM      3  CAD 3M8 A 601      15.571 -10.177  -4.044  1.00  0.00     0.070 A 
+ATOM      4  CAE 3M8 A 601      14.496  -9.538  -4.676  1.00  0.00     0.080 A 
+ATOM      5  CAF 3M8 A 601      14.901  -8.363  -5.368  1.00  0.00     0.141 A 
+ATOM      6  FAH 3M8 A 601      13.960  -7.701  -6.055  1.00  0.00    -0.204 F 
+ATOM      7  CAA 3M8 A 601      16.232  -7.942  -5.509  1.00  0.00     0.100 A 
+ATOM      8  CAG 3M8 A 601      16.499  -6.838  -6.218  1.00  0.00     0.104 C 
+ATOM      9  NAJ 3M8 A 601      16.722  -5.907  -6.827  1.00  0.00    -0.191 NA
+ENDROOT
+BRANCH   1  10
+ATOM     10  SAK 3M8 A 601      18.916  -8.172  -5.179  1.00  0.00    -0.127 SA
+BRANCH  10  11
+ATOM     11  CAL 3M8 A 601      19.143  -7.414  -3.593  1.00  0.00     0.094 C 
+BRANCH  11  12
+ATOM     12  CAM 3M8 A 601      18.476  -6.025  -3.433  1.00  0.00     0.147 C 
+BRANCH  12  13
+ATOM     13  SAN 3M8 A 601      18.416  -5.657  -1.803  1.00  0.00     0.081 S 
+BRANCH  13  14
+ATOM     14  OAQ 3M8 A 601      17.491  -6.585  -1.177  1.00  0.00    -0.308 OA
+ATOM     15  H   3M8 A 601      16.614  -6.487  -1.579  1.00  0.00     0.230 HD
+ENDBRANCH  13  14
+BRANCH  13  16
+ATOM     16  OAP 3M8 A 601      17.897  -4.262  -1.676  1.00  0.00    -0.308 OA
+ATOM     17  H   3M8 A 601      18.518  -3.646  -2.096  1.00  0.00     0.230 HD
+ENDBRANCH  13  16
+BRANCH  13  18
+ATOM     18  OAO 3M8 A 601      19.719  -5.825  -1.183  1.00  0.00    -0.308 OA
+ATOM     19  H   3M8 A 601      20.352  -5.212  -1.589  1.00  0.00     0.230 HD
+ENDBRANCH  13  18
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   1  10
+BRANCH   3  20
+ATOM     20  OAI 3M8 A 601      15.275 -11.332  -3.407  1.00  0.00    -0.361 OA
+ATOM     21  H   3M8 A 601      14.385 -11.619  -3.348  1.00  0.00     0.217 HD
+ENDBRANCH   3  20
+TORSDOF 8

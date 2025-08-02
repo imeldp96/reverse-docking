@@ -1,0 +1,58 @@
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: N_1  and  C_22 
+REMARK       I    between atoms: N_1  and  C_23 
+REMARK    2  A    between atoms: C_3  and  C_23 
+REMARK    3  A    between atoms: C_7  and  C_12 
+REMARK    4  A    between atoms: C_19  and  C_27 
+REMARK    5  A    between atoms: C_27  and  C_28 
+ROOT
+HETATM    1  C   TXV A 819      -4.812 111.995  19.789  1.00  0.00     0.069 C 
+HETATM    2  C   TXV A 819      -5.012 111.637  18.371  1.00  0.00     0.073 C 
+HETATM    3  C   TXV A 819      -5.090 110.743  20.643  1.00  0.00     0.036 C 
+HETATM    4  N   TXV A 819      -5.229 111.370  17.289  1.00  0.00    -0.196 NA
+HETATM    5  C   TXV A 819      -5.882 113.054  20.112  1.00  0.00     0.036 C 
+ENDROOT
+BRANCH   1   6
+HETATM    6  C   TXV A 819      -3.395 112.521  20.002  1.00  0.00    -0.035 A 
+HETATM    7  C   TXV A 819      -2.341 112.050  19.218  1.00  0.00     0.026 A 
+HETATM    8  C   TXV A 819      -1.044 112.537  19.379  1.00  0.00     0.032 A 
+HETATM    9  C   TXV A 819      -0.802 113.497  20.353  1.00  0.00     0.017 A 
+HETATM   10  C   TXV A 819      -1.833 113.926  21.176  1.00  0.00     0.002 A 
+HETATM   11  C   TXV A 819      -3.119 113.447  20.998  1.00  0.00     0.009 A 
+BRANCH   8  12
+HETATM   12  C   TXV A 819       0.014 112.011  18.451  1.00  0.00     0.256 C 
+HETATM   13  N   TXV A 819       1.253 111.881  18.940  1.00  0.00    -0.320 N 
+HETATM   14  H   TXV A 819       1.347 112.168  19.877  1.00  0.00     0.169 HD
+HETATM   15  O   TXV A 819      -0.311 111.426  17.423  1.00  0.00    -0.267 OA
+BRANCH  13  16
+HETATM   16  C   TXV A 819       2.459 111.404  18.354  1.00  0.00     0.075 A 
+HETATM   17  C   TXV A 819       3.371 110.810  19.211  1.00  0.00     0.036 A 
+HETATM   18  C   TXV A 819       4.508 110.228  18.693  1.00  0.00     0.046 A 
+HETATM   19  C   TXV A 819       4.764 110.335  17.353  1.00  0.00     0.133 A 
+HETATM   20  F   TXV A 819       5.922 109.816  16.872  1.00  0.00    -0.205 F 
+HETATM   21  C   TXV A 819       3.922 110.983  16.458  1.00  0.00     0.094 A 
+HETATM   22  C   TXV A 819       2.768 111.529  17.001  1.00  0.00     0.160 A 
+HETATM   23  F   TXV A 819       1.973 112.263  16.199  1.00  0.00    -0.203 F 
+BRANCH  21  24
+HETATM   24  C   TXV A 819       4.232 111.090  14.991  1.00  0.00     0.200 C 
+HETATM   25  O   TXV A 819       4.464 112.204  14.500  1.00  0.00    -0.286 OA
+BRANCH  24  26
+HETATM   26  C   TXV A 819       4.274 109.843  14.236  1.00  0.00     0.044 A 
+HETATM   27  C   TXV A 819       4.633 109.637  12.858  1.00  0.00     0.025 A 
+HETATM   28  C   TXV A 819       5.031 110.446  11.782  1.00  0.00     0.041 A 
+HETATM   29  C   TXV A 819       4.505 108.264  12.609  1.00  0.00     0.116 A 
+HETATM   30  C   TXV A 819       5.272 109.812  10.572  1.00  0.00     0.050 A 
+HETATM   31 Cl   TXV A 819       5.725 110.766   9.175  1.00  0.00    -0.083 Cl
+HETATM   32  C   TXV A 819       5.146 108.448  10.446  1.00  0.00     0.113 A 
+HETATM   33  N   TXV A 819       4.741 107.652  11.446  1.00  0.00    -0.350 N 
+ATOM     34  HN  TXV A 819       4.621 106.646  11.326  1.00  0.00     0.166 HD
+HETATM   35  N   TXV A 819       4.077 107.660  13.760  1.00  0.00    -0.351 N 
+HETATM   36  C   TXV A 819       3.936 108.602  14.729  1.00  0.00     0.106 A 
+HETATM   37  H   TXV A 819       3.900 106.698  13.868  1.00  0.00     0.166 HD
+ENDBRANCH  24  26
+ENDBRANCH  21  24
+ENDBRANCH  13  16
+ENDBRANCH   8  12
+ENDBRANCH   1   6
+TORSDOF 5

@@ -1,0 +1,68 @@
+REMARK  8 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C3_3 
+REMARK    2  A    between atoms: C7_4  and  N3_28 
+REMARK    3  A    between atoms: C10_7  and  O1_29 
+REMARK    4  A    between atoms: C13_10  and  O1_29 
+REMARK    5  A    between atoms: C16_13  and  O3_37 
+REMARK    6  A    between atoms: C6_19  and  C5_20 
+REMARK       I    between atoms: C6_19  and  N3_28 
+REMARK    7  A    between atoms: C5_20  and  N_21 
+REMARK    8  A    between atoms: C17_35  and  O2_36 
+ROOT
+ATOM      1  C7  F8B A1201      13.434   0.516   7.654  1.00  0.00     0.034 A 
+ATOM      2  C8  F8B A1201      14.054   0.581   8.902  1.00  0.00     0.032 A 
+ATOM      3  C9  F8B A1201      13.390   0.149  10.037  1.00  0.00     0.039 A 
+ATOM      4  C10 F8B A1201      12.100  -0.354   9.930  1.00  0.00     0.078 A 
+ATOM      5  C11 F8B A1201      11.474  -0.426   8.689  1.00  0.00     0.039 A 
+ATOM      6  C12 F8B A1201      12.140   0.009   7.557  1.00  0.00     0.032 A 
+ENDROOT
+BRANCH   4   7
+ATOM      7  O1  F8B A1201      11.430  -0.794  11.067  1.00  0.00    -0.293 OA
+BRANCH   7   8
+ATOM      8  C13 F8B A1201      11.212  -2.145  11.223  1.00  0.00     0.161 A 
+ATOM      9  N5  F8B A1201      11.463  -2.986  10.224  1.00  0.00    -0.332 N 
+ATOM     10  C20 F8B A1201      11.221  -4.290  10.450  1.00  0.00     0.182 A 
+ATOM     11  H5  F8B A1201      11.822  -2.658   9.328  1.00  0.00     0.168 HD
+ATOM     12  N4  F8B A1201      10.752  -4.863  11.559  1.00  0.00    -0.351 N 
+ATOM     13  C19 F8B A1201      10.490  -3.997  12.592  1.00  0.00     0.050 A 
+ATOM     14  H4  F8B A1201      10.599  -5.869  11.634  1.00  0.00     0.166 HD
+ATOM     15  C14 F8B A1201      10.704  -2.599  12.486  1.00  0.00     0.045 A 
+ATOM     16  C18 F8B A1201       9.997  -4.530  13.806  1.00  0.00     0.070 A 
+ATOM     17  C15 F8B A1201      10.410  -1.766  13.601  1.00  0.00     0.057 A 
+ATOM     18  C16 F8B A1201       9.934  -2.305  14.763  1.00  0.00     0.102 A 
+ATOM     19  C17 F8B A1201       9.718  -3.707  14.866  1.00  0.00     0.103 A 
+BRANCH  18  20
+ATOM     20  O3  F8B A1201       9.619  -1.592  15.889  1.00  0.00    -0.353 OA
+ATOM     21  C22 F8B A1201       9.941  -0.198  15.912  1.00  0.00     0.210 C 
+ENDBRANCH  18  20
+BRANCH  19  22
+ATOM     22  O2  F8B A1201       9.237  -4.123  16.078  1.00  0.00    -0.353 OA
+ATOM     23  C21 F8B A1201       8.908  -5.506  16.231  1.00  0.00     0.210 C 
+ENDBRANCH  19  22
+ENDBRANCH   7   8
+ENDBRANCH   4   7
+BRANCH   1  24
+ATOM     24  N3  F8B A1201      14.085   0.920   6.464  1.00  0.00    -0.326 N 
+ATOM     25  C6  F8B A1201      15.405   0.687   6.233  1.00  0.00     0.241 C 
+ATOM     26  O   F8B A1201      16.138   0.121   7.043  1.00  0.00    -0.271 OA
+ATOM     27  H   F8B A1201      13.561   1.389   5.775  1.00  0.00     0.169 HD
+BRANCH  25  28
+ATOM     28  C5  F8B A1201      15.934   1.171   4.892  1.00  0.00     0.252 C 
+BRANCH  28  29
+ATOM     29  N   F8B A1201      17.324   0.742   4.791  1.00  0.00    -0.278 N 
+ATOM     30  C4  F8B A1201      17.827  -0.506   4.716  1.00  0.00     0.139 A 
+ATOM     31  C3  F8B A1201      19.175  -0.341   4.646  1.00  0.00     0.047 A 
+ATOM     32  N2  F8B A1201      19.438   1.001   4.682  1.00  0.00    -0.289 N 
+ATOM     33  N1  F8B A1201      18.304   1.656   4.772  1.00  0.00    -0.240 N 
+ATOM     34  H2  F8B A1201      20.365   1.424   4.645  1.00  0.00     0.188 HD
+ATOM     35  H1  F8B A1201      18.190   2.669   4.819  1.00  0.00     0.208 HD
+BRANCH  31  36
+ATOM     36  C1  F8B A1201      20.250  -1.399   4.543  1.00  0.00     0.030 C 
+ATOM     37  C   F8B A1201      20.773  -1.500   3.129  1.00  0.00     0.016 C 
+ATOM     38  C2  F8B A1201      21.395  -1.134   5.501  1.00  0.00     0.016 C 
+ENDBRANCH  31  36
+ENDBRANCH  28  29
+ENDBRANCH  25  28
+ENDBRANCH   1  24
+TORSDOF 8

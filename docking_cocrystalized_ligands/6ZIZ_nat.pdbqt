@@ -1,0 +1,44 @@
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.479  -3.262  32.122  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.679  -1.649  32.451  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.090  -3.915  30.988  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      36.492  -3.395  29.868  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.482  -2.409  31.619  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.655  -3.340  33.502  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.875  -1.744  33.822  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.852  -2.583  34.342  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      35.486  -2.531  30.237  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      34.878  -2.025  29.608  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.263  -4.869  31.039  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.147  -5.964  32.067  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.194  -6.970  32.220  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.237  -5.918  32.923  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      37.326  -7.889  33.257  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      38.417  -7.827  34.113  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.370  -6.841  33.950  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      40.088  -4.791  32.509  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.509  -4.216  31.443  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      41.141  -4.420  33.033  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.851  -3.403  30.947  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      36.416  -8.893  33.434  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      35.711  -8.815  32.736  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      36.762  -3.715  28.432  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.330  -2.593  27.687  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.496  -2.961  26.300  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.631  -2.211  28.231  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4

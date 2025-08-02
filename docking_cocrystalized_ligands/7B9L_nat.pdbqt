@@ -1,0 +1,39 @@
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O2_10 
+REMARK    2  A    between atoms: C8_3  and  C10_4 
+REMARK       I    between atoms: C8_3  and  N7_14 
+REMARK    3  A    between atoms: C10_4  and  C11_5 
+REMARK    4  A    between atoms: C6_13  and  N7_14 
+ROOT
+ATOM      1  C8  T4N A 402     -28.938 -13.038  12.609  1.00  0.00     0.223 C 
+ATOM      2  N7  T4N A 402     -29.347 -12.287  13.673  1.00  0.00    -0.327 N 
+ATOM      3  O9  T4N A 402     -28.596 -14.214  12.598  1.00  0.00    -0.273 OA
+ATOM      4  H   T4N A 402     -29.400 -11.313  13.539  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  C10 T4N A 402     -28.994 -12.180  11.389  1.00  0.00     0.128 C 
+BRANCH   5   6
+ATOM      6  C11 T4N A 402     -27.731 -11.393  11.096  1.00  0.00     0.148 C 
+ATOM      7  C17 T4N A 402     -28.092  -9.905  10.963  1.00  0.00     0.232 C 
+ATOM      8  N16 T4N A 402     -27.325  -9.074  11.769  1.00  0.00    -0.359 N 
+ATOM      9  O18 T4N A 402     -28.952  -9.494  10.193  1.00  0.00    -0.272 OA
+ATOM     10  C15 T4N A 402     -25.884  -8.996  11.631  1.00  0.00     0.132 C 
+ATOM     11  H   T4N A 402     -27.772  -8.523  12.452  1.00  0.00     0.162 HD
+ATOM     12  C14 T4N A 402     -25.227 -10.306  12.032  1.00  0.00     0.094 C 
+ATOM     13  S13 T4N A 402     -26.386 -11.701  12.314  1.00  0.00    -0.153 SA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+BRANCH   2  14
+ATOM     14  C6  T4N A 402     -29.698 -12.776  14.937  1.00  0.00     0.034 A 
+ATOM     15  C19 T4N A 402     -29.036 -13.851  15.562  1.00  0.00     0.032 A 
+ATOM     16  C20 T4N A 402     -29.433 -14.241  16.845  1.00  0.00     0.039 A 
+ATOM     17  C3  T4N A 402     -30.463 -13.530  17.483  1.00  0.00     0.068 A 
+ATOM     18  C4  T4N A 402     -31.096 -12.433  16.880  1.00  0.00     0.039 A 
+ATOM     19  C5  T4N A 402     -30.713 -12.068  15.589  1.00  0.00     0.032 A 
+BRANCH  17  20
+ATOM     20  O2  T4N A 402     -30.866 -13.906  18.740  1.00  0.00    -0.356 OA
+ATOM     21  C1  T4N A 402     -32.221 -14.345  18.617  1.00  0.00     0.210 C 
+ENDBRANCH  17  20
+ENDBRANCH   2  14
+TORSDOF 4
