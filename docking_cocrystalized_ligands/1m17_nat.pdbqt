@@ -1,0 +1,67 @@
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O2_2  and  C11_3 
+REMARK    2  A    between atoms: C11_3  and  C10_4 
+REMARK    3  A    between atoms: C10_4  and  O1_5 
+REMARK    4  A    between atoms: O1_5  and  C9_6 
+REMARK    5  A    between atoms: C6_9  and  N1_10 
+REMARK    6  A    between atoms: N1_10  and  C5_11 
+REMARK    7  A    between atoms: C13_25  and  O3_26 
+REMARK    8  A    between atoms: O3_26  and  C14_27 
+REMARK    9  A    between atoms: C14_27  and  C15_28 
+REMARK   10  A    between atoms: C15_28  and  O4_29 
+
+ROOT
+ATOM      1  C12 AQ4 A 334      17.715   2.617  49.397  1.00  0.00     0.201 C 
+ATOM      2  O2  AQ4 A 334      18.993   2.485  48.541  1.00  0.00    -0.394 OA
+ENDROOT
+BRANCH   2   3
+ATOM      3  C11 AQ4 A 334      20.238   2.645  49.260  1.00  0.00     0.193 C 
+BRANCH   3   4
+ATOM      4  C10 AQ4 A 334      20.553   1.362  50.039  1.00  0.00     0.201 C 
+BRANCH   4   5
+ATOM      5  O1  AQ4 A 334      19.592   1.220  51.118  1.00  0.00    -0.346 OA
+BRANCH   5   6
+ATOM      6  C9  AQ4 A 334      20.146   0.375  52.216  1.00  0.00     0.103 A 
+ATOM      7  C13 AQ4 A 334      19.304  -0.536  52.921  1.00  0.00     0.104 A 
+ATOM      8  C17 AQ4 A 334      19.847  -1.319  53.940  1.00  0.00     0.072 A 
+ATOM      9  C18 AQ4 A 334      21.201  -1.223  54.262  1.00  0.00     0.075 A 
+ATOM     10  N2  AQ4 A 334      21.749  -2.040  55.317  1.00  0.00    -0.241 NA
+ATOM     11  C7  AQ4 A 334      22.039  -0.309  53.570  1.00  0.00     0.042 A 
+ATOM     12  C19 AQ4 A 334      23.119  -1.935  55.640  1.00  0.00     0.236 A 
+ATOM     13  N3  AQ4 A 334      23.945  -1.023  54.938  1.00  0.00    -0.224 NA
+ATOM     14  C6  AQ4 A 334      23.412  -0.217  53.906  1.00  0.00     0.142 A 
+ATOM     15  C8  AQ4 A 334      21.504   0.476  52.544  1.00  0.00     0.057 A 
+BRANCH   7  16
+ATOM     16  O3  AQ4 A 334      17.831  -0.680  52.595  1.00  0.00    -0.346 OA
+BRANCH  16  17
+ATOM     17  C14 AQ4 A 334      17.230   0.600  52.217  1.00  0.00     0.201 C 
+BRANCH  17  18
+ATOM     18  C15 AQ4 A 334      15.706   0.493  52.063  1.00  0.00     0.193 C 
+BRANCH  18  19
+ATOM     19  O4  AQ4 A 334      15.110   0.166  53.332  1.00  0.00    -0.394 OA
+ATOM     20  C16 AQ4 A 334      13.846  -0.696  53.218  1.00  0.00     0.201 C 
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH   7  16
+BRANCH  14  21
+ATOM     21  N1  AQ4 A 334      24.291   0.712  53.213  1.00  0.00    -0.340 N 
+ATOM     22  H3  AQ4 A 334      23.814   1.291  52.576  1.00  0.00     0.167 HD
+BRANCH  21  23
+ATOM     23  C5  AQ4 A 334      25.727   0.972  53.257  1.00  0.00     0.035 A 
+ATOM     24  C4  AQ4 A 334      26.608  -0.119  53.322  1.00  0.00     0.050 A 
+ATOM     25  C3  AQ4 A 334      27.991   0.094  53.365  1.00  0.00     0.019 A 
+ATOM     26  C2  AQ4 A 334      28.844  -1.022  53.431  1.00  0.00    -0.078 C 
+ATOM     27  C22 AQ4 A 334      28.510   1.410  53.343  1.00  0.00     0.021 A 
+ATOM     28  C1  AQ4 A 334      29.555  -1.989  53.495  1.00  0.00     0.018 C 
+ATOM     29  C21 AQ4 A 334      27.627   2.509  53.278  1.00  0.00     0.004 A 
+ATOM     30  C20 AQ4 A 334      26.236   2.292  53.235  1.00  0.00     0.029 A 
+ENDBRANCH  21  23
+ENDBRANCH  14  21
+ENDBRANCH   5   6
+ENDBRANCH   4   5
+ENDBRANCH   3   4
+ENDBRANCH   2   3
+TORSDOF 10
+
