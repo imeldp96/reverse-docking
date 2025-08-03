@@ -1,0 +1,14 @@
+initial minimisation solvent + ions
+ &cntrl
+  imin   = 1,
+  maxcyc = 7500,
+  ncyc   = 2500,
+  ntb    = 1,
+  ntr    = 1,
+  cut    = 12
+ /
+Hold the envelope-WA020 fixed
+250.0
+RES 1 1033
+END
+END

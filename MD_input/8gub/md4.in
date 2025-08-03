@@ -1,0 +1,16 @@
+system Stage 2-1 continue from 50.0 to 250.0(T=310 K for 200 ps) -- Constant Pressure--
+&cntrl
+ imin=0, irest=1, ntx=5, ntpr=5000, ntwr=5000, ntwx=5000,
+
+ nstlim=500000, dt=0.002,
+
+ tempi=310., temp0=310., ntt=1, tautp=1.0, ig=-1,
+
+ nscm    =      1000,
+ ntb=2, ntp=1, pres0=1.0, cut=12.0,
+
+ ntc=2, ntf=2,
+ nrespa=1,
+ iwrap =1,
+&end
+

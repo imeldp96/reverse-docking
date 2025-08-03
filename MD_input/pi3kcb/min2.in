@@ -1,0 +1,10 @@
+initial minimisation whole system
+ &cntrl
+  imin   = 1,
+  maxcyc = 9000,
+  ncyc   = 3000,
+  ntb    = 1,
+  ntr    = 0,
+  cut    = 12
+ /
+

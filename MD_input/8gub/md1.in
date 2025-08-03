@@ -1,0 +1,22 @@
+Heating up the system 100 ps from 10K to 300K Stage 1-- Constant Volume--
+&cntrl
+ imin=0, irest=0, ntx=1, ntpr=500, ntwr=500, ntwx=500,
+
+ nstlim=50000, dt=0.002,
+
+ tempi=10.0, temp0=310., ntt=1, tautp=2.0, ig=-1,
+ nscm=10000,
+
+ ntb=1, ntp=0, cut=12.0,
+
+ ntc=2, ntf=2,
+
+ nrespa=1,
+ ntr =1,
+
+&end
+Hold the complex
+50.0
+RES 1 1033
+END
+END
