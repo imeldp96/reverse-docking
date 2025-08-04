@@ -1,0 +1,2158 @@
+MODEL 1
+REMARK VINA RESULT:    -5.973      0.000      0.000
+REMARK INTER + INTRA:         -10.177
+REMARK INTER:                  -8.941
+REMARK INTRA:                  -1.236
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      39.045  -7.478  16.311  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      39.927  -7.088  15.287  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      41.222  -7.459  15.292  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      41.847  -7.180  14.536  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.669  -8.201  16.309  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.871  -8.632  17.356  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      39.532  -8.251  17.345  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      37.769  -6.959  16.275  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.747  -7.577  17.071  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.414  -7.449  16.361  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.732  -6.962  18.461  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.978  -5.593  18.532  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      37.020  -4.990  19.765  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      36.838  -5.665  20.942  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      37.221  -3.647  19.811  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      36.610  -7.028  20.887  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.587  -7.685  19.657  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.332  -9.090  19.651  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      35.111  -9.605  19.844  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      35.319 -10.914  19.805  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      34.232  -9.108  19.986  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      36.673 -11.155  19.644  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      37.315  -9.995  19.584  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      38.319  -9.832  19.504  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      39.518  -6.291  14.297  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      38.574  -6.013  14.247  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      40.159  -5.981  13.618  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      41.396  -9.417  18.491  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      42.401 -10.337  18.627  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      43.363 -10.780  17.573  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.544 -10.866  19.896  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      41.681 -10.350  20.704  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.235 -11.568  20.158  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      40.606  -9.192  20.020  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      41.656 -10.812  22.166  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      41.188 -12.261  22.238  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.050 -10.746  22.813  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.470  -9.432  23.165  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.870  -9.003  22.393  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      40.754  -9.982  22.906  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      40.131 -10.539  23.397  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -5.305      1.284      1.725
+REMARK INTER + INTRA:          -9.178
+REMARK INTER:                  -7.512
+REMARK INTRA:                  -1.666
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      39.385  -7.897  16.609  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      40.451  -7.591  15.743  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      41.717  -7.958  16.026  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      42.478  -7.741  15.384  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.952  -8.612  17.167  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.964  -8.957  18.073  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      39.656  -8.581  17.776  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      38.147  -7.387  16.287  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.994  -7.868  16.993  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.777  -7.762  16.095  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.828  -7.104  18.297  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      37.148  -5.749  18.260  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      37.060  -5.016  19.418  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      36.678  -5.547  20.620  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      37.337  -3.687  19.354  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      36.374  -6.895  20.674  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.477  -7.682  19.527  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.138  -9.066  19.630  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      37.032 -10.045  19.451  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.311 -11.150  19.589  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      38.030  -9.962  19.257  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      34.986 -10.805  19.792  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      34.876  -9.483  19.781  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      34.031  -8.919  19.868  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      40.249  -6.880  14.632  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      40.915  -6.900  13.907  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      39.435  -6.336  14.537  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      41.252  -9.643  19.349  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.818  -9.477  20.636  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      39.790  -8.507  21.121  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      41.378 -10.341  21.560  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.202 -11.149  20.985  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      41.169 -10.339  22.558  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      42.398 -10.945  19.287  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      42.948 -12.185  21.835  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      43.848 -13.029  20.939  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.844 -11.522  22.894  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.282 -10.359  23.490  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      42.325 -10.343  23.330  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      41.996 -13.032  22.487  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      41.376 -13.388  21.831  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -4.825      1.724      2.161
+REMARK INTER + INTRA:          -8.459
+REMARK INTER:                  -6.757
+REMARK INTRA:                  -1.702
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      39.667  -7.965  16.606  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      40.821  -7.781  15.823  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      42.030  -8.206  16.240  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      42.857  -8.078  15.656  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      42.123  -8.799  17.433  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      41.039  -9.023  18.266  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      39.790  -8.588  17.831  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      38.498  -7.402  16.146  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      37.282  -8.160  16.231  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      36.747  -8.407  14.834  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.283  -7.438  17.121  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.828  -6.205  16.661  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      34.958  -5.486  17.444  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      34.511  -5.914  18.665  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.493  -4.304  16.960  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      34.969  -7.129  19.141  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      35.875  -7.878  18.391  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.306  -9.134  18.918  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.408  -9.370  20.231  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.871 -10.612  20.285  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      36.184  -8.745  21.005  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      37.088 -11.073  18.998  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      36.762 -10.118  18.136  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      36.841 -10.132  17.119  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      40.763  -7.132  14.659  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      40.402  -6.216  14.623  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      41.080  -7.568  13.836  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      41.171  -9.643  19.600  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.644  -9.365  20.833  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      39.652  -8.300  21.168  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      41.063 -10.202  21.851  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      41.872 -11.099  21.399  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      40.772 -10.122  22.825  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      42.222 -11.019  19.716  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      42.468 -12.125  22.370  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      43.574 -12.909  21.672  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.092 -11.453  23.605  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.178 -10.034  23.518  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.013  -9.646  24.392  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      41.440 -13.026  22.794  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      41.833 -13.746  23.311  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -4.668      2.918      5.508
+REMARK INTER + INTRA:          -8.224
+REMARK INTER:                  -5.500
+REMARK INTRA:                  -2.723
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      35.937  -6.810  22.111  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      35.106  -6.619  23.229  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      35.067  -7.511  24.239  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      34.469  -7.353  25.050  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      35.828  -8.605  24.155  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      36.677  -8.871  23.094  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      36.720  -7.946  22.054  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      35.828  -5.901  21.082  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.881  -5.823  20.111  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      37.531  -4.455  20.186  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.334  -6.135  18.727  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.506  -5.170  18.160  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      34.946  -5.416  16.931  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      35.152  -6.570  16.225  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.174  -4.445  16.376  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      35.958  -7.545  16.785  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.524  -7.347  18.044  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      37.362  -8.377  18.572  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      38.687  -8.236  18.700  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      39.077  -9.411  19.177  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      39.259  -7.421  18.482  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      37.979 -10.249  19.274  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      36.901  -9.600  18.854  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      35.946  -9.950  18.768  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      34.288  -5.568  23.303  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      34.138  -5.120  24.167  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      33.833  -5.240  22.494  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      37.478 -10.108  23.001  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      37.166 -11.438  22.911  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      35.801 -12.036  22.807  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      38.252 -12.293  22.874  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      39.356 -11.629  22.918  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      38.188 -13.310  22.819  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      39.204  -9.918  23.024  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      40.687 -12.390  22.903  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      40.645 -13.518  23.928  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      40.971 -13.026  21.532  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      39.936 -12.833  20.573  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      39.357 -13.611  20.561  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      41.749 -11.488  23.232  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      42.435 -11.962  23.727  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -4.613      1.678      1.986
+REMARK INTER + INTRA:          -8.142
+REMARK INTER:                  -6.092
+REMARK INTRA:                  -2.049
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      39.970  -8.202  17.228  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      40.968  -8.007  16.256  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      42.191  -8.559  16.380  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      42.901  -8.420  15.662  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      42.453  -9.293  17.465  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      41.530  -9.539  18.468  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      40.266  -8.972  18.335  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      38.791  -7.509  17.067  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      37.585  -8.244  16.807  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      37.284  -8.201  15.322  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.449  -7.691  17.652  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.889  -6.491  17.221  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      34.889  -5.919  17.968  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      34.408  -6.465  19.128  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.327  -4.771  17.510  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      34.968  -7.647  19.577  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.005  -8.246  18.863  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.539  -9.475  19.359  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.122 -10.671  18.926  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.826 -11.525  19.656  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      35.429 -10.876  18.207  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      37.612 -10.819  20.551  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      37.399  -9.520  20.382  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      37.796  -8.741  20.908  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      40.750  -7.223  15.199  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      41.331  -7.291  14.407  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      40.009  -6.575  15.210  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      41.854 -10.319  19.680  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      42.633 -11.418  19.922  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      43.492 -12.146  18.940  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.637 -11.856  21.234  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      41.894 -11.100  21.968  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.156 -12.665  21.574  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.107  -9.800  21.158  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      41.747 -11.419  23.460  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      40.304 -11.183  23.895  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      42.086 -12.887  23.771  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.406 -13.272  23.401  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.952 -13.362  24.197  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      42.616 -10.566  24.213  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      43.354 -10.280  23.652  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -4.577      2.015      3.064
+REMARK INTER + INTRA:          -8.087
+REMARK INTER:                  -6.540
+REMARK INTRA:                  -1.548
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      38.662  -7.909  17.443  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      39.305  -7.527  16.252  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      40.581  -7.878  15.995  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      41.031  -7.605  15.122  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.243  -8.592  16.910  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.687  -9.014  18.106  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      39.367  -8.654  18.366  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      37.397  -7.412  17.663  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.282  -8.315  17.635  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.104  -7.636  16.964  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.961  -8.786  19.044  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.415 -10.062  19.156  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.063 -10.526  20.400  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      35.216  -9.796  21.548  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.570 -11.788  20.495  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      35.741  -8.520  21.449  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.085  -8.001  20.201  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.639  -6.685  20.152  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      37.802  -6.367  20.733  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      37.923  -5.069  20.491  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      38.441  -6.977  21.241  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      36.800  -4.626  19.814  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      35.972  -5.647  19.634  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      35.048  -5.643  19.202  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      38.685  -6.757  15.355  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      37.772  -6.980  15.063  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      39.141  -5.966  14.986  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      41.450  -9.767  19.121  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      42.524 -10.614  19.067  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      43.321 -10.982  17.858  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.917 -11.141  20.285  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.171 -10.693  21.236  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.690 -11.794  20.412  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      40.919  -9.609  20.766  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      42.428 -11.164  22.672  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      42.450 -12.688  22.715  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.782 -10.670  23.207  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.875  -9.256  23.345  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.020  -8.903  23.637  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      41.381 -10.679  23.521  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      40.623 -10.411  22.979  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -4.327      2.877      4.693
+REMARK INTER + INTRA:          -7.713
+REMARK INTER:                  -5.513
+REMARK INTRA:                  -2.201
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      37.392  -7.783  21.883  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      37.056  -7.531  23.225  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      37.651  -8.194  24.237  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      37.407  -7.993  25.206  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      38.567  -9.121  23.942  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      38.960  -9.429  22.650  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.348  -8.739  21.607  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.654  -7.134  20.917  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      37.343  -6.411  19.887  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      37.666  -5.016  20.384  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.510  -6.403  18.615  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.155  -5.150  18.121  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.365  -5.079  16.999  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      34.899  -6.181  16.335  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      35.063  -3.849  16.509  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      35.230  -7.431  16.824  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.006  -7.548  17.977  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.336  -8.860  18.434  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      35.579  -9.532  19.311  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.249 -10.662  19.494  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      34.699  -9.243  19.737  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      37.423 -10.618  18.761  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      37.490  -9.458  18.120  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      38.243  -9.107  17.528  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      36.096  -6.659  23.540  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      35.410  -6.421  22.875  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      36.075  -6.253  24.436  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      39.944 -10.487  22.345  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      39.896 -11.855  22.335  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      38.702 -12.715  22.591  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      41.086 -12.481  22.009  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.005 -11.611  21.765  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      41.217 -13.491  21.969  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.540  -9.960  21.914  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.413 -12.095  21.396  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      43.619 -13.513  21.917  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.630 -12.127  19.874  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      42.589 -11.513  19.122  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      42.778 -10.566  19.022  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      44.380 -11.223  21.991  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      44.088 -10.303  21.898  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -4.275      2.118      4.170
+REMARK INTER + INTRA:          -7.635
+REMARK INTER:                  -6.100
+REMARK INTRA:                  -1.536
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      36.770 -10.268  19.627  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      35.975 -11.232  20.273  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      36.496 -12.084  21.177  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      35.905 -12.770  21.648  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      37.802 -12.011  21.444  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      38.657 -11.092  20.859  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.115 -10.210  19.929  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.171  -9.516  18.641  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.190  -8.537  19.015  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.351  -8.180  17.803  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.874  -7.327  19.630  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.370  -6.892  20.853  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.919  -5.776  21.437  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      36.941  -5.057  20.877  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      35.443  -5.390  22.649  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      37.439  -5.469  19.654  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.891  -6.580  19.014  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      37.450  -6.975  17.760  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.954  -6.566  16.586  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      37.720  -7.184  15.697  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      36.175  -5.932  16.416  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      38.626  -7.994  16.361  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      38.426  -7.886  17.668  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      38.903  -8.379  18.423  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      34.682 -11.367  19.972  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      34.084 -11.862  20.578  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      34.325 -10.972  19.143  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.107 -11.057  21.138  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      41.182 -10.494  20.505  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      41.159  -9.630  19.287  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.406 -10.734  21.104  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.259 -11.447  22.169  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.301 -10.395  20.752  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      40.646 -11.911  22.550  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.499 -11.842  22.980  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.305 -12.882  22.210  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.424 -10.641  23.238  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.763  -9.381  23.228  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.503  -9.159  22.321  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      43.084 -12.394  24.234  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      42.613 -13.228  24.081  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -4.215      2.919      5.219
+REMARK INTER + INTRA:          -7.545
+REMARK INTER:                  -5.486
+REMARK INTRA:                  -2.059
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      36.092  -6.999  21.894  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      35.429  -6.637  23.082  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      35.646  -7.293  24.238  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      35.169  -7.012  25.094  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      36.499  -8.321  24.239  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      37.196  -8.743  23.119  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      36.974  -8.059  21.926  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      35.724  -6.340  20.742  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.725  -6.065  19.751  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      37.290  -4.678  19.981  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.136  -6.235  18.360  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.672  -5.076  17.743  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.089  -5.173  16.503  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      34.932  -6.357  15.834  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.680  -4.027  15.899  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      35.372  -7.518  16.443  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      35.944  -7.467  17.714  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.398  -8.691  18.295  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      37.660  -9.122  18.179  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      37.647 -10.288  18.811  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      38.444  -8.663  17.716  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      36.359 -10.555  19.245  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      35.565  -9.556  18.883  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      34.558  -9.468  19.021  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      34.523  -5.657  23.089  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      33.732  -5.714  22.505  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      34.645  -4.878  23.678  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      38.103  -9.908  23.132  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      37.968 -11.212  23.528  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      36.730 -11.875  24.037  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      39.107 -11.985  23.394  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      40.073 -11.291  22.895  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      39.174 -12.969  23.653  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      39.717  -9.642  22.553  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      41.436 -11.956  22.676  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      41.967 -11.593  21.293  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      42.478 -11.487  23.706  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      42.984 -10.177  23.469  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.668  -9.971  24.126  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      41.288 -13.377  22.771  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      40.892 -13.604  23.627  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -4.102      2.216      2.976
+REMARK INTER + INTRA:          -7.377
+REMARK INTER:                  -5.621
+REMARK INTRA:                  -1.756
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      38.834  -8.206  17.764  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      39.275  -7.692  16.531  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      40.508  -7.959  16.057  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      40.810  -7.591  15.155  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.325  -8.716  16.794  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.973  -9.265  18.015  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      39.697  -8.992  18.501  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      37.600  -7.790  18.214  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.872  -8.633  19.119  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.679  -9.228  18.398  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.475  -7.843  20.356  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.610  -8.502  21.576  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      36.225  -7.855  22.725  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      35.706  -6.589  22.740  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      36.403  -8.498  23.908  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      35.550  -5.930  21.533  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      35.902  -6.561  20.341  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.738  -5.833  19.123  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      34.596  -5.840  18.425  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      34.877  -5.092  17.367  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      33.720  -6.309  18.652  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      36.203  -4.697  17.428  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      36.754  -5.201  18.525  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      37.721  -5.123  18.839  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      38.500  -6.879  15.811  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      38.304  -5.971  16.135  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      38.123  -7.188  14.955  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      41.907 -10.064  18.833  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      43.032 -10.793  18.551  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      43.708 -10.928  17.226  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      43.605 -11.429  19.638  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.942 -11.177  20.714  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      44.436 -12.017  19.593  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.561 -10.166  20.530  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.401 -11.800  22.038  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.396 -12.921  21.759  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.106 -10.775  22.942  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.361  -9.582  23.165  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.463  -9.305  24.089  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      42.264 -12.332  22.727  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      42.556 -12.772  23.541  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:    -4.091      2.508      3.562
+REMARK INTER + INTRA:          -7.360
+REMARK INTER:                  -5.102
+REMARK INTRA:                  -2.258
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      37.811  -8.806  18.362  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      38.514  -8.464  17.193  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      39.852  -8.603  17.108  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      40.347  -8.363  16.249  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      40.515  -9.062  18.173  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      39.904  -9.425  19.361  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.521  -9.286  19.444  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.463  -8.527  18.390  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.669  -9.049  19.466  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.265  -9.321  18.965  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.695  -8.087  20.643  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.619  -8.662  21.909  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.593  -7.841  23.010  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      35.634  -6.475  22.933  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      35.560  -8.421  24.238  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      35.692  -5.890  21.680  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      35.692  -6.687  20.536  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.770  -6.037  19.266  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      34.746  -6.011  18.403  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      35.241  -5.361  17.359  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      33.811  -6.398  18.521  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      36.571  -5.060  17.599  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      36.911  -5.523  18.795  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      37.824  -5.493  19.247  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      37.881  -7.941  16.141  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      38.270  -8.023  15.240  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      37.024  -7.472  16.265  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.661  -9.890  20.540  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.476  -9.780  21.892  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      39.313  -9.157  22.593  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      41.468 -10.351  22.668  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.372 -10.893  21.925  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      41.483 -10.345  23.688  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      42.130 -10.759  20.226  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.576 -11.573  22.587  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.414 -12.278  21.526  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.490 -10.560  23.297  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.997  -9.224  23.292  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.644  -9.013  22.413  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      43.108 -12.533  23.541  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      43.820 -12.743  24.165  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:    -4.066      2.533      3.467
+REMARK INTER + INTRA:          -7.323
+REMARK INTER:                  -5.186
+REMARK INTRA:                  -2.137
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      38.524  -7.808  16.800  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      39.491  -7.469  15.836  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      40.795  -7.753  16.017  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      41.484  -7.514  15.304  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.167  -8.355  17.150  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.283  -8.726  18.149  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.935  -8.437  17.958  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      37.234  -7.380  16.575  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.155  -8.310  16.749  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.219  -8.219  15.560  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.451  -8.045  18.070  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.261  -9.149  18.898  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      34.591  -8.979  20.085  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      34.091  -7.776  20.504  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.451 -10.059  20.898  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      34.258  -6.675  19.683  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      34.907  -6.810  18.457  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.069  -5.640  17.652  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      34.101  -5.171  16.855  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      34.666  -4.123  16.269  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      33.156  -5.532  16.729  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      35.981  -4.023  16.689  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      36.242  -5.008  17.537  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      37.126  -5.231  17.994  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      39.151  -6.808  14.728  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      38.269  -6.957  14.317  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      39.783  -6.172  14.321  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.721  -9.353  19.412  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.346  -9.214  20.722  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      39.245  -8.357  21.256  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      41.054  -9.992  21.620  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      41.929 -10.713  21.006  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      40.904  -9.996  22.628  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      42.002 -10.518  19.297  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      42.836 -11.643  21.821  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      43.682 -12.490  20.877  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.802 -10.858  22.724  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.323  -9.577  23.119  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      44.065  -8.955  23.168  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      42.024 -12.499  22.632  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      42.459 -13.360  22.729  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:    -4.007      3.643      8.379
+REMARK INTER + INTRA:          -7.234
+REMARK INTER:                  -5.839
+REMARK INTRA:                  -1.395
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      39.786  -9.874  22.049  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      39.552 -10.018  23.429  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      38.469  -9.476  24.020  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      38.305  -9.599  25.019  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      37.617  -8.773  23.270  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      37.768  -8.583  21.906  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.884  -9.149  21.297  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      40.973 -10.371  21.557  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      40.986 -10.971  20.253  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      40.267 -12.304  20.309  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      42.416 -11.097  19.755  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      42.641 -10.730  18.430  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      43.905 -10.865  17.911  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      44.967 -11.348  18.626  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      44.114 -10.463  16.630  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      44.754 -11.732  19.937  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      43.480 -11.639  20.495  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      43.313 -12.033  21.858  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      43.464 -11.182  22.881  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      43.269 -11.945  23.948  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      43.679 -10.186  22.847  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      43.058 -13.251  23.540  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      43.123 -13.307  22.216  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      43.047 -14.127  21.614  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      40.425 -10.659  24.209  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      40.778 -10.220  25.016  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      40.716 -11.570  23.977  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      36.836  -7.767  21.104  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      35.676  -7.096  21.386  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      35.025  -6.946  22.722  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      35.087  -6.464  20.306  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      35.789  -6.639  19.238  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      34.217  -5.934  20.347  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      37.214  -7.587  19.420  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      35.304  -6.031  17.917  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      36.361  -5.075  17.374  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      35.061  -7.105  16.844  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      34.623  -8.358  17.360  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      35.393  -8.893  17.607  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      34.087  -5.312  18.148  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      33.660  -5.118  17.299  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:    -3.998      2.006      2.822
+REMARK INTER + INTRA:          -7.220
+REMARK INTER:                  -5.218
+REMARK INTRA:                  -2.003
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      38.863  -8.252  17.161  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      39.575  -7.601  16.138  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      40.912  -7.719  16.024  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      41.415  -7.252  15.270  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.566  -8.461  16.922  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.945  -9.139  17.958  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      39.563  -9.019  18.070  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      37.515  -7.984  17.259  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.816  -8.369  18.452  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.361  -8.632  18.117  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.988  -7.301  19.520  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      37.535  -7.722  20.729  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      37.673  -6.811  21.748  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      37.295  -5.500  21.643  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      38.247  -7.231  22.905  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      36.734  -5.072  20.453  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.550  -5.971  19.404  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.981  -5.478  18.190  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.725  -5.093  17.146  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      35.827  -4.674  16.265  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      37.740  -5.117  17.052  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      34.564  -4.767  16.824  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      34.671  -5.243  18.058  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      33.930  -5.395  18.742  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      38.951  -6.801  15.271  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      38.838  -5.845  15.476  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      38.602  -7.167  14.426  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      41.692  -9.919  18.965  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      42.782 -10.746  18.909  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      43.619 -11.051  17.710  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      43.149 -11.315  20.115  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.368 -10.918  21.061  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.929 -11.960  20.239  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.111  -9.837  20.598  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      42.592 -11.443  22.484  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      41.960 -12.823  22.626  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.086 -11.585  22.817  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      44.925 -10.649  22.149  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      44.841 -10.765  21.190  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      41.985 -10.543  23.419  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      42.008 -10.934  24.306  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:    -3.829      2.309      3.289
+REMARK INTER + INTRA:          -6.969
+REMARK INTER:                  -5.563
+REMARK INTRA:                  -1.406
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      39.820  -8.350  17.183  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      40.688  -7.849  16.196  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      41.989  -8.198  16.159  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      42.605  -7.838  15.430  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      42.455  -9.026  17.098  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      41.672  -9.568  18.103  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      40.327  -9.210  18.136  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      38.536  -7.852  17.203  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      37.446  -8.731  16.890  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      36.745  -8.235  15.641  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.510  -8.841  18.082  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.413 -10.098  18.675  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.549 -10.269  19.729  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      34.766  -9.266  20.232  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      35.499 -11.491  20.320  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      34.839  -8.018  19.642  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      35.682  -7.808  18.551  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.735  -6.497  17.986  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.740  -5.646  18.227  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.385  -4.555  17.561  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      37.577  -5.800  18.787  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      35.145  -4.760  16.980  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      34.722  -5.980  17.283  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      33.834  -6.420  17.038  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      40.260  -6.969  15.289  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      39.424  -7.138  14.795  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      40.778  -6.151  15.113  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      42.217 -10.447  19.156  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      43.282 -11.306  19.219  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      44.306 -11.550  18.159  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      43.423 -11.976  20.421  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.501 -11.623  21.250  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      44.156 -12.656  20.624  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.366 -10.467  20.668  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      42.465 -12.261  22.644  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      43.671 -13.177  22.819  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      42.523 -11.206  23.761  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.328 -10.073  23.453  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      42.823  -9.262  23.622  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      41.262 -13.026  22.781  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      41.485 -13.958  22.928  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:    -3.814      2.226      3.069
+REMARK INTER + INTRA:          -6.946
+REMARK INTER:                  -5.471
+REMARK INTRA:                  -1.475
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      37.548  -9.129  18.219  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      38.193  -8.574  17.098  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      39.523  -8.694  16.919  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      39.976  -8.298  16.096  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      40.236  -9.341  17.844  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      39.684  -9.920  18.975  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.308  -9.800  19.154  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.205  -8.862  18.368  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.751  -8.249  19.584  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.236  -8.285  19.627  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.307  -6.839  19.692  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.116  -6.016  18.585  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      36.636  -4.744  18.607  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      37.342  -4.236  19.663  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      36.404  -3.943  17.535  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      37.554  -5.049  20.762  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      37.068  -6.356  20.769  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      37.298  -7.151  21.934  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      38.415  -7.868  22.111  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      38.209  -8.476  23.272  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      39.228  -7.931  21.500  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      36.947  -8.150  23.738  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      36.360  -7.339  22.868  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      35.417  -6.951  22.904  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      37.510  -7.866  16.196  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      36.961  -8.327  15.521  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      37.556  -6.883  16.206  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.497 -10.595  20.006  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.197 -11.343  21.114  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      38.840 -11.765  21.574  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      41.290 -11.773  21.844  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.388 -11.376  21.296  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      41.236 -12.327  22.697  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      42.219 -10.438  19.862  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.725 -11.734  21.956  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.802 -11.876  20.886  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.192 -10.646  22.937  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.259  -9.586  23.121  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.239  -9.332  24.057  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      43.585 -12.973  22.659  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      44.453 -13.262  22.981  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:    -3.701      3.576      4.635
+REMARK INTER + INTRA:          -6.776
+REMARK INTER:                  -4.698
+REMARK INTRA:                  -2.078
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      36.844 -10.200  20.272  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      35.918 -11.092  20.843  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      36.307 -12.071  21.683  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      35.624 -12.703  22.099  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      37.609 -12.197  21.957  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      38.587 -11.362  21.443  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.181 -10.347  20.580  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.364  -9.303  19.344  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.426  -8.302  19.767  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.260  -8.268  18.799  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.123  -6.957  19.892  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.134  -6.162  18.749  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      36.788  -4.954  18.789  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      37.441  -4.486  19.896  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      36.752  -4.174  17.678  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      37.453  -5.275  21.033  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.826  -6.519  21.027  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.852  -7.290  22.229  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      35.742  -7.614  22.905  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.205  -8.279  23.956  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      34.774  -7.402  22.668  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      37.588  -8.289  23.913  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      37.994  -7.630  22.836  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      38.950  -7.430  22.541  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      34.622 -11.027  20.530  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      34.278 -10.261  20.015  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      34.010 -11.744  20.814  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.024 -11.545  21.727  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.795 -11.419  22.851  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      40.325 -11.096  24.232  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.144 -11.662  22.668  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.386 -11.978  21.442  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      42.849 -11.599  23.401  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.027 -12.002  20.386  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.830 -12.275  21.018  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.706 -11.059  21.297  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.426 -13.459  21.797  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      44.151 -13.438  23.194  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      44.612 -14.174  23.625  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      43.858 -12.571  19.617  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      44.700 -12.273  19.240  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:    -3.675      1.822      2.397
+REMARK INTER + INTRA:          -6.738
+REMARK INTER:                  -5.150
+REMARK INTRA:                  -1.587
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      38.125  -8.351  17.798  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      38.879  -8.154  16.626  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      40.192  -8.453  16.574  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      40.723  -8.317  15.714  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      40.782  -8.931  17.673  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.117  -9.159  18.866  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.759  -8.854  18.916  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.819  -7.915  17.786  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.904  -8.440  18.760  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.507  -8.464  18.172  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.988  -7.626  20.041  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.218  -6.261  19.889  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      36.347  -5.482  21.012  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      36.267  -5.975  22.286  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      36.530  -4.146  20.844  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      36.055  -7.332  22.451  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      35.947  -8.164  21.338  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.713  -9.556  21.560  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.693 -10.467  21.530  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.055 -11.612  21.738  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      37.690 -10.318  21.383  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      34.696 -11.364  21.832  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      34.481 -10.063  21.683  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      33.590  -9.568  21.666  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      38.325  -7.615  15.538  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      37.401  -7.847  15.289  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      38.841  -6.985  14.984  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.798  -9.648  20.081  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.611  -9.446  21.422  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      39.522  -8.654  22.069  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      41.518 -10.090  22.244  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.360 -10.773  21.545  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      41.521 -10.032  23.262  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      42.157 -10.700  19.837  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.466 -11.555  22.264  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.301 -12.318  21.241  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.420 -10.627  23.034  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.879  -9.341  23.321  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      44.420  -8.906  23.998  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      42.870 -12.481  23.178  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      42.868 -13.368  22.785  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:    -3.467      3.134      4.919
+REMARK INTER + INTRA:          -6.426
+REMARK INTER:                  -4.924
+REMARK INTRA:                  -1.502
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      36.525 -10.150  21.823  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      36.080 -11.424  22.221  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      36.947 -12.413  22.512  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      36.612 -13.328  22.812  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      38.256 -12.169  22.400  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      38.780 -10.945  22.019  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      37.882  -9.923  21.723  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      35.564  -9.239  21.442  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.370  -8.979  20.044  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.984 -10.105  19.236  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.946  -7.618  19.685  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.500  -7.501  18.413  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      37.075  -6.309  18.048  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      37.141  -5.219  18.873  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      37.574  -6.200  16.789  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      36.610  -5.327  20.146  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.042  -6.529  20.566  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.493  -6.587  21.884  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.250  -6.738  22.977  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      35.363  -6.784  23.962  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      37.266  -6.802  23.038  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      34.087  -6.714  23.429  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      34.175  -6.626  22.108  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      33.417  -6.595  21.426  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      34.778 -11.709  22.274  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      34.418 -12.465  21.756  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      34.177 -11.164  22.832  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.229 -10.710  21.861  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      41.006 -10.216  20.848  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      40.538  -9.673  19.537  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.364 -10.192  21.109  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.607 -10.641  22.293  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.075  -9.865  20.456  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.237 -11.149  23.204  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      44.059 -10.714  22.781  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.172 -11.744  23.900  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      45.021 -11.145  21.662  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      44.441 -12.014  20.695  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      45.144 -12.471  20.207  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      44.456  -9.430  23.274  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      43.843  -8.754  22.946  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 20
+REMARK VINA RESULT:    -3.460      3.498      4.788
+REMARK INTER + INTRA:          -6.415
+REMARK INTER:                  -4.830
+REMARK INTRA:                  -1.586
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      37.093 -10.593  20.583  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      36.338 -11.475  21.376  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      36.926 -12.335  22.231  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      36.366 -12.961  22.809  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      38.260 -12.350  22.303  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      39.080 -11.515  21.563  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.469 -10.624  20.685  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.408  -9.830  19.664  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.413  -8.907  20.132  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.193  -8.989  19.236  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.997  -7.505  20.199  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.868  -6.729  19.050  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      36.416  -5.470  19.036  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      37.093  -4.929  20.096  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      36.244  -4.712  17.922  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      37.243  -5.696  21.237  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.727  -6.991  21.283  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      36.894  -7.737  22.490  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      35.861  -8.208  23.198  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.440  -8.789  24.240  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      34.866  -8.136  22.987  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      37.810  -8.605  24.159  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      38.089  -7.906  23.066  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      38.999  -7.576  22.743  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      35.008 -11.524  21.271  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      34.489 -10.690  21.204  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      34.547 -12.394  21.261  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.554 -11.578  21.628  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      41.462 -11.554  22.652  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      41.165 -11.521  24.116  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.787 -11.608  22.262  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.881 -11.687  20.978  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.582 -11.588  22.901  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.393 -11.689  20.113  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      44.270 -11.742  20.332  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.914 -13.095  20.617  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      44.201 -11.579  18.805  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      45.009 -10.524  18.293  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      44.991  -9.775  18.908  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      45.086 -10.701  20.881  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      44.655  -9.844  20.740  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 21
+REMARK VINA RESULT:    -3.423      3.131      5.332
+REMARK INTER + INTRA:          -6.360
+REMARK INTER:                  -5.151
+REMARK INTRA:                  -1.209
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      36.464 -10.660  20.632  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      35.790 -11.533  21.505  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      36.460 -12.348  22.343  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      35.959 -12.967  22.980  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      37.795 -12.330  22.319  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      38.539 -11.501  21.495  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      37.844 -10.656  20.635  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      35.695  -9.945  19.740  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      35.545  -8.531  19.932  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.191  -8.252  20.554  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      35.744  -7.805  18.611  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.169  -8.398  17.490  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.353  -7.811  16.262  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      36.080  -6.668  16.074  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.750  -8.382  15.186  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      36.671  -6.078  17.176  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.533  -6.656  18.437  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      37.149  -6.001  19.548  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      37.047  -4.683  19.757  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      37.782  -4.486  20.843  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      36.528  -3.995  19.211  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      38.353  -5.686  21.229  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      37.978  -6.636  20.383  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      38.255  -7.618  20.372  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      34.458 -11.616  21.498  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      33.913 -10.798  21.440  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      34.020 -12.496  21.550  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.014 -11.527  21.456  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      40.993 -11.338  22.394  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      40.804 -11.098  23.856  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.288 -11.424  21.915  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.290 -11.686  20.653  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.126 -11.297  22.483  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      40.744 -11.842  19.913  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      43.630 -11.810  19.917  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      43.975 -13.283  19.725  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.582 -11.163  18.523  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      44.848 -10.734  18.034  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      45.194 -10.031  18.605  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      44.653 -11.178  20.694  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      44.246 -10.637  21.388  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 22
+REMARK VINA RESULT:    -3.414      3.317      7.083
+REMARK INTER + INTRA:          -6.347
+REMARK INTER:                  -5.975
+REMARK INTRA:                  -0.372
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      41.733 -10.034  18.529  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      42.768  -9.870  17.591  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      42.614  -9.097  16.498  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      43.377  -8.977  15.833  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.439  -8.492  16.306  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.368  -8.595  17.178  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      40.532  -9.390  18.309  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      41.948 -10.928  19.555  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      41.059 -10.919  20.681  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      40.844  -9.489  21.138  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      41.609 -11.810  21.783  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      42.983 -12.036  21.763  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      43.531 -12.868  22.707  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      42.797 -13.500  23.674  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      44.878 -13.044  22.697  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      41.429 -13.298  23.694  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      40.828 -12.482  22.737  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      39.414 -12.292  22.809  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      38.548 -13.019  22.092  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      37.370 -12.503  22.416  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      38.747 -13.786  21.451  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      37.562 -11.439  23.281  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      38.862 -11.287  23.498  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      39.330 -10.573  24.057  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      43.926 -10.519  17.729  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      44.478 -10.377  18.532  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      44.230 -11.139  17.027  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      39.064  -7.951  16.924  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      38.610  -7.063  15.986  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      39.372  -6.512  14.825  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      37.288  -6.683  16.131  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      36.751  -7.279  17.140  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      36.804  -6.023  15.523  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      37.779  -8.340  18.024  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      35.287  -6.987  17.489  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      34.734  -8.110  18.359  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      35.134  -5.676  18.278  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      35.726  -4.543  17.651  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      35.037  -3.898  17.430  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      34.524  -6.900  16.280  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      35.114  -6.994  15.517  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 23
+REMARK VINA RESULT:    -3.381      2.980      5.054
+REMARK INTER + INTRA:          -6.298
+REMARK INTER:                  -4.261
+REMARK INTRA:                  -2.037
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      36.965  -9.886  22.803  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      36.477 -10.833  23.721  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      37.274 -11.788  24.240  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      36.911 -12.460  24.915  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      38.551 -11.834  23.851  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      39.115 -10.941  22.955  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.291  -9.952  22.425  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      36.050  -9.019  22.247  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.221  -7.608  22.448  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      35.015  -7.058  23.183  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.459  -6.920  21.114  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      36.772  -5.564  21.169  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      36.954  -4.878  19.993  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      36.839  -5.454  18.758  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      37.300  -3.566  20.068  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      36.510  -6.796  18.689  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      36.290  -7.523  19.857  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      35.969  -8.910  19.735  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      36.850  -9.821  19.305  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      36.151 -10.948  19.300  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      37.826  -9.682  19.044  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      34.847 -10.675  19.676  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      34.728  -9.376  19.916  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      33.890  -8.855  20.176  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      35.190 -10.847  24.072  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      34.656 -11.666  23.954  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      34.773 -10.039  24.449  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      40.519 -11.036  22.507  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      41.144 -10.869  21.301  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      40.518 -10.442  20.014  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      42.510 -11.088  21.314  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      42.910 -11.396  22.500  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      43.117 -11.015  20.497  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      41.690 -11.469  23.712  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      44.396 -11.694  22.733  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      44.549 -12.636  23.923  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      45.043 -12.380  21.518  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      44.969 -11.626  20.313  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      45.003 -12.227  19.553  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      45.085 -10.469  23.004  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      45.942 -10.663  23.414  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 24
+REMARK VINA RESULT:    -3.322      2.877      6.668
+REMARK INTER + INTRA:          -6.209
+REMARK INTER:                  -5.836
+REMARK INTRA:                  -0.374
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      41.082  -9.965  19.232  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      42.226 -10.032  18.416  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      42.293  -9.378  17.240  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      43.133  -9.425  16.664  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      41.234  -8.668  16.844  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      40.070  -8.544  17.584  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      40.006  -9.216  18.802  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      41.068 -10.753  20.362  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      39.879 -11.492  20.676  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      38.956 -11.492  19.473  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      39.221 -10.912  21.918  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      37.855 -10.654  21.827  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      37.215 -10.089  22.903  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      37.849  -9.756  24.069  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      35.876  -9.883  22.811  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      39.209  -9.991  24.166  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      39.903 -10.537  23.087  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      41.303 -10.776  23.241  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      42.236  -9.978  22.708  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      43.375 -10.568  23.044  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      42.102  -9.121  22.172  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      43.096 -11.739  23.727  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      41.780 -11.885  23.817  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      41.257 -12.658  24.228  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      43.269 -10.790  18.760  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      44.186 -10.449  18.645  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      43.123 -11.691  19.129  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      38.895  -7.787  17.108  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      38.656  -6.988  16.022  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      39.592  -6.700  14.894  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      37.390  -6.434  15.970  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      36.685  -6.815  16.979  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      37.060  -5.810  15.234  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      37.471  -7.861  18.097  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      35.247  -6.301  17.123  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      34.703  -6.679  18.496  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      35.168  -4.770  17.003  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      36.315  -4.086  17.496  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      37.049  -4.194  16.872  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      34.431  -6.896  16.107  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      33.530  -6.543  16.168  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 25
+REMARK VINA RESULT:    -3.230      3.343      8.336
+REMARK INTER + INTRA:          -6.072
+REMARK INTER:                  -5.496
+REMARK INTRA:                  -0.576
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      39.737 -10.012  21.980  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      39.529  -9.994  23.371  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      38.511  -9.306  23.923  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      38.365  -9.312  24.932  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      37.698  -8.614  23.120  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      37.827  -8.579  21.741  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.876  -9.296  21.173  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      40.865 -10.655  21.520  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      40.857 -11.207  20.195  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      40.025 -12.474  20.185  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      42.283 -11.438  19.722  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      43.039 -12.341  20.465  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      44.349 -12.558  20.112  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      44.961 -11.926  19.063  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      45.058 -13.472  20.823  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      44.227 -11.014  18.328  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      42.903 -10.744  18.670  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      42.181  -9.806  17.870  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      42.677  -9.284  16.741  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      41.727  -8.448  16.344  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      43.572  -9.482  16.295  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      40.704  -8.448  17.276  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      41.013  -9.283  18.260  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      40.486  -9.480  19.110  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      40.369 -10.623  24.197  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      40.065 -10.898  25.092  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      41.292 -10.811  23.911  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      36.942  -7.774  20.876  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      35.598  -7.511  20.874  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      34.592  -7.960  21.882  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      35.161  -6.707  19.837  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      36.147  -6.358  19.084  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      34.191  -6.428  19.688  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      37.692  -6.969  19.534  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      35.878  -5.473  17.861  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      36.370  -6.176  16.601  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      34.378  -5.191  17.674  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      34.092  -4.091  16.817  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      34.594  -4.185  15.992  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      36.574  -4.231  18.016  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      36.558  -3.966  18.949  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL
+MODEL 26
+REMARK VINA RESULT:    -3.058      2.646      4.872
+REMARK INTER + INTRA:          -5.813
+REMARK INTER:                  -6.614
+REMARK INTRA:                   0.801
+REMARK UNBOUND:                -1.236
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  O7_8 
+REMARK    2  A    between atoms: C2_2  and  N8_9 
+REMARK    3  A    between atoms: C5_6  and  C23_26 
+REMARK    4  A    between atoms: O7_8  and  C9_10 
+REMARK    5  A    between atoms: C9_10  and  C10_11 
+REMARK    6  A    between atoms: C12_13  and  N18_19 
+REMARK    7  A    between atoms: C26_30  and  C29_33 
+REMARK    8  A    between atoms: C29_33  and  C30_34 
+REMARK    9  A    between atoms: C29_33  and  O31_35 
+REMARK   10  A    between atoms: C30_34  and  O33_37 
+ROOT
+ATOM      1  C1  AWJ A2301      37.430  -6.815  20.243  1.00  0.00     0.114 A 
+ATOM      2  C2  AWJ A2301      36.719  -6.163  21.267  1.00  0.00     0.132 A 
+ATOM      3  N3  AWJ A2301      36.905  -6.477  22.565  1.00  0.00    -0.350 N 
+ATOM      4  H3  AWJ A2301      36.392  -5.987  23.298  1.00  0.00     0.166 HD
+ATOM      5  C4  AWJ A2301      37.773  -7.445  22.869  1.00  0.00     0.102 A 
+ATOM      6  C5  AWJ A2301      38.517  -8.136  21.927  1.00  0.00     0.001 A 
+ATOM      7  C6  AWJ A2301      38.327  -7.805  20.588  1.00  0.00     0.055 A 
+ENDROOT
+BRANCH   1   8
+ATOM      8  O7  AWJ A2301      37.094  -6.501  18.945  1.00  0.00    -0.338 OA
+BRANCH   8   9
+ATOM      9  C9  AWJ A2301      36.144  -7.327  18.255  1.00  0.00     0.160 C 
+ATOM     10  C11 AWJ A2301      34.740  -6.893  18.626  1.00  0.00     0.045 C 
+BRANCH   9  11
+ATOM     11  C10 AWJ A2301      36.407  -8.791  18.569  1.00  0.00     0.004 A 
+ATOM     12  C16 AWJ A2301      35.445  -9.437  19.342  1.00  0.00     0.054 A 
+ATOM     13  C15 AWJ A2301      35.649 -10.748  19.695  1.00  0.00     0.117 A 
+ATOM     14  C14 AWJ A2301      36.758 -11.463  19.332  1.00  0.00     0.044 A 
+ATOM     15  F17 AWJ A2301      34.681 -11.373  20.414  1.00  0.00    -0.206 F 
+ATOM     16  C13 AWJ A2301      37.730 -10.829  18.579  1.00  0.00     0.037 A 
+ATOM     17  C12 AWJ A2301      37.575  -9.490  18.223  1.00  0.00     0.084 A 
+BRANCH  17  18
+ATOM     18  N18 AWJ A2301      38.598  -8.883  17.432  1.00  0.00    -0.197 N 
+ATOM     19  N19 AWJ A2301      39.902  -9.024  17.703  1.00  0.00    -0.289 N 
+ATOM     20  C20 AWJ A2301      40.491  -8.284  16.774  1.00  0.00     0.127 A 
+ATOM     21  H19 AWJ A2301      40.337  -9.571  18.445  1.00  0.00     0.188 HD
+ATOM     22  C21 AWJ A2301      39.522  -7.670  15.999  1.00  0.00     0.127 A 
+ATOM     23  N22 AWJ A2301      38.324  -8.025  16.443  1.00  0.00    -0.289 N 
+ATOM     24  H22 AWJ A2301      37.410  -7.717  16.110  1.00  0.00     0.188 HD
+ENDBRANCH  17  18
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   1   8
+BRANCH   2  25
+ATOM     25  N8  AWJ A2301      35.798  -5.241  20.982  1.00  0.00    -0.383 N 
+ATOM     26  H   AWJ A2301      35.889  -4.327  21.338  1.00  0.00     0.157 HD
+ATOM     27  H   AWJ A2301      35.027  -5.474  20.415  1.00  0.00     0.157 HD
+ENDBRANCH   2  25
+BRANCH   6  28
+ATOM     28  C23 AWJ A2301      39.440  -9.231  22.283  1.00  0.00     0.040 A 
+ATOM     29  C24 AWJ A2301      39.433 -10.205  23.245  1.00  0.00     0.024 A 
+ATOM     30  C28 AWJ A2301      38.351 -10.481  24.238  1.00  0.00     0.069 C 
+ATOM     31  N25 AWJ A2301      40.540 -11.034  23.248  1.00  0.00    -0.354 N 
+ATOM     32  C26 AWJ A2301      41.356 -10.707  22.305  1.00  0.00     0.088 A 
+ATOM     33  H25 AWJ A2301      40.690 -11.799  23.905  1.00  0.00     0.166 HD
+ATOM     34  S27 AWJ A2301      40.886  -9.367  21.332  1.00  0.00    -0.071 SA
+BRANCH  32  35
+ATOM     35  C29 AWJ A2301      42.662 -11.493  22.140  1.00  0.00     0.124 C 
+ATOM     36  C32 AWJ A2301      43.002 -11.617  20.658  1.00  0.00     0.055 C 
+BRANCH  35  37
+ATOM     37  C30 AWJ A2301      43.846 -10.792  22.826  1.00  0.00     0.208 C 
+BRANCH  37  38
+ATOM     38  O33 AWJ A2301      43.567  -9.466  23.263  1.00  0.00    -0.397 OA
+ATOM     39  H   AWJ A2301      43.875  -9.355  24.176  1.00  0.00     0.209 HD
+ENDBRANCH  37  38
+ENDBRANCH  35  37
+BRANCH  35  40
+ATOM     40  O31 AWJ A2301      42.499 -12.800  22.702  1.00  0.00    -0.381 OA
+ATOM     41  H   AWJ A2301      41.571 -13.073  22.622  1.00  0.00     0.211 HD
+ENDBRANCH  35  40
+ENDBRANCH  32  35
+ENDBRANCH   6  28
+TORSDOF 10
+ENDMDL

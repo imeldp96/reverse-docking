@@ -1,0 +1,1530 @@
+MODEL 1
+REMARK VINA RESULT:    -6.828      0.000      0.000
+REMARK INTER + INTRA:          -9.171
+REMARK INTER:                  -8.226
+REMARK INTRA:                  -0.946
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.492  -3.199  31.960  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.636  -1.629  32.165  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.157  -3.881  30.874  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      36.579  -3.428  29.715  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.487  -2.399  31.391  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.627  -3.213  33.346  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.793  -1.660  33.544  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.777  -2.446  34.128  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      35.537  -2.580  30.016  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      34.934  -2.120  29.348  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.355  -4.796  31.001  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.225  -5.871  32.049  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.298  -6.903  32.182  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.272  -5.771  32.952  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      37.410  -7.794  33.245  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      38.457  -7.678  34.149  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.386  -6.666  34.006  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      40.107  -4.627  32.550  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.560  -4.095  31.446  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      41.122  -4.211  33.113  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.900  -3.282  30.947  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      36.524  -8.822  33.405  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      35.686  -8.603  32.915  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      36.902  -3.800  28.303  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.361  -2.669  27.498  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.113  -2.933  26.099  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.791  -2.440  27.687  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.215      1.051      1.377
+REMARK INTER + INTRA:          -8.432
+REMARK INTER:                  -7.595
+REMARK INTRA:                  -0.836
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.578  -3.263  31.788  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.697  -1.710  31.815  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.259  -4.047  30.785  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      36.680  -3.731  29.582  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.563  -2.545  31.132  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.705  -3.124  33.169  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.846  -1.588  33.189  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.839  -2.290  33.860  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      35.624  -2.873  29.785  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.018  -2.497  29.069  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.470  -4.924  31.015  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.298  -5.979  32.076  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.393  -7.034  32.171  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.278  -5.829  33.047  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      37.456  -7.898  33.260  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      38.436  -7.732  34.230  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.344  -6.697  34.127  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      40.106  -4.670  32.676  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.622  -4.178  31.524  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      41.068  -4.212  33.296  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.972  -3.367  31.030  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      36.590  -8.948  33.383  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      37.108  -9.767  33.610  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.017  -4.249  28.219  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.390  -5.663  28.215  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      38.227  -5.944  27.072  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      36.204  -6.514  28.150  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.159      0.815      1.087
+REMARK INTER + INTRA:          -8.365
+REMARK INTER:                  -7.417
+REMARK INTRA:                  -0.947
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.886  -3.315  31.827  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.995  -1.777  31.740  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.748  -3.952  30.859  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.381  -3.467  29.629  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.985  -2.510  31.110  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.769  -3.374  33.214  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.900  -1.852  33.123  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.777  -2.644  33.852  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      36.286  -2.644  29.762  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.805  -2.169  29.010  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.921  -4.855  31.173  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.622  -5.971  32.139  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.706  -7.020  32.060  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.482  -5.893  33.224  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      37.638  -7.950  33.094  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      38.498  -7.856  34.179  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.417  -6.827  34.247  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      40.352  -4.723  33.025  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      40.009  -4.156  31.858  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      41.238  -4.316  33.781  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      40.418  -3.320  31.460  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      36.759  -8.996  33.049  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      35.926  -8.696  32.595  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.961  -3.788  28.288  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.005  -4.421  27.381  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      36.988  -5.848  27.605  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      37.362  -4.168  25.987  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.087      1.265      1.501
+REMARK INTER + INTRA:          -8.278
+REMARK INTER:                  -7.458
+REMARK INTRA:                  -0.820
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.701  -3.232  32.229  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.865  -1.645  31.984  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.614  -3.906  31.335  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.350  -3.431  30.075  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.878  -2.414  31.437  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.483  -3.266  33.604  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.668  -1.696  33.357  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.468  -2.500  34.159  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      36.272  -2.576  30.117  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.860  -2.101  29.326  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.735  -4.835  31.746  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.328  -6.272  31.944  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.760  -7.187  31.059  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      38.662  -6.678  33.228  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      37.495  -8.484  31.488  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      37.826  -8.876  32.778  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      38.405  -7.974  33.649  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.272  -5.531  33.919  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.296  -4.503  33.056  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.686  -5.495  35.080  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.640  -3.572  33.250  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      36.946  -9.410  30.647  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      36.086  -9.056  30.296  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      38.016  -3.788  28.784  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.072  -4.128  27.722  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.286  -5.493  27.297  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      37.243  -3.246  26.570  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -6.001      1.174      1.298
+REMARK INTER + INTRA:          -8.175
+REMARK INTER:                  -7.413
+REMARK INTRA:                  -0.762
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.677  -3.213  32.252  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.821  -1.640  32.081  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.570  -3.867  31.324  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.267  -3.377  30.079  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.824  -2.392  31.495  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.497  -3.268  33.633  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.663  -1.712  33.458  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.492  -2.519  34.226  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      36.183  -2.533  30.163  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.745  -2.051  29.390  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.710  -4.791  31.690  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.321  -6.232  31.889  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.731  -7.144  31.015  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      38.698  -6.647  33.158  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      37.489  -8.447  31.441  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      37.864  -8.847  32.716  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      38.464  -7.949  33.576  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.322  -5.501  33.839  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.311  -4.466  32.985  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.773  -5.472  34.987  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.655  -3.534  33.176  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      36.920  -9.370  30.609  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      36.020  -9.608  30.961  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.900  -3.710  28.765  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      38.194  -2.533  27.950  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.980  -2.838  26.555  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      39.579  -2.106  28.132  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -5.694      2.394      5.771
+REMARK INTER + INTRA:          -7.805
+REMARK INTER:                  -7.037
+REMARK INTRA:                  -0.768
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.512  -3.106  31.909  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.475  -2.389  33.997  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.615  -3.963  31.541  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.091  -4.509  32.706  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.418  -3.133  33.311  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.625  -2.301  31.197  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.602  -1.596  33.265  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      34.678  -1.551  31.879  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.417  -3.974  33.780  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.582  -4.192  34.753  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.045  -4.299  30.131  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.941  -3.278  29.479  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      40.194  -2.798  29.854  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      38.367  -2.843  28.294  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      40.835  -1.854  29.056  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      40.246  -1.419  27.876  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.012  -1.909  27.497  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.079  -3.536  28.136  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      36.924  -4.350  29.191  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      36.270  -3.405  27.214  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      36.125  -4.944  29.372  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      42.068  -1.366  29.387  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      42.304  -0.635  28.755  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      39.218  -5.476  32.892  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      39.152  -6.203  34.158  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      40.486  -6.407  34.674  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.513  -7.504  33.980  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -5.493      2.423      5.642
+REMARK INTER + INTRA:          -7.562
+REMARK INTER:                  -6.641
+REMARK INTRA:                  -0.921
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.638  -3.392  31.981  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.486  -2.456  33.916  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.690  -4.359  31.769  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.012  -4.864  33.004  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.419  -3.318  33.367  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.892  -2.566  31.143  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.755  -1.645  33.060  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      34.957  -1.698  31.687  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.294  -4.205  33.976  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.353  -4.371  34.971  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.213  -4.822  30.427  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.566  -3.716  29.467  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      39.486  -2.675  29.578  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.850  -3.874  28.290  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      39.643  -1.781  28.523  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      38.914  -1.945  27.353  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      38.015  -2.987  27.236  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      36.993  -5.062  28.439  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      37.219  -5.574  29.659  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      36.201  -5.518  27.611  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      36.762  -6.383  30.058  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      40.540  -0.753  28.593  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      41.419  -1.112  28.890  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      39.028  -5.905  33.350  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      40.195  -5.365  34.046  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      41.132  -4.828  33.086  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      40.864  -6.403  34.826  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -5.389      2.489      4.570
+REMARK INTER + INTRA:          -7.437
+REMARK INTER:                  -6.644
+REMARK INTRA:                  -0.793
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      39.757  -2.872  30.168  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      41.530  -1.606  29.072  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      38.498  -3.453  29.764  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.387  -3.247  28.412  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      40.323  -2.281  29.026  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      40.437  -2.768  31.379  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      42.189  -1.517  30.291  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      41.646  -2.090  31.433  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      39.451  -2.495  27.968  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      39.605  -2.188  27.018  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.570  -4.260  30.645  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      36.708  -3.445  31.575  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      35.758  -2.461  31.305  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      36.924  -3.848  32.884  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      35.070  -1.864  32.357  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.301  -2.270  33.665  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      36.229  -3.257  33.930  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.939  -4.913  32.867  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.286  -5.122  31.587  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      38.405  -5.515  33.837  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      38.979  -5.782  31.259  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      34.127  -0.901  32.131  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      33.275  -1.341  31.867  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.283  -3.661  27.492  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.539  -3.324  26.094  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      36.642  -2.273  25.672  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      37.340  -4.486  25.232  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -5.386      2.701      4.728
+REMARK INTER + INTRA:          -7.434
+REMARK INTER:                  -6.490
+REMARK INTRA:                  -0.944
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      39.530  -3.507  30.340  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      41.292  -2.560  28.945  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      38.282  -4.196  30.107  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.178  -4.368  28.750  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      40.096  -3.241  29.082  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      40.201  -3.066  31.479  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      41.941  -2.131  30.095  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      41.400  -2.380  31.349  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      39.234  -3.749  28.121  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      39.389  -3.710  27.123  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.360  -4.746  31.173  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      36.586  -3.708  31.942  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      35.674  -2.747  31.507  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      36.846  -3.841  33.297  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      35.068  -1.906  32.436  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.343  -2.043  33.790  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      36.233  -3.007  34.221  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.805  -4.944  33.466  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.079  -5.434  32.246  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      38.288  -5.357  34.523  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      38.722  -6.187  32.038  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      34.164  -0.957  32.049  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      33.282  -1.166  32.462  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.086  -5.034  27.975  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.266  -6.479  27.849  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.578  -6.815  26.480  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      36.053  -7.192  28.244  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -5.369      2.408      5.879
+REMARK INTER + INTRA:          -7.413
+REMARK INTER:                  -6.485
+REMARK INTRA:                  -0.928
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.714  -3.330  31.845  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.599  -2.527  33.861  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.836  -4.192  31.556  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.277  -4.678  32.761  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.572  -3.292  33.243  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.845  -2.569  31.067  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.745  -1.778  33.063  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      34.869  -1.797  31.679  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.562  -4.100  33.785  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.695  -4.270  34.772  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.318  -4.590  30.178  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.699  -3.440  29.283  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      39.663  -2.445  29.441  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.959  -3.495  28.112  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      39.838  -1.493  28.441  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      39.084  -1.553  27.277  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      38.142  -2.550  27.113  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.058  -4.655  28.202  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      37.283  -5.252  29.384  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      36.234  -5.027  27.363  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      36.799  -6.067  29.740  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      40.777  -0.507  28.558  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      41.681  -0.921  28.550  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      39.405  -5.623  33.030  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      39.261  -6.351  34.289  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      40.562  -6.584  34.871  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.604  -7.638  34.075  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:    -5.350      2.292      5.274
+REMARK INTER + INTRA:          -7.390
+REMARK INTER:                  -6.875
+REMARK INTRA:                  -0.515
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      38.035  -2.936  28.314  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      39.031  -1.585  26.544  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      38.412  -3.333  29.650  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      39.598  -2.700  29.926  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      39.064  -2.116  27.821  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.953  -3.219  27.483  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      37.941  -1.880  25.736  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      36.913  -2.691  26.201  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      40.027  -2.012  28.815  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      40.879  -1.474  28.742  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.574  -4.161  30.600  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      36.701  -3.366  31.535  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      35.680  -2.455  31.271  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      36.996  -3.703  32.848  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      34.999  -1.861  32.330  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.309  -2.200  33.640  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      36.309  -3.116  33.900  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      38.076  -4.702  32.825  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.383  -4.938  31.540  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      38.619  -5.235  33.796  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.103  -5.566  31.207  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      33.987  -0.969  32.110  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      33.358  -1.000  32.881  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      40.415  -2.755  31.178  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      41.373  -3.859  31.194  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      41.923  -4.010  32.521  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      42.467  -3.615  30.257  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:    -5.324      2.364      5.563
+REMARK INTER + INTRA:          -7.359
+REMARK INTER:                  -6.501
+REMARK INTRA:                  -0.858
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.527  -3.411  32.081  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.427  -2.308  33.958  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.569  -4.399  31.926  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.920  -4.799  33.191  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.342  -3.219  33.461  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.763  -2.655  31.195  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.678  -1.567  33.054  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      34.846  -1.738  31.686  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.229  -4.056  34.122  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.312  -4.137  35.126  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.057  -4.977  30.616  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.339  -3.962  29.540  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      39.229  -2.889  29.512  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.585  -4.255  28.413  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      39.318  -2.100  28.369  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      38.552  -2.398  27.251  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      37.683  -3.472  27.272  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      36.773  -5.446  28.711  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      37.060  -5.829  29.965  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      35.966  -6.004  27.964  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      36.644  -6.607  30.459  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      40.184  -1.045  28.303  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      39.968  -0.405  29.034  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      38.941  -5.813  33.600  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      38.742  -7.118  32.972  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.739  -7.862  33.699  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      39.984  -7.887  32.963  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:    -4.958      2.248      3.547
+REMARK INTER + INTRA:          -6.919
+REMARK INTER:                  -6.174
+REMARK INTRA:                  -0.745
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.492  -3.240  31.899  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.663  -1.636  32.076  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.183  -3.908  30.821  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      36.659  -3.413  29.653  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.526  -2.404  31.314  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.575  -3.292  33.289  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.767  -1.705  33.458  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.712  -2.526  34.058  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      35.624  -2.550  29.938  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.057  -2.061  29.260  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.356  -4.851  30.968  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      39.711  -4.207  30.831  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      40.311  -3.186  31.567  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      40.425  -4.832  29.820  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      41.603  -2.778  31.249  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      42.304  -3.406  30.229  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      41.716  -4.429  29.512  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.569  -5.882  29.246  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.405  -5.867  29.915  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.846  -6.646  28.318  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      37.607  -6.463  29.735  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      42.226  -1.787  31.953  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      42.482  -2.139  32.848  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.027  -3.756  28.245  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.392  -2.590  27.443  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      36.990  -2.795  26.071  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.835  -2.362  27.480  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 14
+REMARK VINA RESULT:    -4.955      2.227      4.259
+REMARK INTER + INTRA:          -6.915
+REMARK INTER:                  -6.244
+REMARK INTRA:                  -0.671
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.561  -3.092  31.902  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.463  -2.277  33.922  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.710  -3.916  31.608  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.201  -4.348  32.814  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.452  -3.020  33.301  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.642  -2.390  31.124  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.560  -1.587  33.125  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      34.650  -1.641  31.740  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.487  -3.770  33.840  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.652  -3.906  34.828  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.174  -4.333  30.230  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.019  -5.800  29.925  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      36.882  -6.607  29.895  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.248  -6.337  29.574  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      37.003  -7.952  29.557  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      38.241  -8.479  29.216  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.364  -7.675  29.228  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      40.250  -5.262  29.656  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.612  -4.142  30.033  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      41.459  -5.350  29.431  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      40.040  -3.239  30.193  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      35.911  -8.772  29.510  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      35.097  -8.235  29.706  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      39.373  -5.238  33.081  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      39.163  -6.148  34.205  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      40.438  -6.583  34.726  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.399  -7.323  33.790  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 15
+REMARK VINA RESULT:    -4.874      2.107      3.662
+REMARK INTER + INTRA:          -6.817
+REMARK INTER:                  -5.896
+REMARK INTRA:                  -0.921
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.488  -4.170  32.765  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.768  -2.253  31.439  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.054  -5.469  32.485  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.256  -5.524  31.129  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.320  -3.519  31.531  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.081  -3.515  33.925  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      35.372  -1.621  32.610  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.526  -2.247  33.840  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      36.768  -4.380  30.540  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      36.776  -4.172  29.551  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.474  -6.495  33.515  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.960  -6.598  33.739  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      39.884  -5.644  34.165  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.377  -7.901  33.512  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      41.220  -6.002  34.316  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      41.627  -7.308  34.077  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      40.708  -8.256  33.672  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      38.199  -8.688  33.114  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      37.139  -7.864  33.122  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      38.168  -9.885  32.817  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      36.191  -8.114  32.873  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      42.153  -5.097  34.739  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      42.665  -4.770  33.950  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.833  -6.639  30.316  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      39.294  -6.658  30.315  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      39.797  -5.488  29.633  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      39.800  -7.850  29.638  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 16
+REMARK VINA RESULT:    -4.836      2.445      4.287
+REMARK INTER + INTRA:          -6.771
+REMARK INTER:                  -5.934
+REMARK INTRA:                  -0.837
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.874  -3.548  32.153  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.763  -2.738  34.168  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.937  -4.481  31.860  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.307  -5.041  33.057  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.695  -3.551  33.547  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.086  -2.697  31.381  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.990  -1.899  33.377  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.151  -1.878  31.997  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.606  -4.449  34.083  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.698  -4.664  35.066  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.428  -4.863  30.481  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.087  -6.266  30.052  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      36.853  -6.894  29.895  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.249  -6.950  29.728  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      36.804  -8.214  29.457  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      37.975  -8.892  29.145  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.197  -8.263  29.284  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      40.385  -6.041  29.952  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.888  -4.870  30.380  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      41.582  -6.289  29.788  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      40.428  -4.053  30.636  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      35.613  -8.860  29.285  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      34.872  -8.237  29.516  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      39.353  -6.077  33.319  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      38.926  -7.431  32.971  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.782  -7.803  33.770  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      39.999  -8.393  33.210  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 17
+REMARK VINA RESULT:    -4.831      2.657      3.383
+REMARK INTER + INTRA:          -6.765
+REMARK INTER:                  -6.188
+REMARK INTRA:                  -0.577
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.928  -4.169  31.099  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.874  -2.250  32.175  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.189  -4.580  29.740  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      36.764  -3.556  28.933  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.291  -2.919  31.037  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      37.141  -4.748  32.349  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      36.098  -2.847  33.408  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      36.723  -4.085  33.494  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      36.172  -2.577  29.698  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.759  -1.721  29.352  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.927  -5.832  29.317  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      37.045  -7.006  28.980  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      36.049  -7.147  28.015  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.391  -8.091  29.771  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      35.383  -8.363  27.888  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.732  -9.439  28.692  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      36.731  -9.304  29.635  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      38.483  -7.670  30.662  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.762  -6.386  30.383  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.051  -8.351  31.519  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.456  -5.814  30.846  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      34.406  -8.541  26.949  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      34.523  -9.435  26.529  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      36.815  -3.460  27.441  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.461  -2.239  26.962  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.164  -2.046  25.561  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.910  -2.315  27.130  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 18
+REMARK VINA RESULT:    -4.661      2.068      3.462
+REMARK INTER + INTRA:          -6.561
+REMARK INTER:                  -5.935
+REMARK INTRA:                  -0.626
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.382  -4.036  32.594  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.767  -1.999  31.400  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      36.918  -5.327  32.232  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.166  -5.283  30.883  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.277  -3.286  31.411  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.955  -3.459  33.789  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      35.349  -1.447  32.604  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.441  -2.171  33.786  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      36.732  -4.082  30.370  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      36.781  -3.799  29.401  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.271  -6.442  33.191  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.744  -6.599  33.469  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      39.666  -5.705  34.011  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      39.143  -7.889  33.154  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      40.987  -6.106  34.188  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      41.378  -7.397  33.861  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      40.459  -8.287  33.341  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.969  -8.613  32.643  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      36.926  -7.767  32.674  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      37.926  -9.780  32.248  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      35.985  -7.973  32.365  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      41.918  -5.260  34.723  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      41.462  -4.431  35.029  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.736  -6.351  30.004  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      36.869  -6.698  28.881  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      36.231  -7.970  29.130  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      37.635  -6.792  27.640  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 19
+REMARK VINA RESULT:    -4.555      2.765      3.562
+REMARK INTER + INTRA:          -6.433
+REMARK INTER:                  -5.363
+REMARK INTRA:                  -1.070
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      37.165  -4.139  30.620  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      36.207  -2.242  31.818  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.634  -4.386  29.277  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.537  -3.195  28.604  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.744  -2.800  30.671  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      37.031  -4.923  31.765  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      36.085  -3.044  32.944  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      36.491  -4.372  32.917  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      36.951  -2.249  29.414  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      36.748  -1.293  29.159  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.251  -5.673  28.775  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      37.291  -6.825  28.633  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      36.139  -6.958  27.859  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.736  -7.899  29.388  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      35.427  -8.154  27.887  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.878  -9.219  28.654  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      37.028  -9.093  29.407  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      38.978  -7.492  30.064  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.241  -6.227  29.700  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.665  -8.168  30.833  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      40.021  -5.666  30.018  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      34.298  -8.324  27.136  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      34.161  -9.296  26.977  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.904  -2.892  27.185  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      36.909  -3.355  26.220  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.521  -4.277  25.291  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      36.350  -2.233  25.469  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 20
+REMARK VINA RESULT:    -4.482      2.068      3.471
+REMARK INTER + INTRA:          -6.344
+REMARK INTER:                  -5.437
+REMARK INTRA:                  -0.907
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.331  -3.340  31.820  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.596  -1.633  31.653  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.006  -4.225  30.900  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      36.538  -3.917  29.647  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.429  -2.570  31.066  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.379  -3.149  33.200  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.664  -1.461  33.028  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.545  -2.214  33.794  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      35.550  -2.963  29.741  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.028  -2.571  28.970  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.117  -5.189  31.249  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      39.502  -4.722  30.884  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      40.217  -3.595  31.288  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      40.105  -5.653  30.053  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      41.512  -3.398  30.816  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      42.101  -4.333  29.977  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      41.399  -5.458  29.591  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.143  -6.743  29.825  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.028  -6.450  30.512  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.306  -7.749  29.129  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      37.181  -7.004  30.536  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      42.246  -2.310  31.195  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      42.740  -1.963  30.404  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      36.918  -4.523  28.334  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      38.119  -3.930  27.749  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.833  -2.586  27.302  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.587  -4.715  26.609  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 21
+REMARK VINA RESULT:    -4.466      2.771      5.451
+REMARK INTER + INTRA:          -6.326
+REMARK INTER:                  -5.728
+REMARK INTRA:                  -0.598
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      39.600  -6.593  32.326  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      40.067  -8.911  32.923  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      38.658  -5.913  31.468  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.828  -6.879  30.957  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      39.322  -7.967  32.239  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      40.663  -6.178  33.126  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      41.119  -8.472  33.714  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      41.416  -7.119  33.813  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      38.252  -8.122  31.369  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.827  -9.005  31.123  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.531  -4.415  31.299  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      37.454  -3.771  32.131  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.275  -3.731  33.513  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      36.575  -3.085  31.307  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      36.191  -3.038  34.045  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.313  -2.363  33.209  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      35.501  -2.389  31.841  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.023  -3.270  29.917  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.130  -4.029  29.946  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      36.492  -2.824  28.897  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      38.656  -4.342  29.141  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      35.987  -2.970  35.395  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      35.376  -3.707  35.666  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      36.670  -6.716  30.025  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      36.809  -7.486  28.790  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.105  -6.597  27.691  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      35.579  -8.214  28.488  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 22
+REMARK VINA RESULT:    -4.426      2.371      4.480
+REMARK INTER + INTRA:          -6.278
+REMARK INTER:                  -5.463
+REMARK INTRA:                  -0.815
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.418  -2.692  31.608  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      36.142  -2.686  34.031  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.416  -3.170  30.680  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      38.367  -3.817  31.428  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.859  -3.029  32.899  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.222  -1.989  31.475  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      34.953  -1.987  33.872  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      34.499  -1.640  32.606  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      38.072  -3.689  32.767  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      38.618  -4.058  33.532  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.333  -3.097  29.171  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      37.314  -4.430  28.471  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      36.420  -5.495  28.568  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      38.360  -4.495  27.563  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      36.615  -6.629  27.783  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      37.671  -6.685  26.884  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      38.546  -5.623  26.776  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.110  -3.232  27.648  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.507  -2.463  28.568  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      40.115  -2.917  27.007  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      38.805  -1.542  28.862  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      35.755  -7.689  27.845  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      34.889  -7.427  27.431  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      39.609  -4.508  30.963  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      39.387  -5.903  30.586  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      39.019  -6.672  31.751  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      40.594  -6.484  30.001  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 23
+REMARK VINA RESULT:    -4.385      2.894      6.113
+REMARK INTER + INTRA:          -6.229
+REMARK INTER:                  -5.361
+REMARK INTRA:                  -0.867
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      37.611  -7.066  29.950  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      37.254  -9.469  29.732  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      38.498  -6.215  30.708  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      39.348  -7.047  31.392  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      37.940  -8.394  30.270  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.559  -6.835  29.066  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      36.211  -9.212  28.853  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.866  -7.907  28.525  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      38.986  -8.358  31.180  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      39.436  -9.170  31.580  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.561  -4.706  30.631  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      37.527  -3.983  31.454  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      37.282  -4.002  32.826  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      36.781  -3.147  30.637  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      36.263  -3.214  33.353  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.517  -2.388  32.524  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      35.772  -2.356  31.167  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.276  -3.303  29.260  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.280  -4.193  29.289  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      36.856  -2.736  28.248  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      38.807  -4.521  28.489  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      35.998  -3.201  34.693  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      35.658  -2.301  34.945  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      40.469  -6.683  32.314  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      40.325  -7.254  33.651  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      39.629  -6.322  34.508  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      41.631  -7.545  34.237  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 24
+REMARK VINA RESULT:    -4.281      2.884      4.734
+REMARK INTER + INTRA:          -6.103
+REMARK INTER:                  -5.518
+REMARK INTRA:                  -0.585
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.757  -3.970  31.617  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      35.741  -2.919  33.570  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.567  -5.140  31.375  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.692  -5.786  32.579  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.480  -3.938  32.995  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.271  -2.939  30.816  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      35.268  -1.904  32.750  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.532  -1.913  31.386  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.090  -5.043  33.570  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.051  -5.282  34.551  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.046  -5.624  30.024  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      37.258  -6.769  29.443  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      35.908  -6.866  29.110  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      38.106  -7.833  29.179  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      35.420  -8.047  28.557  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      36.278  -9.109  28.306  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      37.619  -9.005  28.620  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.463  -7.442  29.593  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.396  -6.188  30.069  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      40.489  -8.124  29.529  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      40.168  -5.654  30.447  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      34.104  -8.177  28.212  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      34.021  -8.892  27.525  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      38.419  -7.057  32.886  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      39.831  -6.852  33.204  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      40.520  -8.122  33.204  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      39.986  -6.233  34.518  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 25
+REMARK VINA RESULT:    -4.275      2.145      3.475
+REMARK INTER + INTRA:          -6.096
+REMARK INTER:                  -5.212
+REMARK INTRA:                  -0.884
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.558  -3.607  31.713  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      34.969  -1.757  31.728  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.187  -4.424  30.702  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      36.782  -3.927  29.489  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      35.742  -2.679  31.045  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.581  -3.592  33.107  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      35.010  -1.762  33.115  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.807  -2.672  33.798  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      35.870  -2.915  29.684  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      35.403  -2.390  28.957  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.210  -5.512  30.949  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      39.643  -5.091  30.760  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      40.393  -4.104  31.398  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      40.250  -5.910  29.819  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      41.729  -3.924  31.051  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      42.322  -4.745  30.101  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      41.584  -5.734  29.483  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.244  -6.873  29.345  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.100  -6.621  30.000  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.398  -7.756  28.497  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      37.222  -7.107  29.873  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      42.497  -2.972  31.659  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      42.057  -2.698  32.509  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.151  -4.397  28.118  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      38.441  -3.886  27.660  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      38.374  -2.450  27.515  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.806  -4.471  26.372  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 26
+REMARK VINA RESULT:    -4.213      2.698      5.761
+REMARK INTER + INTRA:          -6.021
+REMARK INTER:                  -5.084
+REMARK INTRA:                  -0.938
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.794  -4.354  31.585  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      36.015  -2.991  33.453  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.525  -5.591  31.440  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.734  -6.073  32.708  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.650  -4.119  32.963  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.282  -3.415  30.692  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      35.512  -2.072  32.542  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.646  -2.281  31.176  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.261  -5.169  33.632  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.304  -5.271  34.637  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.853  -6.280  30.134  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.433  -5.384  29.071  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      39.592  -4.609  29.068  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.649  -5.447  27.929  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      39.924  -3.874  27.934  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      39.126  -3.938  26.799  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      37.988  -4.720  26.797  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      36.526  -6.358  28.203  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      36.668  -6.810  29.459  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      35.608  -6.661  27.437  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      36.038  -7.440  29.939  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      41.056  -3.109  27.891  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      41.264  -2.791  28.811  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      38.429  -7.330  33.125  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.589  -8.521  33.008  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      37.394  -9.111  34.312  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      38.208  -9.511  32.131  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 27
+REMARK VINA RESULT:    -4.174      2.879      6.073
+REMARK INTER + INTRA:          -5.973
+REMARK INTER:                  -4.967
+REMARK INTRA:                  -1.006
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      37.322  -3.615  30.635  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      36.589  -2.660  32.757  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      38.513  -4.274  30.152  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      39.352  -4.405  31.230  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      37.534  -3.323  31.993  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      36.122  -3.219  30.048  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      35.402  -2.276  32.148  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.172  -2.552  30.806  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      38.798  -3.787  32.328  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      39.215  -3.722  33.246  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      38.714  -4.839  28.763  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.496  -3.857  27.641  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      39.134  -2.652  27.352  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.526  -4.342  26.778  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      38.758  -1.929  26.223  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      37.778  -2.421  25.371  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      37.159  -3.624  25.649  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.058  -5.634  27.305  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      37.747  -5.886  28.430  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      36.190  -6.366  26.824  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      37.632  -6.693  29.029  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      39.365  -0.748  25.903  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      39.494  -0.709  24.917  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      40.710  -5.029  31.285  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      40.680  -6.488  31.192  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      40.335  -7.052  32.477  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      41.981  -7.012  30.783  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 28
+REMARK VINA RESULT:    -4.034      3.547      5.611
+REMARK INTER + INTRA:          -5.805
+REMARK INTER:                  -4.807
+REMARK INTRA:                  -0.998
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      37.803  -7.698  31.731  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      37.646  -8.156  34.122  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.705  -6.527  30.892  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.548  -5.455  31.734  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      37.636  -7.270  33.059  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      37.982  -9.059  31.487  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      37.826  -9.506  33.853  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      37.990  -9.952  32.548  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.448  -5.896  33.034  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.312  -5.314  33.849  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.895  -6.491  29.392  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      37.033  -7.455  28.620  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      35.646  -7.573  28.542  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.834  -8.284  27.849  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      35.084  -8.550  27.725  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.898  -9.380  26.965  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      37.271  -9.251  27.029  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      39.237  -7.916  28.101  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      39.238  -6.901  28.979  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      40.243  -8.434  27.611  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      40.057  -6.445  29.360  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      33.729  -8.691  27.617  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      33.515  -9.654  27.490  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      37.411  -4.007  31.385  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      36.034  -3.608  31.103  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      35.898  -3.276  29.704  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      35.654  -2.445  31.901  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 29
+REMARK VINA RESULT:    -3.921      2.800      5.166
+REMARK INTER + INTRA:          -5.669
+REMARK INTER:                  -4.668
+REMARK INTRA:                  -1.001
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      38.931  -3.514  28.402  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      40.095  -2.623  26.453  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.961  -4.557  28.641  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.752  -5.181  27.437  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      39.217  -3.525  27.026  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      39.554  -2.561  29.204  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      40.704  -1.684  27.274  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      40.434  -1.652  28.636  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      38.459  -4.534  26.449  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      38.468  -4.779  25.469  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.411  -4.965  29.990  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      36.651  -3.887  30.718  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      35.508  -3.177  30.355  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      37.223  -3.674  31.964  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      34.980  -2.232  31.230  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      35.567  -2.021  32.470  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      36.689  -2.737  32.837  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      38.379  -4.576  32.090  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      38.460  -5.291  30.956  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      39.149  -4.672  33.048  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      39.167  -5.983  30.739  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      33.857  -1.521  30.912  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      34.078  -0.879  30.185  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      36.854  -6.337  27.128  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      37.365  -7.614  27.621  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      38.465  -8.053  26.794  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      36.323  -8.638  27.598  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL
+MODEL 30
+REMARK VINA RESULT:    -3.882      2.644      5.579
+REMARK INTER + INTRA:          -5.623
+REMARK INTER:                  -5.153
+REMARK INTRA:                  -0.470
+REMARK UNBOUND:                -0.946
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C11_10 
+REMARK    2  A    between atoms: C20_7  and  N21_21 
+REMARK    3  A    between atoms: C20_7  and  C12_11 
+REMARK    4  A    between atoms: C3_18  and  O22_24 
+ROOT
+ATOM      1  C15 EZZ A 203      36.656  -3.947  31.462  1.00  0.00     0.001 A 
+ATOM      2  C17 EZZ A 203      36.110  -2.971  33.629  1.00  0.00     0.030 A 
+ATOM      3  C11 EZZ A 203      37.429  -5.076  30.999  1.00  0.00     0.006 A 
+ATOM      4  C12 EZZ A 203      37.872  -5.732  32.120  1.00  0.00     0.047 A 
+ATOM      5  C14 EZZ A 203      36.725  -3.947  32.865  1.00  0.00     0.043 A 
+ATOM      6  C16 EZZ A 203      35.947  -2.928  30.829  1.00  0.00     0.014 A 
+ATOM      7  C18 EZZ A 203      35.408  -1.967  32.975  1.00  0.00     0.002 A 
+ATOM      8  C19 EZZ A 203      35.330  -1.945  31.589  1.00  0.00     0.001 A 
+ATOM      9  N13 EZZ A 203      37.502  -5.031  33.245  1.00  0.00    -0.357 N 
+ATOM     10  H17 EZZ A 203      37.715  -5.286  34.200  1.00  0.00     0.166 HD
+ENDROOT
+BRANCH   3  11
+ATOM     11  C7  EZZ A 203      37.581  -5.519  29.561  1.00  0.00     0.155 A 
+ATOM     12  C5  EZZ A 203      38.839  -5.047  28.880  1.00  0.00    -0.013 A 
+ATOM     13  C4  EZZ A 203      40.180  -5.267  29.194  1.00  0.00     0.047 A 
+ATOM     14  C6  EZZ A 203      38.512  -4.332  27.738  1.00  0.00     0.040 A 
+ATOM     15  C3  EZZ A 203      41.173  -4.729  28.380  1.00  0.00     0.066 A 
+ATOM     16  C2  EZZ A 203      40.832  -4.008  27.243  1.00  0.00     0.037 A 
+ATOM     17  C1  EZZ A 203      39.504  -3.806  26.923  1.00  0.00     0.020 A 
+ATOM     18  C9  EZZ A 203      37.044  -4.289  27.638  1.00  0.00     0.253 A 
+ATOM     19  N8  EZZ A 203      36.547  -4.967  28.685  1.00  0.00    -0.344 N 
+ATOM     20  O10 EZZ A 203      36.372  -3.735  26.765  1.00  0.00    -0.268 OA
+ATOM     21  H19 EZZ A 203      35.566  -5.094  28.898  1.00  0.00     0.163 HD
+BRANCH  15  22
+ATOM     22  O22 EZZ A 203      42.497  -4.930  28.651  1.00  0.00    -0.361 OA
+ATOM     23  H20 EZZ A 203      42.943  -5.281  27.834  1.00  0.00     0.217 HD
+ENDBRANCH  15  22
+ENDBRANCH   3  11
+BRANCH   4  24
+ATOM     24  C20 EZZ A 203      38.703  -6.973  32.208  1.00  0.00     0.328 C 
+BRANCH  24  25
+ATOM     25  N21 EZZ A 203      38.750  -7.543  33.553  1.00  0.00     0.085 N 
+ATOM     26  C24 EZZ A 203      40.033  -8.167  33.775  1.00  0.00     0.309 C 
+ATOM     27  C23 EZZ A 203      37.702  -8.546  33.732  1.00  0.00     0.309 C 
+ENDBRANCH  24  25
+ENDBRANCH   4  24
+TORSDOF 4
+ENDMDL

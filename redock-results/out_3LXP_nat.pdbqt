@@ -1,0 +1,315 @@
+MODEL 1
+REMARK VINA RESULT:    -7.874      0.000      0.000
+REMARK INTER + INTRA:          -7.387
+REMARK INTER:                  -8.795
+REMARK INTRA:                   1.407
+REMARK UNBOUND:                 1.407
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7 
+REMARK    2  A    between atoms: C_15  and  C_16 
+REMARK    3  A    between atoms: C_18  and  C_21 
+ROOT
+HETATM    1  C   IZA A1183      -2.739  24.783 -30.858  1.00  0.00     0.072 A 
+HETATM    2  C   IZA A1183      -4.035  25.112 -30.525  1.00  0.00     0.072 A 
+HETATM    3  N   IZA A1183      -4.670  24.034 -29.941  1.00  0.00    -0.343 N 
+HETATM    4  C   IZA A1183      -3.782  23.065 -29.917  1.00  0.00     0.090 A 
+HETATM    5  N   IZA A1183      -2.589  23.473 -30.467  1.00  0.00    -0.343 N 
+ATOM      6  HN  IZA A1183      -1.747  22.907 -30.567  1.00  0.00     0.167 HD
+HETATM    7  H   IZA A1183      -5.597  23.998 -29.611  1.00  0.00     0.167 HD
+ENDROOT
+BRANCH   4   8
+HETATM    8  C   IZA A1183      -3.972  21.683 -29.435  1.00  0.00     0.007 C 
+HETATM    9  C   IZA A1183      -4.859  21.592 -28.227  1.00  0.00     0.022 C 
+HETATM   10  C   IZA A1183      -2.575  21.229 -29.033  1.00  0.00     0.022 C 
+HETATM   11  C   IZA A1183      -4.408  20.731 -30.534  1.00  0.00     0.022 C 
+ENDBRANCH   4   8
+BRANCH   2  12
+HETATM   12  C   IZA A1183      -4.477  26.397 -30.820  1.00  0.00     0.004 A 
+HETATM   13  C   IZA A1183      -5.353  26.621 -31.868  1.00  0.00    -0.004 A 
+HETATM   14  C   IZA A1183      -5.793  25.550 -32.639  1.00  0.00     0.056 A 
+HETATM   15  C   IZA A1183      -5.752  27.938 -32.079  1.00  0.00     0.055 A 
+HETATM   16  C   IZA A1183      -6.725  25.702 -33.777  1.00  0.00     0.257 A 
+HETATM   17  C   IZA A1183      -5.368  24.262 -32.358  1.00  0.00     0.011 A 
+HETATM   18  O   IZA A1183      -7.149  26.800 -34.113  1.00  0.00    -0.267 OA
+HETATM   19  N   IZA A1183      -7.094  24.555 -34.443  1.00  0.00    -0.333 N 
+HETATM   20  C   IZA A1183      -6.642  23.316 -34.125  1.00  0.00     0.092 A 
+HETATM   21  H   IZA A1183      -7.723  24.639 -35.195  1.00  0.00     0.168 HD
+HETATM   22  C   IZA A1183      -5.802  23.124 -33.119  1.00  0.00     0.032 A 
+HETATM   23  C   IZA A1183      -5.281  28.967 -31.290  1.00  0.00     0.117 A 
+HETATM   24  F   IZA A1183      -5.689  30.246 -31.507  1.00  0.00    -0.206 F 
+HETATM   25  C   IZA A1183      -4.414  28.716 -30.265  1.00  0.00     0.043 A 
+HETATM   26  C   IZA A1183      -4.006  27.426 -30.031  1.00  0.00     0.018 A 
+ENDBRANCH   2  12
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.573      0.671      1.177
+REMARK INTER + INTRA:          -5.934
+REMARK INTER:                  -7.263
+REMARK INTRA:                   1.328
+REMARK UNBOUND:                 1.407
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7 
+REMARK    2  A    between atoms: C_15  and  C_16 
+REMARK    3  A    between atoms: C_18  and  C_21 
+ROOT
+HETATM    1  C   IZA A1183      -2.458  24.800 -30.354  1.00  0.00     0.072 A 
+HETATM    2  C   IZA A1183      -3.790  25.053 -30.103  1.00  0.00     0.072 A 
+HETATM    3  N   IZA A1183      -4.374  23.969 -29.476  1.00  0.00    -0.343 N 
+HETATM    4  C   IZA A1183      -3.421  23.073 -29.347  1.00  0.00     0.090 A 
+HETATM    5  N   IZA A1183      -2.234  23.533 -29.869  1.00  0.00    -0.343 N 
+ATOM      6  HN  IZA A1183      -1.350  23.026 -29.893  1.00  0.00     0.167 HD
+HETATM    7  H   IZA A1183      -5.311  23.886 -29.187  1.00  0.00     0.167 HD
+ENDROOT
+BRANCH   4   8
+HETATM    8  C   IZA A1183      -3.536  21.714 -28.783  1.00  0.00     0.007 C 
+HETATM    9  C   IZA A1183      -3.184  20.633 -29.763  1.00  0.00     0.022 C 
+HETATM   10  C   IZA A1183      -5.012  21.576 -28.433  1.00  0.00     0.022 C 
+HETATM   11  C   IZA A1183      -2.791  21.557 -27.470  1.00  0.00     0.022 C 
+ENDBRANCH   4   8
+BRANCH   2  12
+HETATM   12  C   IZA A1183      -4.306  26.279 -30.503  1.00  0.00     0.004 A 
+HETATM   13  C   IZA A1183      -5.172  26.365 -31.580  1.00  0.00    -0.004 A 
+HETATM   14  C   IZA A1183      -5.524  25.212 -32.274  1.00  0.00     0.056 A 
+HETATM   15  C   IZA A1183      -5.650  27.634 -31.898  1.00  0.00     0.055 A 
+HETATM   16  C   IZA A1183      -6.439  25.217 -33.436  1.00  0.00     0.257 A 
+HETATM   17  C   IZA A1183      -5.023  23.981 -31.888  1.00  0.00     0.011 A 
+HETATM   18  O   IZA A1183      -6.925  26.255 -33.863  1.00  0.00    -0.267 OA
+HETATM   19  N   IZA A1183      -6.717  24.001 -34.018  1.00  0.00    -0.333 N 
+HETATM   20  C   IZA A1183      -6.193  22.822 -33.599  1.00  0.00     0.092 A 
+HETATM   21  H   IZA A1183      -7.333  23.985 -34.786  1.00  0.00     0.168 HD
+HETATM   22  C   IZA A1183      -5.365  22.762 -32.567  1.00  0.00     0.032 A 
+HETATM   23  C   IZA A1183      -5.265  28.748 -31.182  1.00  0.00     0.117 A 
+HETATM   24  F   IZA A1183      -5.750  29.977 -31.504  1.00  0.00    -0.206 F 
+HETATM   25  C   IZA A1183      -4.407  28.633 -30.126  1.00  0.00     0.043 A 
+HETATM   26  C   IZA A1183      -3.921  27.393 -29.787  1.00  0.00     0.018 A 
+ENDBRANCH   2  12
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -5.425      1.891      2.488
+REMARK INTER + INTRA:          -4.652
+REMARK INTER:                  -6.474
+REMARK INTRA:                   1.823
+REMARK UNBOUND:                 1.407
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7 
+REMARK    2  A    between atoms: C_15  and  C_16 
+REMARK    3  A    between atoms: C_18  and  C_21 
+ROOT
+HETATM    1  C   IZA A1183      -2.584  24.641 -30.406  1.00  0.00     0.072 A 
+HETATM    2  C   IZA A1183      -3.499  24.986 -29.434  1.00  0.00     0.072 A 
+HETATM    3  N   IZA A1183      -4.264  23.892 -29.085  1.00  0.00    -0.343 N 
+HETATM    4  C   IZA A1183      -3.827  22.898 -29.826  1.00  0.00     0.090 A 
+HETATM    5  N   IZA A1183      -2.804  23.306 -30.650  1.00  0.00    -0.343 N 
+ATOM      6  HN  IZA A1183      -2.301  22.724 -31.319  1.00  0.00     0.167 HD
+HETATM    7  H   IZA A1183      -4.987  23.862 -28.418  1.00  0.00     0.167 HD
+ENDROOT
+BRANCH   4   8
+HETATM    8  C   IZA A1183      -4.345  21.516 -29.872  1.00  0.00     0.007 C 
+HETATM    9  C   IZA A1183      -5.113  21.128 -28.641  1.00  0.00     0.022 C 
+HETATM   10  C   IZA A1183      -3.095  20.648 -29.943  1.00  0.00     0.022 C 
+HETATM   11  C   IZA A1183      -5.119  21.219 -31.143  1.00  0.00     0.022 C 
+ENDBRANCH   4   8
+BRANCH   2  12
+HETATM   12  C   IZA A1183      -3.513  26.304 -28.993  1.00  0.00     0.004 A 
+HETATM   13  C   IZA A1183      -4.187  27.282 -29.704  1.00  0.00    -0.004 A 
+HETATM   14  C   IZA A1183      -4.854  26.943 -30.877  1.00  0.00     0.056 A 
+HETATM   15  C   IZA A1183      -4.159  28.570 -29.177  1.00  0.00     0.055 A 
+HETATM   16  C   IZA A1183      -5.595  27.926 -31.697  1.00  0.00     0.257 A 
+HETATM   17  C   IZA A1183      -4.854  25.636 -31.331  1.00  0.00     0.011 A 
+HETATM   18  O   IZA A1183      -5.644  29.109 -31.388  1.00  0.00    -0.267 OA
+HETATM   19  N   IZA A1183      -6.225  27.451 -32.826  1.00  0.00    -0.333 N 
+HETATM   20  C   IZA A1183      -6.189  26.155 -33.225  1.00  0.00     0.092 A 
+HETATM   21  H   IZA A1183      -6.732  28.091 -33.376  1.00  0.00     0.168 HD
+HETATM   22  C   IZA A1183      -5.536  25.237 -32.531  1.00  0.00     0.032 A 
+HETATM   23  C   IZA A1183      -3.478  28.856 -28.012  1.00  0.00     0.117 A 
+HETATM   24  F   IZA A1183      -3.469  30.119 -27.510  1.00  0.00    -0.206 F 
+HETATM   25  C   IZA A1183      -2.818  27.871 -27.333  1.00  0.00     0.043 A 
+HETATM   26  C   IZA A1183      -2.831  26.590 -27.828  1.00  0.00     0.018 A 
+ENDBRANCH   2  12
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -5.220      2.072      4.057
+REMARK INTER + INTRA:          -4.423
+REMARK INTER:                  -6.240
+REMARK INTRA:                   1.818
+REMARK UNBOUND:                 1.407
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7 
+REMARK    2  A    between atoms: C_15  and  C_16 
+REMARK    3  A    between atoms: C_18  and  C_21 
+ROOT
+HETATM    1  C   IZA A1183      -2.655  24.340 -30.806  1.00  0.00     0.072 A 
+HETATM    2  C   IZA A1183      -4.025  24.383 -30.657  1.00  0.00     0.072 A 
+HETATM    3  N   IZA A1183      -4.432  23.479 -29.696  1.00  0.00    -0.343 N 
+HETATM    4  C   IZA A1183      -3.336  22.895 -29.266  1.00  0.00     0.090 A 
+HETATM    5  N   IZA A1183      -2.227  23.385 -29.915  1.00  0.00    -0.343 N 
+ATOM      6  HN  IZA A1183      -1.262  23.093 -29.762  1.00  0.00     0.167 HD
+HETATM    7  H   IZA A1183      -5.354  23.308 -29.396  1.00  0.00     0.167 HD
+ENDROOT
+BRANCH   4   8
+HETATM    8  C   IZA A1183      -3.227  21.813 -28.268  1.00  0.00     0.007 C 
+HETATM    9  C   IZA A1183      -2.560  20.579 -28.801  1.00  0.00     0.022 C 
+HETATM   10  C   IZA A1183      -4.671  21.464 -27.932  1.00  0.00     0.022 C 
+HETATM   11  C   IZA A1183      -2.606  22.277 -26.962  1.00  0.00     0.022 C 
+ENDBRANCH   4   8
+BRANCH   2  12
+HETATM   12  C   IZA A1183      -4.739  25.269 -31.456  1.00  0.00     0.004 A 
+HETATM   13  C   IZA A1183      -4.839  26.607 -31.116  1.00  0.00    -0.004 A 
+HETATM   14  C   IZA A1183      -4.223  27.070 -29.957  1.00  0.00     0.056 A 
+HETATM   15  C   IZA A1183      -5.561  27.421 -31.984  1.00  0.00     0.055 A 
+HETATM   16  C   IZA A1183      -4.284  28.481 -29.520  1.00  0.00     0.257 A 
+HETATM   17  C   IZA A1183      -3.505  26.204 -29.150  1.00  0.00     0.011 A 
+HETATM   18  O   IZA A1183      -4.904  29.322 -30.157  1.00  0.00    -0.267 OA
+HETATM   19  N   IZA A1183      -3.614  28.807 -28.362  1.00  0.00    -0.333 N 
+HETATM   20  C   IZA A1183      -2.926  27.914 -27.607  1.00  0.00     0.092 A 
+HETATM   21  H   IZA A1183      -3.635  29.745 -28.063  1.00  0.00     0.168 HD
+HETATM   22  C   IZA A1183      -2.845  26.638 -27.951  1.00  0.00     0.032 A 
+HETATM   23  C   IZA A1183      -6.158  26.911 -33.118  1.00  0.00     0.117 A 
+HETATM   24  F   IZA A1183      -6.852  27.725 -33.958  1.00  0.00    -0.206 F 
+HETATM   25  C   IZA A1183      -6.045  25.586 -33.428  1.00  0.00     0.043 A 
+HETATM   26  C   IZA A1183      -5.336  24.759 -32.590  1.00  0.00     0.018 A 
+ENDBRANCH   2  12
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -5.058      2.219      4.117
+REMARK INTER + INTRA:          -4.241
+REMARK INTER:                  -6.108
+REMARK INTRA:                   1.867
+REMARK UNBOUND:                 1.407
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7 
+REMARK    2  A    between atoms: C_15  and  C_16 
+REMARK    3  A    between atoms: C_18  and  C_21 
+ROOT
+HETATM    1  C   IZA A1183      -2.911  24.627 -31.251  1.00  0.00     0.072 A 
+HETATM    2  C   IZA A1183      -4.223  24.910 -30.935  1.00  0.00     0.072 A 
+HETATM    3  N   IZA A1183      -4.824  23.813 -30.350  1.00  0.00    -0.343 N 
+HETATM    4  C   IZA A1183      -3.901  22.878 -30.308  1.00  0.00     0.090 A 
+HETATM    5  N   IZA A1183      -2.718  23.326 -30.848  1.00  0.00    -0.343 N 
+ATOM      6  HN  IZA A1183      -1.854  22.791 -30.934  1.00  0.00     0.167 HD
+HETATM    7  H   IZA A1183      -5.753  23.746 -30.031  1.00  0.00     0.167 HD
+ENDROOT
+BRANCH   4   8
+HETATM    8  C   IZA A1183      -4.046  21.494 -29.818  1.00  0.00     0.007 C 
+HETATM    9  C   IZA A1183      -4.832  20.614 -30.747  1.00  0.00     0.022 C 
+HETATM   10  C   IZA A1183      -4.832  21.634 -28.521  1.00  0.00     0.022 C 
+HETATM   11  C   IZA A1183      -2.721  20.866 -29.425  1.00  0.00     0.022 C 
+ENDBRANCH   4   8
+BRANCH   2  12
+HETATM   12  C   IZA A1183      -4.708  26.175 -31.245  1.00  0.00     0.004 A 
+HETATM   13  C   IZA A1183      -4.447  27.256 -30.420  1.00  0.00    -0.004 A 
+HETATM   14  C   IZA A1183      -3.695  27.073 -29.264  1.00  0.00     0.056 A 
+HETATM   15  C   IZA A1183      -4.960  28.486 -30.820  1.00  0.00     0.055 A 
+HETATM   16  C   IZA A1183      -3.374  28.171 -28.328  1.00  0.00     0.257 A 
+HETATM   17  C   IZA A1183      -3.201  25.821 -28.939  1.00  0.00     0.011 A 
+HETATM   18  O   IZA A1183      -3.775  29.312 -28.518  1.00  0.00    -0.267 OA
+HETATM   19  N   IZA A1183      -2.605  27.854 -27.230  1.00  0.00    -0.333 N 
+HETATM   20  C   IZA A1183      -2.149  26.606 -26.960  1.00  0.00     0.092 A 
+HETATM   21  H   IZA A1183      -2.373  28.577 -26.604  1.00  0.00     0.168 HD
+HETATM   22  C   IZA A1183      -2.413  25.586 -27.762  1.00  0.00     0.032 A 
+HETATM   23  C   IZA A1183      -5.705  28.614 -31.974  1.00  0.00     0.117 A 
+HETATM   24  F   IZA A1183      -6.191  29.827 -32.351  1.00  0.00    -0.206 F 
+HETATM   25  C   IZA A1183      -5.950  27.530 -32.768  1.00  0.00     0.043 A 
+HETATM   26  C   IZA A1183      -5.453  26.303 -32.399  1.00  0.00     0.018 A 
+ENDBRANCH   2  12
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -4.987      3.390      6.054
+REMARK INTER + INTRA:          -4.162
+REMARK INTER:                  -5.661
+REMARK INTRA:                   1.498
+REMARK UNBOUND:                 1.407
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7 
+REMARK    2  A    between atoms: C_15  and  C_16 
+REMARK    3  A    between atoms: C_18  and  C_21 
+ROOT
+HETATM    1  C   IZA A1183      -3.807  26.625 -27.076  1.00  0.00     0.072 A 
+HETATM    2  C   IZA A1183      -2.996  26.378 -28.163  1.00  0.00     0.072 A 
+HETATM    3  N   IZA A1183      -2.543  27.564 -28.704  1.00  0.00    -0.343 N 
+HETATM    4  C   IZA A1183      -3.065  28.518 -27.965  1.00  0.00     0.090 A 
+HETATM    5  N   IZA A1183      -3.846  27.995 -26.961  1.00  0.00    -0.343 N 
+ATOM      6  HN  IZA A1183      -4.360  28.526 -26.258  1.00  0.00     0.167 HD
+HETATM    7  H   IZA A1183      -1.952  27.673 -29.483  1.00  0.00     0.167 HD
+ENDROOT
+BRANCH   4   8
+HETATM    8  C   IZA A1183      -2.930  29.976 -28.152  1.00  0.00     0.007 C 
+HETATM    9  C   IZA A1183      -1.558  30.491 -27.830  1.00  0.00     0.022 C 
+HETATM   10  C   IZA A1183      -3.909  30.576 -27.151  1.00  0.00     0.022 C 
+HETATM   11  C   IZA A1183      -3.407  30.441 -29.516  1.00  0.00     0.022 C 
+ENDBRANCH   4   8
+BRANCH   2  12
+HETATM   12  C   IZA A1183      -2.783  25.053 -28.527  1.00  0.00     0.004 A 
+HETATM   13  C   IZA A1183      -3.354  24.534 -29.676  1.00  0.00    -0.004 A 
+HETATM   14  C   IZA A1183      -4.155  25.345 -30.473  1.00  0.00     0.056 A 
+HETATM   15  C   IZA A1183      -3.071  23.202 -29.968  1.00  0.00     0.055 A 
+HETATM   16  C   IZA A1183      -4.805  24.868 -31.713  1.00  0.00     0.257 A 
+HETATM   17  C   IZA A1183      -4.377  26.667 -30.129  1.00  0.00     0.011 A 
+HETATM   18  O   IZA A1183      -4.681  23.713 -32.097  1.00  0.00    -0.267 OA
+HETATM   19  N   IZA A1183      -5.557  25.782 -32.417  1.00  0.00    -0.333 N 
+HETATM   20  C   IZA A1183      -5.743  27.069 -32.030  1.00  0.00     0.092 A 
+HETATM   21  H   IZA A1183      -5.986  25.483 -33.251  1.00  0.00     0.168 HD
+HETATM   22  C   IZA A1183      -5.189  27.545 -30.926  1.00  0.00     0.032 A 
+HETATM   23  C   IZA A1183      -2.274  22.438 -29.141  1.00  0.00     0.117 A 
+HETATM   24  F   IZA A1183      -2.004  21.142 -29.447  1.00  0.00    -0.206 F 
+HETATM   25  C   IZA A1183      -1.727  22.977 -28.011  1.00  0.00     0.043 A 
+HETATM   26  C   IZA A1183      -1.986  24.289 -27.700  1.00  0.00     0.018 A 
+ENDBRANCH   2  12
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -4.934      1.210      1.771
+REMARK INTER + INTRA:          -4.103
+REMARK INTER:                  -6.425
+REMARK INTRA:                   2.322
+REMARK UNBOUND:                 1.407
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7 
+REMARK    2  A    between atoms: C_15  and  C_16 
+REMARK    3  A    between atoms: C_18  and  C_21 
+ROOT
+HETATM    1  C   IZA A1183      -4.230  25.759 -28.324  1.00  0.00     0.072 A 
+HETATM    2  C   IZA A1183      -3.963  25.882 -29.671  1.00  0.00     0.072 A 
+HETATM    3  N   IZA A1183      -3.290  24.767 -30.131  1.00  0.00    -0.343 N 
+HETATM    4  C   IZA A1183      -3.148  23.979 -29.089  1.00  0.00     0.090 A 
+HETATM    5  N   IZA A1183      -3.703  24.541 -27.963  1.00  0.00    -0.343 N 
+ATOM      6  HN  IZA A1183      -3.721  24.130 -27.030  1.00  0.00     0.167 HD
+HETATM    7  H   IZA A1183      -2.981  24.598 -31.050  1.00  0.00     0.167 HD
+ENDROOT
+BRANCH   4   8
+HETATM    8  C   IZA A1183      -2.453  22.678 -29.034  1.00  0.00     0.007 C 
+HETATM    9  C   IZA A1183      -1.560  22.432 -30.215  1.00  0.00     0.022 C 
+HETATM   10  C   IZA A1183      -3.576  21.649 -29.067  1.00  0.00     0.022 C 
+HETATM   11  C   IZA A1183      -1.732  22.450 -27.718  1.00  0.00     0.022 C 
+ENDBRANCH   4   8
+BRANCH   2  12
+HETATM   12  C   IZA A1183      -4.378  27.042 -30.314  1.00  0.00     0.004 A 
+HETATM   13  C   IZA A1183      -5.090  26.979 -31.499  1.00  0.00    -0.004 A 
+HETATM   14  C   IZA A1183      -5.388  25.740 -32.058  1.00  0.00     0.056 A 
+HETATM   15  C   IZA A1183      -5.477  28.192 -32.062  1.00  0.00     0.055 A 
+HETATM   16  C   IZA A1183      -6.140  25.584 -33.322  1.00  0.00     0.257 A 
+HETATM   17  C   IZA A1183      -4.986  24.573 -31.431  1.00  0.00     0.011 A 
+HETATM   18  O   IZA A1183      -6.529  26.554 -33.958  1.00  0.00    -0.267 OA
+HETATM   19  N   IZA A1183      -6.382  24.299 -33.752  1.00  0.00    -0.333 N 
+HETATM   20  C   IZA A1183      -5.960  23.189 -33.097  1.00  0.00     0.092 A 
+HETATM   21  H   IZA A1183      -6.892  24.178 -34.585  1.00  0.00     0.168 HD
+HETATM   22  C   IZA A1183      -5.279  23.272 -31.965  1.00  0.00     0.032 A 
+HETATM   23  C   IZA A1183      -5.151  29.395 -31.471  1.00  0.00     0.117 A 
+HETATM   24  F   IZA A1183      -5.545  30.569 -32.032  1.00  0.00    -0.206 F 
+HETATM   25  C   IZA A1183      -4.445  29.427 -30.302  1.00  0.00     0.043 A 
+HETATM   26  C   IZA A1183      -4.052  28.245 -29.723  1.00  0.00     0.018 A 
+ENDBRANCH   2  12
+TORSDOF 3
+ENDMDL

@@ -1,0 +1,450 @@
+MODEL 1
+REMARK VINA RESULT:   -10.266      0.000      0.000
+REMARK INTER + INTRA:         -17.782
+REMARK INTER:                 -16.268
+REMARK INTRA:                  -1.514
+REMARK UNBOUND:                -1.514
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C10_7 
+REMARK    2  A    between atoms: C10_7  and  C14_11 
+REMARK    3  A    between atoms: C14_11  and  C18_27 
+REMARK    4  A    between atoms: C21_16  and  N26_19 
+REMARK    5  A    between atoms: C21_16  and  C17_26 
+REMARK    6  A    between atoms: C22_17  and  C18_27 
+REMARK    7  A    between atoms: C22_17  and  N27_30 
+REMARK    8  A    between atoms: C24_18  and  C29_32 
+REMARK    9  A    between atoms: C31_21  and  N27_30 
+REMARK   10  A    between atoms: C32_22  and  C29_32 
+ROOT
+ATOM      1  N26 KWE A 501      -7.269 -15.607 -17.007  1.00  0.00    -0.275 N 
+ATOM      2  C30 KWE A 501      -6.924 -14.321 -17.131  1.00  0.00     0.259 A 
+ATOM      3  C31 KWE A 501      -8.889 -14.264 -16.137  1.00  0.00     0.109 A 
+ATOM      4  C32 KWE A 501      -7.935 -13.461 -16.631  1.00  0.00     0.046 A 
+ATOM      5  O23 KWE A 501      -9.110 -16.701 -16.212  1.00  0.00    -0.265 OA
+ATOM      6  O25 KWE A 501      -5.837 -13.986 -17.611  1.00  0.00    -0.267 OA
+ATOM      7  C28 KWE A 501      -8.494 -15.649 -16.427  1.00  0.00     0.278 A 
+ENDROOT
+BRANCH   3   8
+ATOM      8  N27 KWE A 501     -10.044 -14.049 -15.511  1.00  0.00    -0.385 N 
+ATOM      9  H   KWE A 501     -10.198 -14.611 -14.718  1.00  0.00     0.159 HD
+BRANCH   8  10
+ATOM     10  C22 KWE A 501     -11.125 -13.104 -15.817  1.00  0.00     0.120 C 
+BRANCH  10  11
+ATOM     11  C18 KWE A 501     -11.886 -12.672 -14.620  1.00  0.00     0.020 C 
+BRANCH  11  12
+ATOM     12  C14 KWE A 501     -13.034 -11.775 -15.073  1.00  0.00     0.006 C 
+BRANCH  12  13
+ATOM     13  C10 KWE A 501     -14.299 -12.254 -14.300  1.00  0.00     0.038 C 
+BRANCH  13  14
+ATOM     14  C7  KWE A 501     -15.319 -11.158 -14.194  1.00  0.00    -0.058 A 
+ATOM     15  C4  KWE A 501     -16.359 -11.331 -13.312  1.00  0.00     0.007 A 
+ATOM     16  C2  KWE A 501     -17.327 -10.323 -13.214  1.00  0.00     0.001 A 
+ATOM     17  C1  KWE A 501     -17.219  -9.180 -13.989  1.00  0.00     0.000 A 
+ATOM     18  C3  KWE A 501     -16.155  -9.020 -14.890  1.00  0.00     0.001 A 
+ATOM     19  C5  KWE A 501     -15.213 -10.018 -14.946  1.00  0.00     0.007 A 
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   3   8
+BRANCH   4  20
+ATOM     20  C29 KWE A 501      -7.927 -11.962 -16.710  1.00  0.00     0.085 C 
+BRANCH  20  21
+ATOM     21  C24 KWE A 501      -7.647 -11.162 -15.462  1.00  0.00    -0.054 A 
+ATOM     22  C19 KWE A 501      -6.415 -11.182 -14.883  1.00  0.00     0.007 A 
+ATOM     23  C15 KWE A 501      -6.215 -10.465 -13.659  1.00  0.00     0.001 A 
+ATOM     24  C11 KWE A 501      -7.240  -9.754 -13.101  1.00  0.00     0.000 A 
+ATOM     25  C16 KWE A 501      -8.468  -9.784 -13.701  1.00  0.00     0.001 A 
+ATOM     26  C20 KWE A 501      -8.643 -10.439 -14.892  1.00  0.00     0.007 A 
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+BRANCH   1  27
+ATOM     27  C21 KWE A 501      -6.448 -16.760 -17.478  1.00  0.00     0.174 C 
+BRANCH  27  28
+ATOM     28  C17 KWE A 501      -5.152 -16.971 -16.777  1.00  0.00    -0.040 A 
+ATOM     29  C12 KWE A 501      -5.103 -17.444 -15.491  1.00  0.00     0.009 A 
+ATOM     30  C8  KWE A 501      -3.841 -17.625 -14.886  1.00  0.00     0.001 A 
+ATOM     31  C6  KWE A 501      -2.711 -17.354 -15.675  1.00  0.00     0.000 A 
+ATOM     32  C9  KWE A 501      -2.792 -16.839 -16.954  1.00  0.00     0.001 A 
+ATOM     33  C13 KWE A 501      -4.037 -16.652 -17.540  1.00  0.00     0.009 A 
+ENDBRANCH  27  28
+ENDBRANCH   1  27
+TORSDOF 10
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:   -10.203      0.124      1.216
+REMARK INTER + INTRA:         -17.681
+REMARK INTER:                 -16.003
+REMARK INTRA:                  -1.679
+REMARK UNBOUND:                -1.514
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C10_7 
+REMARK    2  A    between atoms: C10_7  and  C14_11 
+REMARK    3  A    between atoms: C14_11  and  C18_27 
+REMARK    4  A    between atoms: C21_16  and  N26_19 
+REMARK    5  A    between atoms: C21_16  and  C17_26 
+REMARK    6  A    between atoms: C22_17  and  C18_27 
+REMARK    7  A    between atoms: C22_17  and  N27_30 
+REMARK    8  A    between atoms: C24_18  and  C29_32 
+REMARK    9  A    between atoms: C31_21  and  N27_30 
+REMARK   10  A    between atoms: C32_22  and  C29_32 
+ROOT
+ATOM      1  N26 KWE A 501      -7.262 -15.580 -17.056  1.00  0.00    -0.275 N 
+ATOM      2  C30 KWE A 501      -6.931 -14.290 -17.189  1.00  0.00     0.259 A 
+ATOM      3  C31 KWE A 501      -8.877 -14.247 -16.160  1.00  0.00     0.109 A 
+ATOM      4  C32 KWE A 501      -7.940 -13.438 -16.672  1.00  0.00     0.046 A 
+ATOM      5  O23 KWE A 501      -9.080 -16.687 -16.225  1.00  0.00    -0.265 OA
+ATOM      6  O25 KWE A 501      -5.855 -13.948 -17.689  1.00  0.00    -0.267 OA
+ATOM      7  C28 KWE A 501      -8.476 -15.630 -16.454  1.00  0.00     0.278 A 
+ENDROOT
+BRANCH   3   8
+ATOM      8  N27 KWE A 501     -10.023 -14.040 -15.512  1.00  0.00    -0.385 N 
+ATOM      9  H   KWE A 501     -10.125 -14.550 -14.676  1.00  0.00     0.159 HD
+BRANCH   8  10
+ATOM     10  C22 KWE A 501     -11.156 -13.172 -15.850  1.00  0.00     0.120 C 
+BRANCH  10  11
+ATOM     11  C18 KWE A 501     -11.861 -12.635 -14.661  1.00  0.00     0.020 C 
+BRANCH  11  12
+ATOM     12  C14 KWE A 501     -13.046 -11.799 -15.136  1.00  0.00     0.006 C 
+BRANCH  12  13
+ATOM     13  C10 KWE A 501     -14.278 -12.270 -14.307  1.00  0.00     0.038 C 
+BRANCH  13  14
+ATOM     14  C7  KWE A 501     -15.303 -11.179 -14.188  1.00  0.00    -0.058 A 
+ATOM     15  C4  KWE A 501     -15.149 -10.063 -14.975  1.00  0.00     0.007 A 
+ATOM     16  C2  KWE A 501     -16.089  -9.031 -14.863  1.00  0.00     0.001 A 
+ATOM     17  C1  KWE A 501     -17.150  -9.153 -13.981  1.00  0.00     0.000 A 
+ATOM     18  C3  KWE A 501     -17.292 -10.295 -13.178  1.00  0.00     0.001 A 
+ATOM     19  C5  KWE A 501     -16.364 -11.297 -13.329  1.00  0.00     0.007 A 
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   3   8
+BRANCH   4  20
+ATOM     20  C29 KWE A 501      -7.945 -11.939 -16.754  1.00  0.00     0.085 C 
+BRANCH  20  21
+ATOM     21  C24 KWE A 501      -7.700 -11.133 -15.502  1.00  0.00    -0.054 A 
+ATOM     22  C19 KWE A 501      -6.481 -11.142 -14.896  1.00  0.00     0.007 A 
+ATOM     23  C15 KWE A 501      -6.314 -10.421 -13.670  1.00  0.00     0.001 A 
+ATOM     24  C11 KWE A 501      -7.356  -9.716 -13.136  1.00  0.00     0.000 A 
+ATOM     25  C16 KWE A 501      -8.571  -9.758 -13.764  1.00  0.00     0.001 A 
+ATOM     26  C20 KWE A 501      -8.713 -10.417 -14.957  1.00  0.00     0.007 A 
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+BRANCH   1  27
+ATOM     27  C21 KWE A 501      -6.441 -16.726 -17.540  1.00  0.00     0.174 C 
+BRANCH  27  28
+ATOM     28  C17 KWE A 501      -5.152 -16.955 -16.830  1.00  0.00    -0.040 A 
+ATOM     29  C12 KWE A 501      -3.949 -16.681 -17.428  1.00  0.00     0.009 A 
+ATOM     30  C8  KWE A 501      -2.764 -16.917 -16.697  1.00  0.00     0.001 A 
+ATOM     31  C6  KWE A 501      -2.909 -17.370 -15.376  1.00  0.00     0.000 A 
+ATOM     32  C9  KWE A 501      -4.134 -17.675 -14.815  1.00  0.00     0.001 A 
+ATOM     33  C13 KWE A 501      -5.296 -17.452 -15.542  1.00  0.00     0.009 A 
+ENDBRANCH  27  28
+ENDBRANCH   1  27
+TORSDOF 10
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:   -10.187      0.423      1.255
+REMARK INTER + INTRA:         -17.656
+REMARK INTER:                 -16.365
+REMARK INTRA:                  -1.291
+REMARK UNBOUND:                -1.514
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C10_7 
+REMARK    2  A    between atoms: C10_7  and  C14_11 
+REMARK    3  A    between atoms: C14_11  and  C18_27 
+REMARK    4  A    between atoms: C21_16  and  N26_19 
+REMARK    5  A    between atoms: C21_16  and  C17_26 
+REMARK    6  A    between atoms: C22_17  and  C18_27 
+REMARK    7  A    between atoms: C22_17  and  N27_30 
+REMARK    8  A    between atoms: C24_18  and  C29_32 
+REMARK    9  A    between atoms: C31_21  and  N27_30 
+REMARK   10  A    between atoms: C32_22  and  C29_32 
+ROOT
+ATOM      1  N26 KWE A 501      -7.371 -15.559 -17.104  1.00  0.00    -0.275 N 
+ATOM      2  C30 KWE A 501      -7.233 -14.230 -17.163  1.00  0.00     0.259 A 
+ATOM      3  C31 KWE A 501      -9.103 -14.533 -16.039  1.00  0.00     0.109 A 
+ATOM      4  C32 KWE A 501      -8.321 -13.566 -16.540  1.00  0.00     0.046 A 
+ATOM      5  O23 KWE A 501      -8.962 -16.967 -16.262  1.00  0.00    -0.265 OA
+ATOM      6  O25 KWE A 501      -6.248 -13.705 -17.691  1.00  0.00    -0.267 OA
+ATOM      7  C28 KWE A 501      -8.528 -15.822 -16.447  1.00  0.00     0.278 A 
+ENDROOT
+BRANCH   3   8
+ATOM      8  N27 KWE A 501     -10.226 -14.534 -15.323  1.00  0.00    -0.385 N 
+ATOM      9  H   KWE A 501     -10.611 -15.424 -15.157  1.00  0.00     0.159 HD
+BRANCH   8  10
+ATOM     10  C22 KWE A 501     -10.980 -13.416 -14.744  1.00  0.00     0.120 C 
+BRANCH  10  11
+ATOM     11  C18 KWE A 501     -12.013 -12.868 -15.654  1.00  0.00     0.020 C 
+BRANCH  11  12
+ATOM     12  C14 KWE A 501     -12.703 -11.700 -14.957  1.00  0.00     0.006 C 
+BRANCH  12  13
+ATOM     13  C10 KWE A 501     -14.031 -12.261 -14.366  1.00  0.00     0.038 C 
+BRANCH  13  14
+ATOM     14  C7  KWE A 501     -15.064 -11.181 -14.224  1.00  0.00    -0.058 A 
+ATOM     15  C4  KWE A 501     -14.833  -9.983 -14.858  1.00  0.00     0.007 A 
+ATOM     16  C2  KWE A 501     -15.780  -8.961 -14.721  1.00  0.00     0.001 A 
+ATOM     17  C1  KWE A 501     -16.924  -9.171 -13.968  1.00  0.00     0.000 A 
+ATOM     18  C3  KWE A 501     -17.143 -10.397 -13.320  1.00  0.00     0.001 A 
+ATOM     19  C5  KWE A 501     -16.204 -11.385 -13.492  1.00  0.00     0.007 A 
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   3   8
+BRANCH   4  20
+ATOM     20  C29 KWE A 501      -8.543 -12.082 -16.518  1.00  0.00     0.085 C 
+BRANCH  20  21
+ATOM     21  C24 KWE A 501      -8.067 -11.285 -15.328  1.00  0.00    -0.054 A 
+ATOM     22  C19 KWE A 501      -8.948 -10.589 -14.558  1.00  0.00     0.007 A 
+ATOM     23  C15 KWE A 501      -8.443  -9.789 -13.483  1.00  0.00     0.001 A 
+ATOM     24  C11 KWE A 501      -7.102  -9.749 -13.223  1.00  0.00     0.000 A 
+ATOM     25  C16 KWE A 501      -6.251 -10.441 -14.039  1.00  0.00     0.001 A 
+ATOM     26  C20 KWE A 501      -6.743 -11.236 -15.042  1.00  0.00     0.007 A 
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+BRANCH   1  27
+ATOM     27  C21 KWE A 501      -6.425 -16.543 -17.705  1.00  0.00     0.174 C 
+BRANCH  27  28
+ATOM     28  C17 KWE A 501      -5.161 -16.780 -16.955  1.00  0.00    -0.040 A 
+ATOM     29  C12 KWE A 501      -5.167 -17.344 -15.705  1.00  0.00     0.009 A 
+ATOM     30  C8  KWE A 501      -3.933 -17.545 -15.049  1.00  0.00     0.001 A 
+ATOM     31  C6  KWE A 501      -2.772 -17.197 -15.758  1.00  0.00     0.000 A 
+ATOM     32  C9  KWE A 501      -2.800 -16.592 -16.999  1.00  0.00     0.001 A 
+ATOM     33  C13 KWE A 501      -4.017 -16.387 -17.635  1.00  0.00     0.009 A 
+ENDBRANCH  27  28
+ENDBRANCH   1  27
+TORSDOF 10
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -8.476      2.131      9.683
+REMARK INTER + INTRA:         -14.945
+REMARK INTER:                 -13.426
+REMARK INTRA:                  -1.519
+REMARK UNBOUND:                -1.514
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C10_7 
+REMARK    2  A    between atoms: C10_7  and  C14_11 
+REMARK    3  A    between atoms: C14_11  and  C18_27 
+REMARK    4  A    between atoms: C21_16  and  N26_19 
+REMARK    5  A    between atoms: C21_16  and  C17_26 
+REMARK    6  A    between atoms: C22_17  and  C18_27 
+REMARK    7  A    between atoms: C22_17  and  N27_30 
+REMARK    8  A    between atoms: C24_18  and  C29_32 
+REMARK    9  A    between atoms: C31_21  and  N27_30 
+REMARK   10  A    between atoms: C32_22  and  C29_32 
+ROOT
+ATOM      1  N26 KWE A 501     -12.957 -10.930 -15.641  1.00  0.00    -0.275 N 
+ATOM      2  C30 KWE A 501     -11.986 -10.166 -15.128  1.00  0.00     0.259 A 
+ATOM      3  C31 KWE A 501     -11.077 -12.166 -15.289  1.00  0.00     0.109 A 
+ATOM      4  C32 KWE A 501     -10.815 -10.923 -14.863  1.00  0.00     0.046 A 
+ATOM      5  O23 KWE A 501     -13.150 -13.150 -16.145  1.00  0.00    -0.265 OA
+ATOM      6  O25 KWE A 501     -12.143  -8.955 -14.948  1.00  0.00    -0.267 OA
+ATOM      7  C28 KWE A 501     -12.476 -12.194 -15.740  1.00  0.00     0.278 A 
+ENDROOT
+BRANCH   3   8
+ATOM      8  N27 KWE A 501     -10.367 -13.292 -15.347  1.00  0.00    -0.385 N 
+ATOM      9  H   KWE A 501     -10.283 -13.773 -14.493  1.00  0.00     0.159 HD
+BRANCH   8  10
+ATOM     10  C22 KWE A 501      -9.692 -13.927 -16.484  1.00  0.00     0.120 C 
+BRANCH  10  11
+ATOM     11  C18 KWE A 501      -8.872 -15.101 -16.102  1.00  0.00     0.020 C 
+BRANCH  11  12
+ATOM     12  C14 KWE A 501      -7.593 -15.092 -16.932  1.00  0.00     0.006 C 
+BRANCH  12  13
+ATOM     13  C10 KWE A 501      -7.120 -16.573 -17.032  1.00  0.00     0.038 C 
+BRANCH  13  14
+ATOM     14  C7  KWE A 501      -5.627 -16.677 -16.917  1.00  0.00    -0.058 A 
+ATOM     15  C4  KWE A 501      -4.863 -16.042 -17.868  1.00  0.00     0.007 A 
+ATOM     16  C2  KWE A 501      -3.469 -16.145 -17.783  1.00  0.00     0.001 A 
+ATOM     17  C1  KWE A 501      -2.888 -16.865 -16.751  1.00  0.00     0.000 A 
+ATOM     18  C3  KWE A 501      -3.681 -17.513 -15.791  1.00  0.00     0.001 A 
+ATOM     19  C5  KWE A 501      -5.044 -17.376 -15.893  1.00  0.00     0.007 A 
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   3   8
+BRANCH   4  20
+ATOM     20  C29 KWE A 501      -9.577 -10.409 -14.188  1.00  0.00     0.085 C 
+BRANCH  20  21
+ATOM     21  C24 KWE A 501      -8.226 -10.768 -14.759  1.00  0.00    -0.054 A 
+ATOM     22  C19 KWE A 501      -8.067 -10.969 -16.096  1.00  0.00     0.007 A 
+ATOM     23  C15 KWE A 501      -6.785 -11.378 -16.585  1.00  0.00     0.001 A 
+ATOM     24  C11 KWE A 501      -5.736 -11.536 -15.723  1.00  0.00     0.000 A 
+ATOM     25  C16 KWE A 501      -5.948 -11.351 -14.385  1.00  0.00     0.001 A 
+ATOM     26  C20 KWE A 501      -7.167 -10.921 -13.928  1.00  0.00     0.007 A 
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+BRANCH   1  27
+ATOM     27  C21 KWE A 501     -14.327 -10.451 -15.985  1.00  0.00     0.174 C 
+BRANCH  27  28
+ATOM     28  C17 KWE A 501     -15.343 -10.536 -14.901  1.00  0.00    -0.040 A 
+ATOM     29  C12 KWE A 501     -15.530 -11.691 -14.185  1.00  0.00     0.009 A 
+ATOM     30  C8  KWE A 501     -16.507 -11.703 -13.167  1.00  0.00     0.001 A 
+ATOM     31  C6  KWE A 501     -17.188 -10.499 -12.923  1.00  0.00     0.000 A 
+ATOM     32  C9  KWE A 501     -17.006  -9.363 -13.687  1.00  0.00     0.001 A 
+ATOM     33  C13 KWE A 501     -16.051  -9.360 -14.695  1.00  0.00     0.009 A 
+ENDBRANCH  27  28
+ENDBRANCH   1  27
+TORSDOF 10
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -8.187      1.972      9.611
+REMARK INTER + INTRA:         -14.486
+REMARK INTER:                 -15.091
+REMARK INTRA:                   0.605
+REMARK UNBOUND:                -1.514
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C10_7 
+REMARK    2  A    between atoms: C10_7  and  C14_11 
+REMARK    3  A    between atoms: C14_11  and  C18_27 
+REMARK    4  A    between atoms: C21_16  and  N26_19 
+REMARK    5  A    between atoms: C21_16  and  C17_26 
+REMARK    6  A    between atoms: C22_17  and  C18_27 
+REMARK    7  A    between atoms: C22_17  and  N27_30 
+REMARK    8  A    between atoms: C24_18  and  C29_32 
+REMARK    9  A    between atoms: C31_21  and  N27_30 
+REMARK   10  A    between atoms: C32_22  and  C29_32 
+ROOT
+ATOM      1  N26 KWE A 501     -13.077 -11.939 -15.173  1.00  0.00    -0.275 N 
+ATOM      2  C30 KWE A 501     -12.504 -10.733 -15.250  1.00  0.00     0.259 A 
+ATOM      3  C31 KWE A 501     -10.808 -12.133 -15.124  1.00  0.00     0.109 A 
+ATOM      4  C32 KWE A 501     -11.090 -10.824 -15.183  1.00  0.00     0.046 A 
+ATOM      5  O23 KWE A 501     -12.292 -14.071 -14.927  1.00  0.00    -0.265 OA
+ATOM      6  O25 KWE A 501     -13.176  -9.706 -15.384  1.00  0.00    -0.267 OA
+ATOM      7  C28 KWE A 501     -12.086 -12.857 -15.059  1.00  0.00     0.278 A 
+ENDROOT
+BRANCH   3   8
+ATOM      8  N27 KWE A 501      -9.676 -12.834 -15.088  1.00  0.00    -0.385 N 
+ATOM      9  H   KWE A 501      -9.012 -12.515 -14.436  1.00  0.00     0.159 HD
+BRANCH   8  10
+ATOM     10  C22 KWE A 501      -9.265 -14.006 -15.868  1.00  0.00     0.120 C 
+BRANCH  10  11
+ATOM     11  C18 KWE A 501      -8.487 -13.663 -17.083  1.00  0.00     0.020 C 
+BRANCH  11  12
+ATOM     12  C14 KWE A 501      -7.027 -14.030 -16.843  1.00  0.00     0.006 C 
+BRANCH  12  13
+ATOM     13  C10 KWE A 501      -6.939 -15.582 -16.947  1.00  0.00     0.038 C 
+BRANCH  13  14
+ATOM     14  C7  KWE A 501      -5.512 -16.049 -16.945  1.00  0.00    -0.058 A 
+ATOM     15  C4  KWE A 501      -5.170 -17.071 -16.091  1.00  0.00     0.007 A 
+ATOM     16  C2  KWE A 501      -3.839 -17.505 -16.067  1.00  0.00     0.001 A 
+ATOM     17  C1  KWE A 501      -2.902 -16.914 -16.898  1.00  0.00     0.000 A 
+ATOM     18  C3  KWE A 501      -3.263 -15.866 -17.760  1.00  0.00     0.001 A 
+ATOM     19  C5  KWE A 501      -4.581 -15.479 -17.773  1.00  0.00     0.007 A 
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   3   8
+BRANCH   4  20
+ATOM     20  C29 KWE A 501     -10.141  -9.662 -15.132  1.00  0.00     0.085 C 
+BRANCH  20  21
+ATOM     21  C24 KWE A 501      -8.687  -9.915 -14.814  1.00  0.00    -0.054 A 
+ATOM     22  C19 KWE A 501      -7.806 -10.243 -15.798  1.00  0.00     0.007 A 
+ATOM     23  C15 KWE A 501      -6.452 -10.546 -15.441  1.00  0.00     0.001 A 
+ATOM     24  C11 KWE A 501      -6.051 -10.478 -14.136  1.00  0.00     0.000 A 
+ATOM     25  C16 KWE A 501      -6.977 -10.170 -13.177  1.00  0.00     0.001 A 
+ATOM     26  C20 KWE A 501      -8.260  -9.844 -13.529  1.00  0.00     0.007 A 
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+BRANCH   1  27
+ATOM     27  C21 KWE A 501     -14.548 -12.186 -15.167  1.00  0.00     0.174 C 
+BRANCH  27  28
+ATOM     28  C17 KWE A 501     -15.404 -11.037 -14.762  1.00  0.00    -0.040 A 
+ATOM     29  C12 KWE A 501     -15.580  -9.954 -15.584  1.00  0.00     0.009 A 
+ATOM     30  C8  KWE A 501     -16.408  -8.899 -15.141  1.00  0.00     0.001 A 
+ATOM     31  C6  KWE A 501     -17.040  -9.065 -13.898  1.00  0.00     0.000 A 
+ATOM     32  C9  KWE A 501     -16.811 -10.150 -13.075  1.00  0.00     0.001 A 
+ATOM     33  C13 KWE A 501     -15.987 -11.179 -13.511  1.00  0.00     0.009 A 
+ENDBRANCH  27  28
+ENDBRANCH   1  27
+TORSDOF 10
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -7.701      1.948      9.479
+REMARK INTER + INTRA:         -13.717
+REMARK INTER:                 -13.183
+REMARK INTRA:                  -0.534
+REMARK UNBOUND:                -1.514
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C7_4  and  C10_7 
+REMARK    2  A    between atoms: C10_7  and  C14_11 
+REMARK    3  A    between atoms: C14_11  and  C18_27 
+REMARK    4  A    between atoms: C21_16  and  N26_19 
+REMARK    5  A    between atoms: C21_16  and  C17_26 
+REMARK    6  A    between atoms: C22_17  and  C18_27 
+REMARK    7  A    between atoms: C22_17  and  N27_30 
+REMARK    8  A    between atoms: C24_18  and  C29_32 
+REMARK    9  A    between atoms: C31_21  and  N27_30 
+REMARK   10  A    between atoms: C32_22  and  C29_32 
+ROOT
+ATOM      1  N26 KWE A 501     -12.443 -11.726 -14.966  1.00  0.00    -0.275 N 
+ATOM      2  C30 KWE A 501     -11.644 -10.662 -15.101  1.00  0.00     0.259 A 
+ATOM      3  C31 KWE A 501     -10.551 -12.293 -16.100  1.00  0.00     0.109 A 
+ATOM      4  C32 KWE A 501     -10.439 -10.998 -15.772  1.00  0.00     0.046 A 
+ATOM      5  O23 KWE A 501     -12.282 -13.932 -15.539  1.00  0.00    -0.265 OA
+ATOM      6  O25 KWE A 501     -11.977  -9.547 -14.691  1.00  0.00    -0.267 OA
+ATOM      7  C28 KWE A 501     -11.815 -12.785 -15.535  1.00  0.00     0.278 A 
+ENDROOT
+BRANCH   3   8
+ATOM      8  N27 KWE A 501      -9.776 -13.148 -16.766  1.00  0.00    -0.385 N 
+ATOM      9  H   KWE A 501      -9.976 -13.228 -17.726  1.00  0.00     0.159 HD
+BRANCH   8  10
+ATOM     10  C22 KWE A 501      -8.670 -13.988 -16.292  1.00  0.00     0.120 C 
+BRANCH  10  11
+ATOM     11  C18 KWE A 501      -9.011 -15.429 -16.230  1.00  0.00     0.020 C 
+BRANCH  11  12
+ATOM     12  C14 KWE A 501      -7.874 -16.224 -16.865  1.00  0.00     0.006 C 
+BRANCH  12  13
+ATOM     13  C10 KWE A 501      -6.729 -15.207 -17.148  1.00  0.00     0.038 C 
+BRANCH  13  14
+ATOM     14  C7  KWE A 501      -5.380 -15.842 -16.970  1.00  0.00    -0.058 A 
+ATOM     15  C4  KWE A 501      -4.343 -15.377 -17.743  1.00  0.00     0.007 A 
+ATOM     16  C2  KWE A 501      -3.083 -15.971 -17.598  1.00  0.00     0.001 A 
+ATOM     17  C1  KWE A 501      -2.900 -16.997 -16.684  1.00  0.00     0.000 A 
+ATOM     18  C3  KWE A 501      -3.970 -17.466 -15.906  1.00  0.00     0.001 A 
+ATOM     19  C5  KWE A 501      -5.187 -16.847 -16.059  1.00  0.00     0.007 A 
+ENDBRANCH  13  14
+ENDBRANCH  12  13
+ENDBRANCH  11  12
+ENDBRANCH  10  11
+ENDBRANCH   8  10
+ENDBRANCH   3   8
+BRANCH   4  20
+ATOM     20  C29 KWE A 501      -9.276 -10.076 -15.995  1.00  0.00     0.085 C 
+BRANCH  20  21
+ATOM     21  C24 KWE A 501      -8.086 -10.157 -15.070  1.00  0.00    -0.054 A 
+ATOM     22  C19 KWE A 501      -6.980 -10.869 -15.418  1.00  0.00     0.007 A 
+ATOM     23  C15 KWE A 501      -5.905 -10.978 -14.479  1.00  0.00     0.001 A 
+ATOM     24  C11 KWE A 501      -5.982 -10.353 -13.266  1.00  0.00     0.000 A 
+ATOM     25  C16 KWE A 501      -7.124  -9.670 -12.947  1.00  0.00     0.001 A 
+ATOM     26  C20 KWE A 501      -8.133  -9.537 -13.865  1.00  0.00     0.007 A 
+ENDBRANCH  20  21
+ENDBRANCH   4  20
+BRANCH   1  27
+ATOM     27  C21 KWE A 501     -13.760 -11.720 -14.267  1.00  0.00     0.174 C 
+BRANCH  27  28
+ATOM     28  C17 KWE A 501     -14.732 -10.683 -14.709  1.00  0.00    -0.040 A 
+ATOM     29  C12 KWE A 501     -14.505  -9.920 -15.825  1.00  0.00     0.009 A 
+ATOM     30  C8  KWE A 501     -15.469  -8.955 -16.191  1.00  0.00     0.001 A 
+ATOM     31  C6  KWE A 501     -16.629  -8.885 -15.404  1.00  0.00     0.000 A 
+ATOM     32  C9  KWE A 501     -16.811  -9.638 -14.261  1.00  0.00     0.001 A 
+ATOM     33  C13 KWE A 501     -15.855 -10.578 -13.899  1.00  0.00     0.009 A 
+ENDBRANCH  27  28
+ENDBRANCH   1  27
+TORSDOF 10
+ENDMDL

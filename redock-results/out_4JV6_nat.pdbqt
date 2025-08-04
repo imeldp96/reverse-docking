@@ -1,0 +1,246 @@
+MODEL 1
+REMARK VINA RESULT:    -9.326      0.000      0.000
+REMARK INTER + INTRA:         -11.092
+REMARK INTER:                 -10.416
+REMARK INTRA:                  -0.676
+REMARK UNBOUND:                -0.676
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAQ_6  and  CAP_7 
+REMARK    2  A    between atoms: CAP_7  and  NAE_8 
+ROOT
+ATOM      1  NAE 18F B 201      19.122 -18.060  12.921  1.00  0.00    -0.326 N 
+ATOM      2  CAD 18F B 201      20.227 -18.602  12.355  1.00  0.00     0.063 A 
+ATOM      3  CAI 18F B 201      21.349 -19.255  12.896  1.00  0.00     0.032 A 
+ATOM      4  CAH 18F B 201      22.381 -19.691  12.025  1.00  0.00     0.002 A 
+ATOM      5  CAG 18F B 201      22.233 -19.456  10.636  1.00  0.00     0.002 A 
+ATOM      6  CAF 18F B 201      21.108 -18.786  10.113  1.00  0.00     0.032 A 
+ATOM      7  CAC 18F B 201      20.094 -18.376  10.986  1.00  0.00     0.060 A 
+ATOM      8  NAB 18F B 201      18.909 -17.675  10.765  1.00  0.00    -0.340 N 
+ATOM      9  HAB 18F B 201      18.551 -17.363   9.863  1.00  0.00     0.167 HD
+ATOM     10  CAA 18F B 201      18.330 -17.487  11.956  1.00  0.00     0.119 A 
+ATOM     11  CAJ 18F B 201      17.054 -16.943  12.157  1.00  0.00     0.008 A 
+ATOM     12  CAK 18F B 201      16.009 -17.552  11.450  1.00  0.00     0.015 A 
+ATOM     13  CAL 18F B 201      14.675 -17.116  11.613  1.00  0.00     0.001 A 
+ATOM     14  CAM 18F B 201      14.456 -16.111  12.560  1.00  0.00     0.000 A 
+ATOM     15  CAN 18F B 201      15.484 -15.510  13.261  1.00  0.00     0.001 A 
+ATOM     16  CAO 18F B 201      16.804 -15.931  13.078  1.00  0.00     0.015 A 
+ENDROOT
+BRANCH   1  17
+ATOM     17  CAP 18F B 201      18.882 -18.059  14.398  1.00  0.00     0.169 C 
+BRANCH  17  18
+ATOM     18  CAQ 18F B 201      19.354 -16.735  15.078  1.00  0.00    -0.040 A 
+ATOM     19  CAR 18F B 201      18.780 -16.370  16.291  1.00  0.00     0.009 A 
+ATOM     20  CAS 18F B 201      19.203 -15.171  16.888  1.00  0.00     0.001 A 
+ATOM     21  CAT 18F B 201      20.168 -14.340  16.335  1.00  0.00     0.000 A 
+ATOM     22  CAU 18F B 201      20.781 -14.723  15.134  1.00  0.00     0.001 A 
+ATOM     23  CAV 18F B 201      20.354 -15.917  14.526  1.00  0.00     0.009 A 
+ENDBRANCH  17  18
+ENDBRANCH   1  17
+TORSDOF 2
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -8.667      0.392      1.090
+REMARK INTER + INTRA:         -10.356
+REMARK INTER:                  -9.867
+REMARK INTRA:                  -0.489
+REMARK UNBOUND:                -0.676
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAQ_6  and  CAP_7 
+REMARK    2  A    between atoms: CAP_7  and  NAE_8 
+ROOT
+ATOM      1  NAE 18F B 201      18.776 -17.905  12.831  1.00  0.00    -0.326 N 
+ATOM      2  CAD 18F B 201      19.884 -18.402  12.230  1.00  0.00     0.063 A 
+ATOM      3  CAI 18F B 201      21.045 -19.014  12.736  1.00  0.00     0.032 A 
+ATOM      4  CAH 18F B 201      22.068 -19.405  11.834  1.00  0.00     0.002 A 
+ATOM      5  CAG 18F B 201      21.873 -19.168  10.451  1.00  0.00     0.002 A 
+ATOM      6  CAF 18F B 201      20.709 -18.540   9.963  1.00  0.00     0.032 A 
+ATOM      7  CAC 18F B 201      19.705 -18.173  10.867  1.00  0.00     0.060 A 
+ATOM      8  NAB 18F B 201      18.488 -17.517  10.684  1.00  0.00    -0.340 N 
+ATOM      9  HAB 18F B 201      18.093 -17.214   9.794  1.00  0.00     0.167 HD
+ATOM     10  CAA 18F B 201      17.936 -17.358  11.891  1.00  0.00     0.119 A 
+ATOM     11  CAJ 18F B 201      16.646 -16.865  12.132  1.00  0.00     0.008 A 
+ATOM     12  CAK 18F B 201      15.606 -17.509  11.450  1.00  0.00     0.015 A 
+ATOM     13  CAL 18F B 201      14.261 -17.125  11.652  1.00  0.00     0.001 A 
+ATOM     14  CAM 18F B 201      14.031 -16.134  12.611  1.00  0.00     0.000 A 
+ATOM     15  CAN 18F B 201      15.055 -15.499  13.288  1.00  0.00     0.001 A 
+ATOM     16  CAO 18F B 201      16.384 -15.867  13.065  1.00  0.00     0.015 A 
+ENDROOT
+BRANCH   1  17
+ATOM     17  CAP 18F B 201      18.577 -17.922  14.313  1.00  0.00     0.169 C 
+BRANCH  17  18
+ATOM     18  CAQ 18F B 201      19.134 -16.636  15.004  1.00  0.00    -0.040 A 
+ATOM     19  CAR 18F B 201      20.243 -16.009  14.445  1.00  0.00     0.009 A 
+ATOM     20  CAS 18F B 201      20.743 -14.861  15.081  1.00  0.00     0.001 A 
+ATOM     21  CAT 18F B 201      20.183 -14.317  16.228  1.00  0.00     0.000 A 
+ATOM     22  CAU 18F B 201      19.039 -14.919  16.771  1.00  0.00     0.001 A 
+ATOM     23  CAV 18F B 201      18.541 -16.075  16.146  1.00  0.00     0.009 A 
+ENDBRANCH  17  18
+ENDBRANCH   1  17
+TORSDOF 2
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -8.184      0.996      4.467
+REMARK INTER + INTRA:          -9.817
+REMARK INTER:                  -9.417
+REMARK INTRA:                  -0.400
+REMARK UNBOUND:                -0.676
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAQ_6  and  CAP_7 
+REMARK    2  A    between atoms: CAP_7  and  NAE_8 
+ROOT
+ATOM      1  NAE 18F B 201      19.590 -17.033  12.442  1.00  0.00    -0.326 N 
+ATOM      2  CAD 18F B 201      20.237 -17.942  11.673  1.00  0.00     0.063 A 
+ATOM      3  CAI 18F B 201      20.262 -18.165  10.285  1.00  0.00     0.032 A 
+ATOM      4  CAH 18F B 201      21.028 -19.243   9.773  1.00  0.00     0.002 A 
+ATOM      5  CAG 18F B 201      21.748 -20.051  10.687  1.00  0.00     0.002 A 
+ATOM      6  CAF 18F B 201      21.699 -19.822  12.077  1.00  0.00     0.032 A 
+ATOM      7  CAC 18F B 201      20.948 -18.745  12.562  1.00  0.00     0.060 A 
+ATOM      8  NAB 18F B 201      20.690 -18.306  13.861  1.00  0.00    -0.340 N 
+ATOM      9  HAB 18F B 201      21.066 -18.706  14.720  1.00  0.00     0.167 HD
+ATOM     10  CAA 18F B 201      19.858 -17.263  13.770  1.00  0.00     0.119 A 
+ATOM     11  CAJ 18F B 201      19.462 -16.449  14.840  1.00  0.00     0.008 A 
+ATOM     12  CAK 18F B 201      20.496 -15.893  15.604  1.00  0.00     0.015 A 
+ATOM     13  CAL 18F B 201      20.214 -15.020  16.678  1.00  0.00     0.001 A 
+ATOM     14  CAM 18F B 201      18.871 -14.692  16.881  1.00  0.00     0.000 A 
+ATOM     15  CAN 18F B 201      17.847 -15.236  16.128  1.00  0.00     0.001 A 
+ATOM     16  CAO 18F B 201      18.132 -16.118  15.082  1.00  0.00     0.015 A 
+ENDROOT
+BRANCH   1  17
+ATOM     17  CAP 18F B 201      18.680 -15.989  11.877  1.00  0.00     0.169 C 
+BRANCH  17  18
+ATOM     18  CAQ 18F B 201      17.174 -16.388  11.988  1.00  0.00    -0.040 A 
+ATOM     19  CAR 18F B 201      16.277 -15.460  12.509  1.00  0.00     0.009 A 
+ATOM     20  CAS 18F B 201      14.928 -15.834  12.616  1.00  0.00     0.001 A 
+ATOM     21  CAT 18F B 201      14.444 -17.073  12.222  1.00  0.00     0.000 A 
+ATOM     22  CAU 18F B 201      15.334 -17.997  11.657  1.00  0.00     0.001 A 
+ATOM     23  CAV 18F B 201      16.689 -17.633  11.558  1.00  0.00     0.009 A 
+ENDBRANCH  17  18
+ENDBRANCH   1  17
+TORSDOF 2
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -7.076      0.936      4.964
+REMARK INTER + INTRA:          -8.579
+REMARK INTER:                  -7.954
+REMARK INTRA:                  -0.625
+REMARK UNBOUND:                -0.676
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAQ_6  and  CAP_7 
+REMARK    2  A    between atoms: CAP_7  and  NAE_8 
+ROOT
+ATOM      1  NAE 18F B 201      18.572 -16.704  12.528  1.00  0.00    -0.326 N 
+ATOM      2  CAD 18F B 201      17.251 -16.407  12.476  1.00  0.00     0.063 A 
+ATOM      3  CAI 18F B 201      16.528 -15.238  12.773  1.00  0.00     0.032 A 
+ATOM      4  CAH 18F B 201      15.115 -15.250  12.647  1.00  0.00     0.002 A 
+ATOM      5  CAG 18F B 201      14.487 -16.445  12.218  1.00  0.00     0.002 A 
+ATOM      6  CAF 18F B 201      15.227 -17.612  11.939  1.00  0.00     0.032 A 
+ATOM      7  CAC 18F B 201      16.622 -17.577  12.056  1.00  0.00     0.060 A 
+ATOM      8  NAB 18F B 201      17.591 -18.566  11.885  1.00  0.00    -0.340 N 
+ATOM      9  HAB 18F B 201      17.427 -19.528  11.590  1.00  0.00     0.167 HD
+ATOM     10  CAA 18F B 201      18.774 -18.018  12.180  1.00  0.00     0.119 A 
+ATOM     11  CAJ 18F B 201      20.019 -18.638  12.004  1.00  0.00     0.008 A 
+ATOM     12  CAK 18F B 201      20.276 -19.145  10.724  1.00  0.00     0.015 A 
+ATOM     13  CAL 18F B 201      21.517 -19.749  10.421  1.00  0.00     0.001 A 
+ATOM     14  CAM 18F B 201      22.480 -19.743  11.434  1.00  0.00     0.000 A 
+ATOM     15  CAN 18F B 201      22.230 -19.242  12.697  1.00  0.00     0.001 A 
+ATOM     16  CAO 18F B 201      20.992 -18.667  12.998  1.00  0.00     0.015 A 
+ENDROOT
+BRANCH   1  17
+ATOM     17  CAP 18F B 201      19.610 -15.721  12.968  1.00  0.00     0.169 C 
+BRANCH  17  18
+ATOM     18  CAQ 18F B 201      19.659 -15.561  14.521  1.00  0.00    -0.040 A 
+ATOM     19  CAR 18F B 201      20.412 -14.521  15.058  1.00  0.00     0.009 A 
+ATOM     20  CAS 18F B 201      20.459 -14.394  16.455  1.00  0.00     0.001 A 
+ATOM     21  CAT 18F B 201      19.788 -15.243  17.324  1.00  0.00     0.000 A 
+ATOM     22  CAU 18F B 201      18.995 -16.266  16.789  1.00  0.00     0.001 A 
+ATOM     23  CAV 18F B 201      18.952 -16.406  15.390  1.00  0.00     0.009 A 
+ENDBRANCH  17  18
+ENDBRANCH   1  17
+TORSDOF 2
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -7.023      1.239      4.802
+REMARK INTER + INTRA:          -8.520
+REMARK INTER:                  -8.040
+REMARK INTRA:                  -0.479
+REMARK UNBOUND:                -0.676
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAQ_6  and  CAP_7 
+REMARK    2  A    between atoms: CAP_7  and  NAE_8 
+ROOT
+ATOM      1  NAE 18F B 201      18.462 -16.019  13.294  1.00  0.00    -0.326 N 
+ATOM      2  CAD 18F B 201      19.175 -15.527  14.336  1.00  0.00     0.063 A 
+ATOM      3  CAI 18F B 201      20.512 -15.108  14.459  1.00  0.00     0.032 A 
+ATOM      4  CAH 18F B 201      20.982 -14.663  15.722  1.00  0.00     0.002 A 
+ATOM      5  CAG 18F B 201      20.077 -14.652  16.812  1.00  0.00     0.002 A 
+ATOM      6  CAF 18F B 201      18.744 -15.090  16.673  1.00  0.00     0.032 A 
+ATOM      7  CAC 18F B 201      18.295 -15.513  15.417  1.00  0.00     0.060 A 
+ATOM      8  NAB 18F B 201      17.067 -16.023  14.996  1.00  0.00    -0.340 N 
+ATOM      9  HAB 18F B 201      16.232 -16.140  15.570  1.00  0.00     0.167 HD
+ATOM     10  CAA 18F B 201      17.187 -16.330  13.700  1.00  0.00     0.119 A 
+ATOM     11  CAJ 18F B 201      16.138 -16.744  12.867  1.00  0.00     0.008 A 
+ATOM     12  CAK 18F B 201      15.013 -15.910  12.836  1.00  0.00     0.015 A 
+ATOM     13  CAL 18F B 201      13.917 -16.205  11.995  1.00  0.00     0.001 A 
+ATOM     14  CAM 18F B 201      14.051 -17.316  11.158  1.00  0.00     0.000 A 
+ATOM     15  CAN 18F B 201      15.161 -18.140  11.184  1.00  0.00     0.001 A 
+ATOM     16  CAO 18F B 201      16.232 -17.855  12.035  1.00  0.00     0.015 A 
+ENDROOT
+BRANCH   1  17
+ATOM     17  CAP 18F B 201      19.049 -16.230  11.934  1.00  0.00     0.169 C 
+BRANCH  17  18
+ATOM     18  CAQ 18F B 201      19.879 -17.550  11.841  1.00  0.00    -0.040 A 
+ATOM     19  CAR 18F B 201      20.315 -17.973  10.590  1.00  0.00     0.009 A 
+ATOM     20  CAS 18F B 201      21.049 -19.168  10.516  1.00  0.00     0.001 A 
+ATOM     21  CAT 18F B 201      21.368 -19.940  11.625  1.00  0.00     0.000 A 
+ATOM     22  CAU 18F B 201      20.967 -19.497  12.893  1.00  0.00     0.001 A 
+ATOM     23  CAV 18F B 201      20.222 -18.307  12.973  1.00  0.00     0.009 A 
+ENDBRANCH  17  18
+ENDBRANCH   1  17
+TORSDOF 2
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -6.564      1.342      5.506
+REMARK INTER + INTRA:          -8.007
+REMARK INTER:                  -7.117
+REMARK INTRA:                  -0.890
+REMARK UNBOUND:                -0.676
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CAQ_6  and  CAP_7 
+REMARK    2  A    between atoms: CAP_7  and  NAE_8 
+ROOT
+ATOM      1  NAE 18F B 201      17.834 -16.644  12.511  1.00  0.00    -0.326 N 
+ATOM      2  CAD 18F B 201      16.591 -16.891  12.032  1.00  0.00     0.063 A 
+ATOM      3  CAI 18F B 201      16.132 -17.519  10.860  1.00  0.00     0.032 A 
+ATOM      4  CAH 18F B 201      14.736 -17.597  10.621  1.00  0.00     0.002 A 
+ATOM      5  CAG 18F B 201      13.856 -17.042  11.582  1.00  0.00     0.002 A 
+ATOM      6  CAF 18F B 201      14.335 -16.403  12.744  1.00  0.00     0.032 A 
+ATOM      7  CAC 18F B 201      15.715 -16.348  12.970  1.00  0.00     0.060 A 
+ATOM      8  NAB 18F B 201      16.464 -15.762  13.990  1.00  0.00    -0.340 N 
+ATOM      9  HAB 18F B 201      16.096 -15.280  14.810  1.00  0.00     0.167 HD
+ATOM     10  CAA 18F B 201      17.754 -15.948  13.693  1.00  0.00     0.119 A 
+ATOM     11  CAJ 18F B 201      18.831 -15.629  14.532  1.00  0.00     0.008 A 
+ATOM     12  CAK 18F B 201      18.780 -16.162  15.826  1.00  0.00     0.015 A 
+ATOM     13  CAL 18F B 201      19.834 -15.944  16.742  1.00  0.00     0.001 A 
+ATOM     14  CAM 18F B 201      20.942 -15.241  16.262  1.00  0.00     0.000 A 
+ATOM     15  CAN 18F B 201      20.998 -14.715  14.985  1.00  0.00     0.001 A 
+ATOM     16  CAO 18F B 201      19.941 -14.915  14.093  1.00  0.00     0.015 A 
+ENDROOT
+BRANCH   1  17
+ATOM     17  CAP 18F B 201      19.080 -17.040  11.784  1.00  0.00     0.169 C 
+BRANCH  17  18
+ATOM     18  CAQ 18F B 201      19.756 -18.305  12.405  1.00  0.00    -0.040 A 
+ATOM     19  CAR 18F B 201      19.048 -19.039  13.351  1.00  0.00     0.009 A 
+ATOM     20  CAS 18F B 201      19.669 -20.166  13.912  1.00  0.00     0.001 A 
+ATOM     21  CAT 18F B 201      20.945 -20.589  13.565  1.00  0.00     0.000 A 
+ATOM     22  CAU 18F B 201      21.646 -19.879  12.582  1.00  0.00     0.001 A 
+ATOM     23  CAV 18F B 201      21.034 -18.742  12.024  1.00  0.00     0.009 A 
+ENDBRANCH  17  18
+ENDBRANCH   1  17
+TORSDOF 2
+ENDMDL

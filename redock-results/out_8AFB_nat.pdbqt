@@ -1,0 +1,158 @@
+MODEL 1
+REMARK VINA RESULT:    -9.475      0.000      0.000
+REMARK INTER + INTRA:         -14.075
+REMARK INTER:                 -12.521
+REMARK INTRA:                  -1.554
+REMARK UNBOUND:                -1.554
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_2  and  N7_40 
+REMARK    2  A    between atoms: C8_4  and  C1_11 
+REMARK    3  A    between atoms: C13_5  and  C12_12 
+REMARK    4  A    between atoms: C20_8  and  N24_36 
+REMARK    5  A    between atoms: C3_20  and  N31_38 
+REMARK    6  A    between atoms: C39_28  and  C40_29 
+REMARK       I    between atoms: C39_28  and  N28_37 
+ROOT
+ATOM      1  C13 LXD A 203      18.472  -8.228  22.360  1.00  0.00     0.053 C 
+ATOM      2  C15 LXD A 203      20.193  -6.327  22.425  1.00  0.00     0.007 C 
+ATOM      3  C17 LXD A 203      20.257  -8.162  24.111  1.00  0.00    -0.006 A 
+ATOM      4  C20 LXD A 203      20.088 -10.465  25.013  1.00  0.00     0.089 A 
+ATOM      5  C22 LXD A 203      18.265 -11.211  23.545  1.00  0.00     0.103 C 
+ATOM      6  C14 LXD A 203      20.648  -6.741  23.821  1.00  0.00     0.047 C 
+ATOM      7  C16 LXD A 203      18.735  -6.706  22.194  1.00  0.00     0.023 C 
+ATOM      8  C18 LXD A 203      19.294  -8.873  23.470  1.00  0.00    -0.005 A 
+ATOM      9  C19 LXD A 203      19.193 -10.212  23.978  1.00  0.00     0.086 A 
+ATOM     10  C25 LXD A 203      18.755  -8.970  21.039  1.00  0.00     0.029 C 
+ATOM     11  N23 LXD A 203      17.554 -12.051  23.242  1.00  0.00    -0.191 NA
+ATOM     12  S21 LXD A 203      21.073  -9.078  25.327  1.00  0.00    -0.075 SA
+ENDROOT
+BRANCH   4  13
+ATOM     13  N24 LXD A 203      20.270 -11.610  25.695  1.00  0.00    -0.392 N 
+ATOM     14  H   LXD A 203      19.805 -12.430  25.414  1.00  0.00     0.156 HD
+ATOM     15  H   LXD A 203      20.869 -11.626  26.476  1.00  0.00     0.156 HD
+ENDBRANCH   4  13
+BRANCH   1  16
+ATOM     16  C12 LXD A 203      17.026  -8.440  22.737  1.00  0.00     0.161 A 
+ATOM     17  N9  LXD A 203      16.156  -8.966  21.955  1.00  0.00    -0.321 N 
+ATOM     18  C8  LXD A 203      15.009  -8.996  22.702  1.00  0.00     0.154 A 
+ATOM     19  H9  LXD A 203      16.289  -9.287  20.996  1.00  0.00     0.169 HD
+ATOM     20  N10 LXD A 203      15.158  -8.533  23.916  1.00  0.00    -0.241 N 
+ATOM     21  O11 LXD A 203      16.546  -8.148  23.950  1.00  0.00    -0.221 OA
+ATOM     22  H10 LXD A 203      14.460  -8.460  24.657  1.00  0.00     0.196 HD
+BRANCH  18  23
+ATOM     23  C1  LXD A 203      13.728  -9.489  22.145  1.00  0.00     0.082 A 
+ATOM     24  C6  LXD A 203      13.721 -10.232  20.958  1.00  0.00     0.063 A 
+ATOM     25  C5  LXD A 203      12.499 -10.597  20.394  1.00  0.00     0.036 A 
+ATOM     26  C4  LXD A 203      11.342 -10.226  21.074  1.00  0.00     0.077 A 
+ATOM     27  C3  LXD A 203      11.429  -9.533  22.289  1.00  0.00     0.106 A 
+ATOM     28  N2  LXD A 203      12.611  -9.136  22.803  1.00  0.00    -0.339 N 
+ATOM     29  H2  LXD A 203      12.656  -8.588  23.661  1.00  0.00     0.167 HD
+BRANCH  25  30
+ATOM     30  N7  LXD A 203      12.437 -11.342  19.201  1.00  0.00    -0.378 N 
+ATOM     31  C26 LXD A 203      12.887 -12.737  19.130  1.00  0.00     0.143 C 
+ATOM     32  C27 LXD A 203      12.973 -13.190  17.676  1.00  0.00     0.146 C 
+ATOM     33  N28 LXD A 203      11.641 -13.158  17.052  1.00  0.00    -0.346 N 
+ATOM     34  C29 LXD A 203      10.837 -11.990  17.446  1.00  0.00     0.146 C 
+ATOM     35  C39 LXD A 203      11.256 -14.121  16.176  1.00  0.00     0.242 C 
+ATOM     36  C30 LXD A 203      11.733 -10.887  17.995  1.00  0.00     0.143 C 
+ATOM     37  O41 LXD A 203      12.004 -15.059  15.895  1.00  0.00    -0.268 OA
+BRANCH  35  38
+ATOM     38  C40 LXD A 203       9.881 -14.066  15.613  1.00  0.00     0.064 C 
+ATOM     39  C42 LXD A 203       9.675 -14.117  14.270  1.00  0.00     0.017 C 
+ENDBRANCH  35  38
+ENDBRANCH  25  30
+BRANCH  27  40
+ATOM     40  N31 LXD A 203      10.307  -9.181  22.988  1.00  0.00    -0.360 N 
+ATOM     41  C32 LXD A 203       9.047  -9.907  22.777  1.00  0.00     0.152 C 
+ATOM     42  C33 LXD A 203       8.352 -10.167  24.111  1.00  0.00     0.254 C 
+ATOM     43  N34 LXD A 203       8.186  -8.894  24.877  1.00  0.00    -0.071 N 
+ATOM     44  C35 LXD A 203       9.521  -8.266  25.156  1.00  0.00     0.259 C 
+ATOM     45  C37 LXD A 203       7.422  -9.111  26.139  1.00  0.00     0.269 C 
+ATOM     46  H   LXD A 203       7.645  -8.251  24.299  1.00  0.00     0.279 HD
+ATOM     47  C36 LXD A 203      10.300  -7.969  23.829  1.00  0.00     0.107 C 
+ATOM     48  C38 LXD A 203       9.754  -6.759  23.079  1.00  0.00     0.034 C 
+ENDBRANCH  27  40
+ENDBRANCH  18  23
+ENDBRANCH   1  16
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -7.641      1.108      1.438
+REMARK INTER + INTRA:         -11.652
+REMARK INTER:                 -10.252
+REMARK INTRA:                  -1.400
+REMARK UNBOUND:                -1.554
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_2  and  N7_40 
+REMARK    2  A    between atoms: C8_4  and  C1_11 
+REMARK    3  A    between atoms: C13_5  and  C12_12 
+REMARK    4  A    between atoms: C20_8  and  N24_36 
+REMARK    5  A    between atoms: C3_20  and  N31_38 
+REMARK    6  A    between atoms: C39_28  and  C40_29 
+REMARK       I    between atoms: C39_28  and  N28_37 
+ROOT
+ATOM      1  C13 LXD A 203      18.281  -8.318  22.272  1.00  0.00     0.053 C 
+ATOM      2  C15 LXD A 203      20.066  -6.490  22.045  1.00  0.00     0.007 C 
+ATOM      3  C17 LXD A 203      20.187  -8.169  23.884  1.00  0.00    -0.006 A 
+ATOM      4  C20 LXD A 203      20.004 -10.374  25.002  1.00  0.00     0.089 A 
+ATOM      5  C22 LXD A 203      18.057 -11.173  23.736  1.00  0.00     0.103 C 
+ATOM      6  C14 LXD A 203      20.605  -6.797  23.439  1.00  0.00     0.047 C 
+ATOM      7  C16 LXD A 203      18.583  -6.829  21.949  1.00  0.00     0.023 C 
+ATOM      8  C18 LXD A 203      19.157  -8.894  23.377  1.00  0.00    -0.005 A 
+ATOM      9  C19 LXD A 203      19.048 -10.178  24.012  1.00  0.00     0.086 A 
+ATOM     10  C25 LXD A 203      18.443  -9.186  21.008  1.00  0.00     0.029 C 
+ATOM     11  N23 LXD A 203      17.298 -12.008  23.560  1.00  0.00    -0.191 NA
+ATOM     12  S21 LXD A 203      21.056  -9.005  25.120  1.00  0.00    -0.075 SA
+ENDROOT
+BRANCH   4  13
+ATOM     13  N24 LXD A 203      20.196 -11.460  25.773  1.00  0.00    -0.392 N 
+ATOM     14  H   LXD A 203      19.507 -12.162  25.814  1.00  0.00     0.156 HD
+ATOM     15  H   LXD A 203      21.025 -11.551  26.295  1.00  0.00     0.156 HD
+ENDBRANCH   4  13
+BRANCH   1  16
+ATOM     16  C12 LXD A 203      16.859  -8.437  22.764  1.00  0.00     0.161 A 
+ATOM     17  N9  LXD A 203      15.885  -8.840  22.033  1.00  0.00    -0.321 N 
+ATOM     18  C8  LXD A 203      14.806  -8.827  22.877  1.00  0.00     0.154 A 
+ATOM     19  H9  LXD A 203      15.908  -9.109  21.050  1.00  0.00     0.169 HD
+ATOM     20  N10 LXD A 203      15.096  -8.455  24.098  1.00  0.00    -0.241 N 
+ATOM     21  O11 LXD A 203      16.509  -8.187  24.030  1.00  0.00    -0.221 OA
+ATOM     22  H10 LXD A 203      14.472  -8.375  24.901  1.00  0.00     0.196 HD
+BRANCH  18  23
+ATOM     23  C1  LXD A 203      13.445  -9.178  22.410  1.00  0.00     0.082 A 
+ATOM     24  C6  LXD A 203      13.281 -10.002  21.289  1.00  0.00     0.063 A 
+ATOM     25  C5  LXD A 203      11.996 -10.236  20.802  1.00  0.00     0.036 A 
+ATOM     26  C4  LXD A 203      10.934  -9.657  21.491  1.00  0.00     0.077 A 
+ATOM     27  C3  LXD A 203      11.171  -8.891  22.640  1.00  0.00     0.106 A 
+ATOM     28  N2  LXD A 203      12.419  -8.624  23.076  1.00  0.00    -0.339 N 
+ATOM     29  H2  LXD A 203      12.578  -8.022  23.884  1.00  0.00     0.167 HD
+BRANCH  25  30
+ATOM     30  N7  LXD A 203      11.777 -11.055  19.678  1.00  0.00    -0.378 N 
+ATOM     31  C26 LXD A 203      11.083 -12.345  19.778  1.00  0.00     0.143 C 
+ATOM     32  C27 LXD A 203      11.245 -13.132  18.481  1.00  0.00     0.146 C 
+ATOM     33  N28 LXD A 203      10.611 -12.412  17.366  1.00  0.00    -0.346 N 
+ATOM     34  C29 LXD A 203      10.822 -10.956  17.412  1.00  0.00     0.146 C 
+ATOM     35  C39 LXD A 203       9.939 -13.081  16.395  1.00  0.00     0.242 C 
+ATOM     36  C30 LXD A 203      12.015 -10.618  18.297  1.00  0.00     0.143 C 
+ATOM     37  O41 LXD A 203       9.823 -14.307  16.432  1.00  0.00    -0.268 OA
+BRANCH  35  38
+ATOM     38  C40 LXD A 203       9.276 -12.299  15.317  1.00  0.00     0.064 C 
+ATOM     39  C42 LXD A 203       7.928 -12.115  15.318  1.00  0.00     0.017 C 
+ENDBRANCH  35  38
+ENDBRANCH  25  30
+BRANCH  27  40
+ATOM     40  N31 LXD A 203      10.142  -8.334  23.348  1.00  0.00    -0.360 N 
+ATOM     41  C32 LXD A 203       9.764  -6.931  23.126  1.00  0.00     0.152 C 
+ATOM     42  C33 LXD A 203       8.245  -6.788  23.093  1.00  0.00     0.254 C 
+ATOM     43  N34 LXD A 203       7.632  -7.382  24.319  1.00  0.00    -0.071 N 
+ATOM     44  C35 LXD A 203       7.963  -8.843  24.422  1.00  0.00     0.259 C 
+ATOM     45  C37 LXD A 203       6.156  -7.165  24.354  1.00  0.00     0.269 C 
+ATOM     46  H   LXD A 203       8.029  -6.906  25.129  1.00  0.00     0.279 HD
+ATOM     47  C36 LXD A 203       9.513  -9.074  24.459  1.00  0.00     0.107 C 
+ATOM     48  C38 LXD A 203      10.134  -8.716  25.805  1.00  0.00     0.034 C 
+ENDBRANCH  27  40
+ENDBRANCH  18  23
+ENDBRANCH   1  16
+TORSDOF 6
+ENDMDL

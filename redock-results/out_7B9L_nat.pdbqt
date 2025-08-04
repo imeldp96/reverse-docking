@@ -1,0 +1,276 @@
+MODEL 1
+REMARK VINA RESULT:    -5.172      0.000      0.000
+REMARK INTER + INTRA:          -6.790
+REMARK INTER:                  -6.381
+REMARK INTRA:                  -0.409
+REMARK UNBOUND:                -0.409
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O2_10 
+REMARK    2  A    between atoms: C8_3  and  C10_4 
+REMARK       I    between atoms: C8_3  and  N7_14 
+REMARK    3  A    between atoms: C10_4  and  C11_5 
+REMARK    4  A    between atoms: C6_13  and  N7_14 
+ROOT
+ATOM      1  C8  T4N A 402     -28.045 -12.544  12.711  1.00  0.00     0.223 C 
+ATOM      2  N7  T4N A 402     -29.288 -12.752  13.237  1.00  0.00    -0.327 N 
+ATOM      3  O9  T4N A 402     -26.978 -12.445  13.304  1.00  0.00    -0.273 OA
+ATOM      4  H   T4N A 402     -30.056 -12.614  12.637  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  C10 T4N A 402     -28.177 -12.477  11.226  1.00  0.00     0.128 C 
+BRANCH   5   6
+ATOM      6  C11 T4N A 402     -27.462 -11.313  10.568  1.00  0.00     0.148 C 
+ATOM      7  C17 T4N A 402     -27.939 -10.005  11.218  1.00  0.00     0.232 C 
+ATOM      8  N16 T4N A 402     -26.901  -9.198  11.666  1.00  0.00    -0.359 N 
+ATOM      9  O18 T4N A 402     -29.121  -9.693  11.301  1.00  0.00    -0.272 OA
+ATOM     10  C15 T4N A 402     -25.896  -8.677  10.760  1.00  0.00     0.132 C 
+ATOM     11  H   T4N A 402     -26.847  -8.974  12.623  1.00  0.00     0.162 HD
+ATOM     12  C14 T4N A 402     -25.035  -9.796  10.199  1.00  0.00     0.094 C 
+ATOM     13  S13 T4N A 402     -25.631 -11.492  10.570  1.00  0.00    -0.153 SA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+BRANCH   2  14
+ATOM     14  C6  T4N A 402     -29.569 -13.141  14.552  1.00  0.00     0.034 A 
+ATOM     15  C19 T4N A 402     -28.849 -14.143  15.233  1.00  0.00     0.032 A 
+ATOM     16  C20 T4N A 402     -29.178 -14.434  16.561  1.00  0.00     0.039 A 
+ATOM     17  C3  T4N A 402     -30.199 -13.698  17.184  1.00  0.00     0.068 A 
+ATOM     18  C4  T4N A 402     -30.890 -12.672  16.522  1.00  0.00     0.039 A 
+ATOM     19  C5  T4N A 402     -30.575 -12.407  15.189  1.00  0.00     0.032 A 
+BRANCH  17  20
+ATOM     20  O2  T4N A 402     -30.536 -13.978  18.485  1.00  0.00    -0.356 OA
+ATOM     21  C1  T4N A 402     -31.899 -14.407  18.468  1.00  0.00     0.210 C 
+ENDBRANCH  17  20
+ENDBRANCH   2  14
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -4.664      1.309      1.430
+REMARK INTER + INTRA:          -6.164
+REMARK INTER:                  -6.019
+REMARK INTRA:                  -0.144
+REMARK UNBOUND:                -0.409
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O2_10 
+REMARK    2  A    between atoms: C8_3  and  C10_4 
+REMARK       I    between atoms: C8_3  and  N7_14 
+REMARK    3  A    between atoms: C10_4  and  C11_5 
+REMARK    4  A    between atoms: C6_13  and  N7_14 
+ROOT
+ATOM      1  C8  T4N A 402     -29.443 -11.785  12.432  1.00  0.00     0.223 C 
+ATOM      2  N7  T4N A 402     -29.424 -13.011  13.033  1.00  0.00    -0.327 N 
+ATOM      3  O9  T4N A 402     -29.833 -10.720  12.895  1.00  0.00    -0.273 OA
+ATOM      4  H   T4N A 402     -29.258 -13.790  12.454  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  C10 T4N A 402     -28.867 -11.932  11.063  1.00  0.00     0.128 C 
+BRANCH   5   6
+ATOM      6  C11 T4N A 402     -27.378 -11.658  10.958  1.00  0.00     0.148 C 
+ATOM      7  C17 T4N A 402     -27.122 -10.175  11.271  1.00  0.00     0.232 C 
+ATOM      8  N16 T4N A 402     -26.158  -9.974  12.250  1.00  0.00    -0.359 N 
+ATOM      9  O18 T4N A 402     -27.693  -9.262  10.686  1.00  0.00    -0.272 OA
+ATOM     10  C15 T4N A 402     -24.794 -10.434  12.083  1.00  0.00     0.132 C 
+ATOM     11  H   T4N A 402     -26.408  -9.505  13.079  1.00  0.00     0.162 HD
+ATOM     12  C14 T4N A 402     -24.730 -11.952  12.065  1.00  0.00     0.094 C 
+ATOM     13  S13 T4N A 402     -26.358 -12.797  11.982  1.00  0.00    -0.153 SA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+BRANCH   2  14
+ATOM     14  C6  T4N A 402     -29.617 -13.261  14.396  1.00  0.00     0.034 A 
+ATOM     15  C19 T4N A 402     -28.827 -14.160  15.138  1.00  0.00     0.032 A 
+ATOM     16  C20 T4N A 402     -29.071 -14.312  16.507  1.00  0.00     0.039 A 
+ATOM     17  C3  T4N A 402     -30.081 -13.540  17.106  1.00  0.00     0.068 A 
+ATOM     18  C4  T4N A 402     -30.842 -12.613  16.379  1.00  0.00     0.039 A 
+ATOM     19  C5  T4N A 402     -30.610 -12.489  15.008  1.00  0.00     0.032 A 
+BRANCH  17  20
+ATOM     20  O2  T4N A 402     -30.334 -13.683  18.447  1.00  0.00    -0.356 OA
+ATOM     21  C1  T4N A 402     -31.592 -14.354  18.553  1.00  0.00     0.210 C 
+ENDBRANCH  17  20
+ENDBRANCH   2  14
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -4.265      1.094      1.572
+REMARK INTER + INTRA:          -5.672
+REMARK INTER:                  -5.981
+REMARK INTRA:                   0.308
+REMARK UNBOUND:                -0.409
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O2_10 
+REMARK    2  A    between atoms: C8_3  and  C10_4 
+REMARK       I    between atoms: C8_3  and  N7_14 
+REMARK    3  A    between atoms: C10_4  and  C11_5 
+REMARK    4  A    between atoms: C6_13  and  N7_14 
+ROOT
+ATOM      1  C8  T4N A 402     -28.541 -12.664  12.765  1.00  0.00     0.223 C 
+ATOM      2  N7  T4N A 402     -28.785 -13.647  13.681  1.00  0.00    -0.327 N 
+ATOM      3  O9  T4N A 402     -29.004 -11.531  12.728  1.00  0.00    -0.273 OA
+ATOM      4  H   T4N A 402     -28.481 -14.555  13.454  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  C10 T4N A 402     -27.558 -13.190  11.774  1.00  0.00     0.128 C 
+BRANCH   5   6
+ATOM      6  C11 T4N A 402     -26.665 -12.144  11.134  1.00  0.00     0.148 C 
+ATOM      7  C17 T4N A 402     -27.541 -10.987  10.626  1.00  0.00     0.232 C 
+ATOM      8  N16 T4N A 402     -27.127  -9.740  11.075  1.00  0.00    -0.359 N 
+ATOM      9  O18 T4N A 402     -28.491 -11.153   9.870  1.00  0.00    -0.272 OA
+ATOM     10  C15 T4N A 402     -25.812  -9.215  10.764  1.00  0.00     0.132 C 
+ATOM     11  H   T4N A 402     -27.743  -9.198  11.619  1.00  0.00     0.162 HD
+ATOM     12  C14 T4N A 402     -24.725 -10.031  11.444  1.00  0.00     0.094 C 
+ATOM     13  S13 T4N A 402     -25.300 -11.584  12.234  1.00  0.00    -0.153 SA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+BRANCH   2  14
+ATOM     14  C6  T4N A 402     -29.427 -13.480  14.914  1.00  0.00     0.034 A 
+ATOM     15  C19 T4N A 402     -30.491 -12.579  15.116  1.00  0.00     0.032 A 
+ATOM     16  C20 T4N A 402     -31.096 -12.513  16.375  1.00  0.00     0.039 A 
+ATOM     17  C3  T4N A 402     -30.642 -13.368  17.393  1.00  0.00     0.068 A 
+ATOM     18  C4  T4N A 402     -29.611 -14.295  17.183  1.00  0.00     0.039 A 
+ATOM     19  C5  T4N A 402     -28.993 -14.335  15.932  1.00  0.00     0.032 A 
+BRANCH  17  20
+ATOM     20  O2  T4N A 402     -31.224 -13.309  18.635  1.00  0.00    -0.356 OA
+ATOM     21  C1  T4N A 402     -32.113 -14.425  18.719  1.00  0.00     0.210 C 
+ENDBRANCH  17  20
+ENDBRANCH   2  14
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -3.821      1.761      1.920
+REMARK INTER + INTRA:          -5.124
+REMARK INTER:                  -4.658
+REMARK INTRA:                  -0.467
+REMARK UNBOUND:                -0.409
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O2_10 
+REMARK    2  A    between atoms: C8_3  and  C10_4 
+REMARK       I    between atoms: C8_3  and  N7_14 
+REMARK    3  A    between atoms: C10_4  and  C11_5 
+REMARK    4  A    between atoms: C6_13  and  N7_14 
+ROOT
+ATOM      1  C8  T4N A 402     -28.772 -13.200  12.639  1.00  0.00     0.223 C 
+ATOM      2  N7  T4N A 402     -29.084 -12.441  13.730  1.00  0.00    -0.327 N 
+ATOM      3  O9  T4N A 402     -28.788 -14.420  12.536  1.00  0.00    -0.273 OA
+ATOM      4  H   T4N A 402     -28.834 -11.489  13.698  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  C10 T4N A 402     -28.413 -12.278  11.521  1.00  0.00     0.128 C 
+BRANCH   5   6
+ATOM      6  C11 T4N A 402     -27.201 -11.402  11.773  1.00  0.00     0.148 C 
+ATOM      7  C17 T4N A 402     -25.989 -12.009  11.050  1.00  0.00     0.232 C 
+ATOM      8  N16 T4N A 402     -25.326 -11.109  10.226  1.00  0.00    -0.359 N 
+ATOM      9  O18 T4N A 402     -25.628 -13.169  11.214  1.00  0.00    -0.272 OA
+ATOM     10  C15 T4N A 402     -24.724  -9.898  10.749  1.00  0.00     0.132 C 
+ATOM     11  H   T4N A 402     -25.262 -11.299   9.262  1.00  0.00     0.162 HD
+ATOM     12  C14 T4N A 402     -25.787  -8.939  11.259  1.00  0.00     0.094 C 
+ATOM     13  S13 T4N A 402     -27.484  -9.634  11.343  1.00  0.00    -0.153 SA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+BRANCH   2  14
+ATOM     14  C6  T4N A 402     -29.727 -12.892  14.888  1.00  0.00     0.034 A 
+ATOM     15  C19 T4N A 402     -29.275 -13.991  15.646  1.00  0.00     0.032 A 
+ATOM     16  C20 T4N A 402     -29.962 -14.341  16.813  1.00  0.00     0.039 A 
+ATOM     17  C3  T4N A 402     -31.067 -13.568  17.208  1.00  0.00     0.068 A 
+ATOM     18  C4  T4N A 402     -31.494 -12.449  16.478  1.00  0.00     0.039 A 
+ATOM     19  C5  T4N A 402     -30.821 -12.124  15.301  1.00  0.00     0.032 A 
+BRANCH  17  20
+ATOM     20  O2  T4N A 402     -31.754 -13.905  18.348  1.00  0.00    -0.356 OA
+ATOM     21  C1  T4N A 402     -30.772 -14.291  19.314  1.00  0.00     0.210 C 
+ENDBRANCH  17  20
+ENDBRANCH   2  14
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -2.728      1.210      1.266
+REMARK INTER + INTRA:          -3.775
+REMARK INTER:                  -3.710
+REMARK INTRA:                  -0.065
+REMARK UNBOUND:                -0.409
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O2_10 
+REMARK    2  A    between atoms: C8_3  and  C10_4 
+REMARK       I    between atoms: C8_3  and  N7_14 
+REMARK    3  A    between atoms: C10_4  and  C11_5 
+REMARK    4  A    between atoms: C6_13  and  N7_14 
+ROOT
+ATOM      1  C8  T4N A 402     -27.273 -13.372  11.922  1.00  0.00     0.223 C 
+ATOM      2  N7  T4N A 402     -28.325 -12.708  12.483  1.00  0.00    -0.327 N 
+ATOM      3  O9  T4N A 402     -26.593 -14.266  12.411  1.00  0.00    -0.273 OA
+ATOM      4  H   T4N A 402     -28.633 -11.891  12.028  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  C10 T4N A 402     -27.074 -12.840  10.542  1.00  0.00     0.128 C 
+BRANCH   5   6
+ATOM      6  C11 T4N A 402     -26.610 -11.398  10.468  1.00  0.00     0.148 C 
+ATOM      7  C17 T4N A 402     -27.758 -10.482  10.920  1.00  0.00     0.232 C 
+ATOM      8  N16 T4N A 402     -27.394  -9.587  11.917  1.00  0.00    -0.359 N 
+ATOM      9  O18 T4N A 402     -28.877 -10.520  10.422  1.00  0.00    -0.272 OA
+ATOM     10  C15 T4N A 402     -26.352  -8.600  11.712  1.00  0.00     0.132 C 
+ATOM     11  H   T4N A 402     -27.855  -9.623  12.786  1.00  0.00     0.162 HD
+ATOM     12  C14 T4N A 402     -24.996  -9.265  11.551  1.00  0.00     0.094 C 
+ATOM     13  S13 T4N A 402     -25.043 -11.092  11.383  1.00  0.00    -0.153 SA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+BRANCH   2  14
+ATOM     14  C6  T4N A 402     -29.006 -13.082  13.648  1.00  0.00     0.034 A 
+ATOM     15  C19 T4N A 402     -28.610 -14.162  14.462  1.00  0.00     0.032 A 
+ATOM     16  C20 T4N A 402     -29.331 -14.433  15.629  1.00  0.00     0.039 A 
+ATOM     17  C3  T4N A 402     -30.413 -13.603  15.968  1.00  0.00     0.068 A 
+ATOM     18  C4  T4N A 402     -30.783 -12.503  15.181  1.00  0.00     0.039 A 
+ATOM     19  C5  T4N A 402     -30.076 -12.256  14.004  1.00  0.00     0.032 A 
+BRANCH  17  20
+ATOM     20  O2  T4N A 402     -31.132 -13.862  17.108  1.00  0.00    -0.356 OA
+ATOM     21  C1  T4N A 402     -30.328 -13.419  18.204  1.00  0.00     0.210 C 
+ENDBRANCH  17  20
+ENDBRANCH   2  14
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -2.396      2.985      7.523
+REMARK INTER + INTRA:          -3.365
+REMARK INTER:                  -3.407
+REMARK INTRA:                   0.042
+REMARK UNBOUND:                -0.409
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_2  and  O2_10 
+REMARK    2  A    between atoms: C8_3  and  C10_4 
+REMARK       I    between atoms: C8_3  and  N7_14 
+REMARK    3  A    between atoms: C10_4  and  C11_5 
+REMARK    4  A    between atoms: C6_13  and  N7_14 
+ROOT
+ATOM      1  C8  T4N A 402     -29.405 -13.388  14.143  1.00  0.00     0.223 C 
+ATOM      2  N7  T4N A 402     -29.189 -12.397  13.230  1.00  0.00    -0.327 N 
+ATOM      3  O9  T4N A 402     -28.784 -14.434  14.287  1.00  0.00    -0.273 OA
+ATOM      4  H   T4N A 402     -29.897 -11.720  13.129  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   1   5
+ATOM      5  C10 T4N A 402     -30.554 -12.981  15.005  1.00  0.00     0.128 C 
+BRANCH   5   6
+ATOM      6  C11 T4N A 402     -30.769 -13.837  16.238  1.00  0.00     0.148 C 
+ATOM      7  C17 T4N A 402     -29.711 -13.469  17.290  1.00  0.00     0.232 C 
+ATOM      8  N16 T4N A 402     -30.248 -13.162  18.533  1.00  0.00    -0.359 N 
+ATOM      9  O18 T4N A 402     -28.508 -13.479  17.057  1.00  0.00    -0.272 OA
+ATOM     10  C15 T4N A 402     -31.026 -14.125  19.287  1.00  0.00     0.132 C 
+ATOM     11  H   T4N A 402     -30.096 -12.266  18.913  1.00  0.00     0.162 HD
+ATOM     12  C14 T4N A 402     -32.338 -14.433  18.586  1.00  0.00     0.094 C 
+ATOM     13  S13 T4N A 402     -32.489 -13.753  16.888  1.00  0.00    -0.153 SA
+ENDBRANCH   5   6
+ENDBRANCH   1   5
+BRANCH   2  14
+ATOM     14  C6  T4N A 402     -28.054 -12.255  12.423  1.00  0.00     0.034 A 
+ATOM     15  C19 T4N A 402     -27.449 -13.331  11.744  1.00  0.00     0.032 A 
+ATOM     16  C20 T4N A 402     -26.341 -13.082  10.928  1.00  0.00     0.039 A 
+ATOM     17  C3  T4N A 402     -25.881 -11.762  10.789  1.00  0.00     0.068 A 
+ATOM     18  C4  T4N A 402     -26.507 -10.684  11.431  1.00  0.00     0.039 A 
+ATOM     19  C5  T4N A 402     -27.595 -10.944  12.266  1.00  0.00     0.032 A 
+BRANCH  17  20
+ATOM     20  O2  T4N A 402     -24.791 -11.505   9.995  1.00  0.00    -0.356 OA
+ATOM     21  C1  T4N A 402     -24.847 -10.115   9.667  1.00  0.00     0.210 C 
+ENDBRANCH  17  20
+ENDBRANCH   2  14
+TORSDOF 4
+ENDMDL

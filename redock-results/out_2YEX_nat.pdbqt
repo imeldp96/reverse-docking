@@ -1,0 +1,494 @@
+MODEL 1
+REMARK VINA RESULT:    -6.876      0.000      0.000
+REMARK INTER + INTRA:          -7.579
+REMARK INTER:                  -7.278
+REMARK INTRA:                  -0.301
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.373  36.031   9.702  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       2.535  36.338   9.025  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       1.846  37.719  11.284  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.003  36.719  10.838  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.386  37.343   9.467  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.024  38.032  10.620  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.358  38.668   9.232  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       4.562  37.645   8.771  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       4.937  39.340  10.363  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       3.700  39.895  12.145  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.018  36.907   7.555  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       5.578  40.388  10.917  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       6.445  40.830  10.609  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       4.759  40.739  12.040  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       3.830  39.017  11.051  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       2.809  39.888  12.983  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       4.939  41.489  12.652  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278      -0.225  36.380  11.565  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -0.909  37.101  12.518  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -2.067  36.371  12.875  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -2.069  35.220  12.142  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278      -0.954  35.238  11.358  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278      -0.706  34.525  10.726  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.820      2.342      3.380
+REMARK INTER + INTRA:          -7.520
+REMARK INTER:                  -7.212
+REMARK INTRA:                  -0.308
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.371  38.456  12.529  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       2.566  38.989  12.093  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       1.396  36.928  10.729  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       0.767  37.411  11.861  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.203  38.507  10.958  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       2.592  37.462  10.273  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.022  38.526   9.412  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       4.416  39.057  10.526  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       4.390  37.469   8.786  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       2.848  35.913   8.326  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.089  40.208  11.200  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       4.871  36.812   7.712  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       5.738  36.987   7.205  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       3.880  35.810   7.450  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       3.206  36.974   9.180  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       1.831  35.236   8.391  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       3.940  35.139   6.732  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278      -0.511  36.855  12.317  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -1.309  37.241  13.371  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -2.468  36.429  13.366  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -2.357  35.562  12.317  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278      -1.174  35.830  11.695  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278      -0.840  35.350  10.903  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.719      1.456      1.743
+REMARK INTER + INTRA:          -7.413
+REMARK INTER:                  -7.107
+REMARK INTRA:                  -0.307
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.975  37.267  10.289  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       3.158  37.500   9.620  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       2.649  38.750  11.999  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.694  37.893  11.486  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       4.120  38.363  10.130  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.848  38.986  11.342  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       6.227  39.475   9.971  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       5.317  38.591   9.440  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       5.894  40.091  11.162  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       4.742  40.625  13.006  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.677  37.913   8.158  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       6.653  41.010  11.791  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       7.561  41.378  11.505  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       5.888  41.352  12.954  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       4.763  39.836  11.840  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       3.863  40.645  13.857  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       6.156  42.022  13.623  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       0.442  37.631  12.204  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -0.496  36.643  12.001  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -1.499  36.780  12.989  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -1.162  37.845  13.772  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278       0.009  38.349  13.288  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278       0.480  39.125  13.667  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.582      2.342      3.389
+REMARK INTER + INTRA:          -7.268
+REMARK INTER:                  -6.961
+REMARK INTRA:                  -0.308
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.972  38.635  12.305  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       3.190  39.106  11.860  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       1.900  37.115  10.499  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.308  37.626  11.637  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.791  38.595  10.717  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.120  37.587  10.034  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.596  38.524   9.156  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       5.028  39.082  10.277  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       4.903  37.504   8.532  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       3.276  36.034   8.080  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.767  40.193  10.949  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       5.339  36.827   7.452  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       6.210  36.958   6.937  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       4.294  35.880   7.195  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       3.697  37.071   8.935  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       2.225  35.412   8.151  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       4.312  35.209   6.474  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       0.006  37.138  12.103  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -0.743  37.534  13.189  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -1.952  36.800  13.180  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -1.921  35.969  12.098  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278      -0.736  36.182  11.459  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278      -0.451  35.713  10.642  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -6.574      2.371      3.391
+REMARK INTER + INTRA:          -7.260
+REMARK INTER:                  -6.953
+REMARK INTRA:                  -0.307
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.963  38.582  12.143  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       3.164  39.108  11.715  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       1.998  37.042  10.353  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.361  37.535  11.475  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.810  38.615  10.588  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.201  37.569   9.904  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.644  38.618   9.060  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       5.029  39.158  10.165  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       5.013  37.559   8.435  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       3.468  36.006   7.970  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.701  40.310  10.837  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       5.501  36.893   7.370  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       6.374  37.062   6.869  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       4.508  35.893   7.105  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       3.823  37.071   8.821  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       2.448  35.334   8.029  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       4.572  35.217   6.392  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       0.077  36.988  11.924  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -0.834  37.506  12.817  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -1.944  36.631  12.871  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -1.693  35.596  12.018  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278      -0.472  35.823  11.455  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278      -0.043  35.230  10.798  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -6.480      1.244      1.436
+REMARK INTER + INTRA:          -7.160
+REMARK INTER:                  -6.852
+REMARK INTRA:                  -0.308
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.830  36.975  10.076  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       2.992  37.186   9.364  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       2.553  38.514  11.714  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.585  37.640  11.259  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.968  38.065   9.815  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.732  38.728  11.014  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       6.068  39.173   9.555  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       5.144  38.271   9.082  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       5.770  39.828  10.735  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       4.674  40.422  12.594  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.465  37.551   7.813  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       6.547  40.768  11.309  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       7.445  41.126  10.984  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       5.816  41.148  12.483  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       4.661  39.595  11.454  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       3.821  40.471  13.470  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       6.104  41.840  13.121  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       0.356  37.402  12.022  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -0.677  36.525  11.772  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -1.608  36.629  12.832  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -1.135  37.566  13.705  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278       0.048  38.023  13.205  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278       0.607  38.709  13.636  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -6.204      2.404      3.407
+REMARK INTER + INTRA:          -6.868
+REMARK INTER:                  -6.561
+REMARK INTRA:                  -0.307
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.838  38.250  12.168  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       3.038  38.799  11.765  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       1.851  36.836  10.277  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.226  37.253  11.436  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.671  38.382  10.602  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.052  37.387   9.854  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.492  38.481   9.061  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       4.889  38.947  10.205  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       4.851  37.470   8.371  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       3.296  35.958   7.816  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.572  40.049  10.949  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       5.327  36.876   7.259  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       6.196  37.075   6.763  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       4.328  35.900   6.935  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       3.662  36.962   8.734  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       2.273  35.287   7.839  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       4.382  35.274   6.178  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278      -0.057  36.682  11.857  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -0.934  37.113  12.828  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -2.059  36.256  12.817  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -1.851  35.317  11.848  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278      -0.641  35.585  11.279  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278      -0.241  35.060  10.549  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -6.154      1.126      1.311
+REMARK INTER + INTRA:          -6.815
+REMARK INTER:                  -6.507
+REMARK INTRA:                  -0.308
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.718  36.416   9.737  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       2.834  36.502   8.931  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       2.574  38.138  11.108  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.563  37.237  10.835  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.853  37.407   9.199  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.708  38.228  10.312  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.949  38.416   8.663  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       4.980  37.485   8.372  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       5.742  39.228   9.761  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       4.782  40.089  11.591  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.205  36.596   7.192  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       6.571  40.214  10.156  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       7.452  40.503   9.730  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       5.927  40.763  11.313  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       4.679  39.120  10.574  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       3.990  40.274  12.505  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       6.268  41.526  11.834  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       0.383  37.133  11.699  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -0.666  36.242  11.649  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -1.529  36.517  12.736  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -0.999  37.569  13.425  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278       0.152  37.931  12.789  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278       0.738  38.667  13.076  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -5.983      2.375      3.381
+REMARK INTER + INTRA:          -6.634
+REMARK INTER:                  -6.328
+REMARK INTRA:                  -0.306
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.796  38.620  11.987  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       3.005  39.165  11.609  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       1.993  36.998  10.282  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       1.271  37.522  11.336  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.737  38.641  10.551  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       3.206  37.543   9.884  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.664  38.632   9.143  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       4.964  39.203  10.179  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       5.108  37.524   8.533  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       3.645  35.899   8.051  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       5.555  40.409  10.833  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       5.683  36.825   7.536  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       6.581  36.998   7.083  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       4.741  35.780   7.259  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       3.911  37.015   8.868  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       2.644  35.196   8.080  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       4.872  35.073   6.586  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278      -0.023  36.954  11.730  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -1.033  37.510  12.482  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -2.102  36.585  12.535  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -1.728  35.483  11.822  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278      -0.473  35.719  11.343  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278       0.041  35.085  10.792  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -5.861      0.865      1.004
+REMARK INTER + INTRA:          -6.504
+REMARK INTER:                  -6.197
+REMARK INTRA:                  -0.308
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.188  36.461  10.070  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       2.357  36.745   9.395  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       1.745  38.067  11.710  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       0.857  37.121  11.235  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       3.254  37.695   9.866  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       2.930  38.354  11.047  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       5.279  38.943   9.662  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       4.437  37.974   9.171  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       4.895  39.590  10.822  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       3.696  40.129  12.634  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       4.851  37.263   7.924  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       5.584  40.589  11.408  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       6.467  41.005  11.109  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       4.789  40.930  12.551  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       3.781  39.289  11.507  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       2.813  40.128  13.480  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       5.006  41.649  13.189  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278      -0.379  36.807  11.959  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278      -1.386  35.926  11.635  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278      -2.337  35.940  12.683  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278      -1.900  36.829  13.622  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278      -0.720  37.344  13.173  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278      -0.185  38.013  13.658  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 11
+REMARK VINA RESULT:    -5.366      1.970      5.287
+REMARK INTER + INTRA:          -5.980
+REMARK INTER:                  -5.683
+REMARK INTRA:                  -0.298
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       1.803  35.628   9.251  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       0.728  35.663  10.115  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       2.747  37.493  10.349  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       2.835  36.536   9.356  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       0.634  36.621  11.116  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       1.666  37.547  11.218  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278      -0.496  37.595  12.979  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278      -0.462  36.645  11.986  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       0.569  38.472  13.057  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       2.498  39.490  12.554  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278      -1.617  35.702  11.890  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       0.709  39.430  13.994  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278       0.074  39.660  14.759  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       1.957  40.053  13.665  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       1.597  38.470  12.193  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       3.543  39.775  11.985  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       2.367  40.789  14.175  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       3.969  36.507   8.427  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278       4.761  37.539   7.975  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278       5.759  36.992   7.135  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278       5.559  35.643   7.083  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278       4.478  35.365   7.865  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278       4.111  34.463   8.008  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 12
+REMARK VINA RESULT:    -5.021      1.743      5.615
+REMARK INTER + INTRA:          -5.616
+REMARK INTER:                  -5.317
+REMARK INTRA:                  -0.298
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       4.598  38.605  10.532  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       3.882  37.708   9.765  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       2.876  38.598  12.148  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       4.112  39.060  11.740  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       2.640  37.239  10.171  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       2.140  37.704  11.382  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278       0.711  35.871   9.841  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278       1.924  36.328   9.383  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       0.275  36.341  11.065  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       0.223  37.507  12.975  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278       2.396  35.833   8.056  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278      -0.867  35.961  11.671  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278      -1.568  35.300  11.335  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278      -0.868  36.702  12.898  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       0.946  37.246  11.795  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       0.538  38.281  13.868  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278      -1.565  36.637  13.591  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       4.867  40.025  12.546  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278       4.413  40.963  13.446  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278       5.537  41.614  14.007  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278       6.653  41.070  13.441  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278       6.235  40.114  12.562  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278       6.836  39.562  12.013  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
+MODEL 13
+REMARK VINA RESULT:    -4.437      1.927      5.435
+REMARK INTER + INTRA:          -4.997
+REMARK INTER:                  -4.693
+REMARK INTRA:                  -0.305
+REMARK UNBOUND:                -0.301
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_7  and  C3_10 
+ROOT
+ATOM      1  C7  YEX A1278       2.084  35.800   8.874  1.00  0.00     0.014 A 
+ATOM      2  C8  YEX A1278       0.974  35.702   9.685  1.00  0.00     0.015 A 
+ATOM      3  C19 YEX A1278       2.865  37.620  10.162  1.00  0.00     0.044 A 
+ATOM      4  C6  YEX A1278       3.054  36.755   9.101  1.00  0.00    -0.007 A 
+ATOM      5  C9  YEX A1278       0.779  36.566  10.754  1.00  0.00    -0.003 A 
+ATOM      6  C18 YEX A1278       1.747  37.539  10.980  1.00  0.00     0.057 A 
+ATOM      7  C11 YEX A1278      -0.488  37.316  12.634  1.00  0.00     0.058 A 
+ATOM      8  C10 YEX A1278      -0.353  36.455  11.571  1.00  0.00    -0.046 A 
+ATOM      9  C12 YEX A1278       0.517  38.243  12.833  1.00  0.00     0.131 A 
+ATOM     10  C15 YEX A1278       2.400  39.409  12.505  1.00  0.00     0.347 A 
+ATOM     11  C20 YEX A1278      -1.443  35.458  11.345  1.00  0.00     0.049 C 
+ATOM     12  N13 YEX A1278       0.558  39.128  13.848  1.00  0.00    -0.281 N 
+ATOM     13  H13 YEX A1278      -0.122  39.256  14.598  1.00  0.00     0.188 HD
+ATOM     14  N14 YEX A1278       1.779  39.847  13.631  1.00  0.00    -0.249 N 
+ATOM     15  N17 YEX A1278       1.579  38.373  12.021  1.00  0.00    -0.246 N 
+ATOM     16  O16 YEX A1278       3.449  39.801  12.011  1.00  0.00    -0.245 OA
+ATOM     17  H   YEX A1278       2.120  40.560  14.217  1.00  0.00     0.192 HD
+ENDROOT
+BRANCH   4  18
+ATOM     18  C3  YEX A1278       4.226  36.868   8.227  1.00  0.00     0.042 A 
+ATOM     19  C2  YEX A1278       4.783  35.936   7.380  1.00  0.00     0.031 A 
+ATOM     20  C1  YEX A1278       5.872  36.544   6.712  1.00  0.00     0.019 A 
+ATOM     21  C5  YEX A1278       5.966  37.828   7.162  1.00  0.00     0.088 A 
+ATOM     22  N4  YEX A1278       4.969  38.010   8.075  1.00  0.00    -0.365 N 
+ATOM     23  H   YEX A1278       4.805  38.851   8.560  1.00  0.00     0.165 HD
+ENDBRANCH   4  18
+TORSDOF 1
+ENDMDL
